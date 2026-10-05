@@ -1,0 +1,1 @@
+window.WLW_SYNOPSIS_TRANSLATIONS = {};

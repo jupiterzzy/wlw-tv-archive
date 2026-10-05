@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta
+      name="description"
+      content="查看演员在 WLW TV Archive 中出演的电视剧。"
+    />
+    <title>演员 · WLW TV Archive</title>
+
+    <link
+      rel="stylesheet"
+      href="./styles.css"
+    />
+    <link
+      rel="stylesheet"
+      href="./listing.css"
+    />
+  </head>
+
+  <body class="listing-page">
+    <header class="listing-header">
+      <a href="./index.html">
+        WLW TV ARCHIVE
+      </a>
+
+      <nav>
+        <a
+          href="./index.html"
+          id="person-back"
+        >
+          返回
+        </a>
+      </nav>
+    </header>
+
+    <main class="listing-main">
+      <div class="listing-title-row">
+        <h1 id="person-name">
+          正在读取演员资料…
+        </h1>
+      </div>
+
+      <p
+        id="person-summary"
+        hidden
+      ></p>
+
+      <p
+        id="person-error"
+        hidden
+      ></p>
+
+      <div
+        class="listing-grid"
+        id="person-movies"
+      ></div>
+    </main>
+
+    <template id="person-movie-template">
+      <article class="movie-card">
+        <a
+          class="poster-link"
+          href="#"
+          aria-label="电视剧详情"
+        >
+          <span
+            class="poster-placeholder"
+            aria-hidden="true"
+          >
+            IMAGE
+          </span>
+        </a>
+
+        <div class="movie-copy">
+          <h3>
+            <a href="#"></a>
+          </h3>
+
+          <p class="movie-meta"></p>
+        </div>
+      </article>
+    </template>
+
+    <script src="./catalog-data.js"></script>
+    <script src="./movie-metadata.js"></script>
+    <script src="./movie-data-utils.js"></script>
+    <script src="./tmdb-details.generated.js"></script>
+    <script src="./person.js"></script>
+  </body>
+</html>

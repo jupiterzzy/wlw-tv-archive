@@ -1,0 +1,333 @@
+.listing-page { min-height:100vh; background:var(--paper); }
+.listing-header { display:flex; justify-content:space-between; align-items:center; width:min(var(--content-max,82rem),100%); margin:0 auto; padding:1.25rem clamp(1rem,4vw,4rem); border-bottom:1px solid var(--line); }
+.listing-header a { text-decoration:none; font-size:.82rem; font-weight:800; letter-spacing:.1em; }
+.listing-header nav { display:flex; gap:.55rem; }
+.listing-header nav a { padding:.52rem .68rem; border:1px solid var(--ink); border-radius:.3rem; letter-spacing:0; }
+.listing-main { width:min(var(--content-max,82rem),100%); margin:0 auto; padding:clamp(2.5rem,6vw,5rem) clamp(1rem,4vw,4rem) 5rem; }
+.listing-title-row { display:flex; justify-content:space-between; align-items:end; gap:1rem; margin-bottom:2rem; padding-bottom:1rem; border-bottom:1px solid var(--line); }
+.listing-title-row h1 { margin:0; font-family:Georgia,"Times New Roman",serif; font-size:clamp(3.2rem,8vw,6.5rem); font-weight:500; line-height:.9; }
+.listing-title-row p { margin:0; color:var(--muted); white-space:nowrap; }
+.country-title-row { justify-content:flex-start; align-items:baseline; gap:clamp(.9rem,3vw,2rem); }
+.country-title-row .listing-subtitle { font-size:clamp(1.25rem,3.2vw,2.35rem); font-weight:650; letter-spacing:.02em; }
+.listing-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1rem, 2.2vw, 2rem);
+}
+
+/* 平板竖屏 */
+@media (min-width: 600px) {
+  .listing-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* 较宽平板竖屏 / 小尺寸横屏 */
+@media (min-width: 760px) {
+  .listing-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+/* 平板横屏 / 笔记本 */
+@media (min-width: 1024px) {
+  .listing-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+/* 大电脑屏幕 */
+@media (min-width: 1440px) {
+  .listing-grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}
+.listing-grid .movie-card { min-width:0; }
+.listing-grid .poster-link { aspect-ratio:2 / 3; }
+.listing-pagination { display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:.5rem; margin-top:3.2rem; }
+.year-controls {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: .75rem;
+  margin: -.5rem 0 2.4rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.year-controls::-webkit-scrollbar {
+  display: none;
+}
+.sort-button { width:fit-content; padding:.72rem 1rem; border:0; border-radius:.32rem; color:var(--ink); background:transparent; text-decoration:none; font-weight:720; }
+.sort-button:hover,.sort-button:focus-visible,.sort-button.active { color:var(--paper); background:var(--ink); outline:none; }
+.empty-listing { grid-column:1/-1; padding:4rem 1rem; border:1px solid var(--line); text-align:center; color:var(--muted); }
+@media(max-width:38rem){.listing-header{align-items:flex-start}.listing-header nav{flex-direction:column}.listing-main{padding-top:3rem}.listing-title-row{align-items:flex-start;flex-direction:column}.listing-title-row.country-title-row{align-items:baseline;flex-direction:row;flex-wrap:wrap}.listing-title-row h1{font-size:3.3rem}.country-title-row .listing-subtitle{font-size:1.35rem}.listing-grid{gap:1rem .75rem}.listing-grid .movie-copy h3{font-size:.92rem}.listing-grid .movie-meta{font-size:.7rem}}
+
+/* 体裁 / 年份 / network：
+   桌面设备每页 40 部电视剧，并以 5 × 8 网格显示。
+   该 class 只由 genre.js、year.js、collection.js 添加，
+   因此国家/地区页面和字母页面不会受到影响。 */
+@media (min-width: 1024px) and (hover: hover) and (pointer: fine) {
+  .listing-grid.desktop-six-by-six {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+/* Aesthetic + responsive listing refinements */
+.listing-title-row h1 {
+  position:relative;
+}
+
+.listing-title-row h1::after {
+  content:"";
+  display:block;
+  width:2.75rem;
+  height:2px;
+  margin-top:.72rem;
+  background:var(--accent);
+}
+
+.listing-grid .movie-copy {
+  min-height:5.15rem;
+}
+
+.listing-grid .movie-copy h3 {
+  min-height:2.6em;
+  line-height:1.3;
+}
+
+.listing-grid .movie-copy h3 a {
+  display:-webkit-box;
+  overflow:hidden;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  white-space:normal;
+}
+
+.listing-grid .movie-meta {
+  white-space:normal;
+}
+
+.listing-pagination .letter-button {
+  min-width:1.5rem;
+  min-height:2rem;
+  padding:.28rem .16rem .34rem;
+  border:0;
+  border-bottom:1px solid transparent;
+  border-radius:0;
+  color:var(--muted);
+  background:transparent;
+}
+
+.listing-pagination .letter-button:hover,
+.listing-pagination .letter-button:focus-visible {
+  color:var(--ink);
+  border-bottom-color:rgba(241,236,231,.34);
+  background:transparent;
+}
+
+.listing-pagination .letter-button.active,
+.listing-pagination .letter-button[aria-current="page"] {
+  color:var(--ink);
+  border-bottom:2px solid var(--accent);
+  background:transparent;
+}
+
+.sort-button.active {
+  color:var(--ink);
+  background:transparent;
+  border-color:transparent;
+  border-bottom:2px solid var(--accent);
+  border-radius:0;
+}
+
+@media (min-width:1024px) and (hover:hover) and (pointer:fine) {
+  .listing-grid.desktop-six-by-six {
+    grid-template-columns:repeat(5,minmax(0,1fr));
+  }
+}
+
+.year-title-row h1 {
+  font-size: clamp(2.2rem, 5vw, 4rem);
+  line-height: .95;
+}
+
+@media (max-width: 38rem) {
+  .year-title-row h1 {
+    font-size: 2.2rem;
+  }
+}
+
+.listing-title-row h1.compact-category-title {
+  font-size: clamp(1.6rem, 4vw, 3.25rem);
+}
+
+#listing-subtitle {
+  display: none;
+}
+
+@media (max-width: 38rem) {
+  .listing-page {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .listing-main {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 2.5rem 1rem 4rem;
+    overflow-x: hidden;
+  }
+
+  .listing-title-row {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .listing-grid {
+    display: grid;
+    width: 100%;
+    max-width: 100%;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem .75rem;
+    margin: 0;
+    transform: none;
+  }
+
+  .listing-grid .movie-card {
+    display: block;
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .listing-grid .poster-link {
+    display: block;
+    width: 100%;
+    aspect-ratio: 2 / 3;
+  }
+
+  .listing-grid .poster {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.year-controls > * {
+  flex: 0 0 auto;
+}
+
+.year-range-form {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: .5rem;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+.year-range-label {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: .82rem;
+  font-weight: 650;
+}
+
+.year-range-input {
+  flex: 0 0 auto;
+  width: 5.25rem;
+  height: 2.55rem;
+  padding: 0 .65rem;
+
+  border: 1px solid rgba(241,236,231,.18);
+  border-radius: .35rem;
+
+  color: var(--ink);
+  background: transparent;
+
+  font: inherit;
+  font-size: .82rem;
+  font-weight: 600;
+
+  outline: none;
+}
+
+.year-range-input::placeholder {
+  color: rgba(241,236,231,.30);
+}
+
+.year-range-input:focus {
+  border-color: var(--accent);
+}
+
+.year-range-submit {
+  flex: 0 0 auto;
+  height: 2.55rem;
+  padding: 0 .7rem;
+
+  border: 0;
+  border-bottom: 1px solid transparent;
+
+  color: var(--ink);
+  background: transparent;
+
+  font: inherit;
+  font-size: .82rem;
+  font-weight: 700;
+
+  cursor: pointer;
+}
+
+.year-range-submit:hover,
+.year-range-submit:focus-visible {
+  border-bottom-color: var(--accent);
+  outline: none;
+}
+
+@media (max-width: 38rem) {
+  .year-controls {
+    width: 100%;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    gap: .75rem;
+    padding-bottom: .35rem;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .year-controls::-webkit-scrollbar {
+    display: none;
+  }
+
+  .year-controls .sort-button {
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+
+  .year-range-form {
+    display: flex;
+    flex: 0 0 auto;
+    align-items: center;
+    gap: .45rem;
+    margin-left: 0;
+    white-space: nowrap;
+  }
+
+  .year-range-input {
+    width: 4.8rem;
+    min-width: 4.8rem;
+  }
+
+  .year-range-submit {
+    flex: 0 0 auto;
+  }
+}

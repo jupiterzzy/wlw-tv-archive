@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="浏览 WLW TV Archive 的专题 collections。" />
+    <title>Collections · WLW TV Archive</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./countries.css" />
+  </head>
+  <body class="countries-page">
+    <header class="country-header">
+      <a class="archive-mark" href="./index.html">WLW TV ARCHIVE</a>
+      <a class="back-link" href="./index.html">返回首页</a>
+    </header>
+    <main class="country-main">
+      <div class="country-heading">
+        <p class="country-kicker">BROWSE BY</p>
+        <h1>collections</h1>
+      </div>
+      <div class="region-field collection-field" id="collection-field"></div>
+    </main>
+    <template id="collection-template"><a class="region-crystal" href="#"><span class="country-code"></span></a></template>
+    <script src="./collection-data.js"></script>
+    <script src="./collections.js"></script>
+    <script src="./history-nav.js"></script>
+  </body>
+</html>
