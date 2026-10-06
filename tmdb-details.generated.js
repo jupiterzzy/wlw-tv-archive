@@ -28,6 +28,28 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3sqXMRpidT15QylW6GlQFuGpGCc.jpg",
     "backdropPath": "/6oJtdTvMqpxS9sztOcmlAVdRZDI.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "红粉联盟",
+      "A League of Their Own",
+      "그들만의 리그",
+      "Их собственная лига",
+      "Une équipe hors du commun",
+      "Uma Equipe Muito Especial",
+      "Ellas dan el golpe",
+      "Ich własna liga",
+      "Ragazze vincenti - La serie",
+      "ליגה משלהן",
+      "Їхня власна ліга",
+      "Velké vítězství",
+      "Micsoda csapat",
+      "プリティ・リーグ",
+      "Un equipo muy especial",
+      "Omaa luokkaansa",
+      "紅粉聯盟",
+      "Kızlar Sahada",
+      "Liga feminină de baseball"
+    ],
     "seasons": [
       {
         "id": 158221,
@@ -820,7 +842,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/107005",
-    "fetchedAt": "2026-10-06T05:53:46.953Z"
+    "fetchedAt": "2026-10-06T06:29:06.710Z"
   },
   "Adventure Time": {
     "tmdbId": 15260,
@@ -851,6 +873,53 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
     "backdropPath": "/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+    "alternativeTitles": [
+      "Hora de Aventura com Finn e Jake",
+      "Hora de Aventura",
+      "探险活宝",
+      "Abenteuerzeit mit Finn und Jake",
+      "Eventyrtid",
+      "Hora de Aventuras",
+      "Время приключений с Финном и Джейком",
+      "Час пригод разом із Фіном та Джейком",
+      "Adventure Time with Finn & Jake",
+      "Adventure Time: Stakes",
+      "Adventure time with finn jake"
+    ],
+    "translatedTitles": [
+      "探险活宝",
+      "Adventure Time",
+      "Hora de aventuras",
+      "Hora de Aventuras",
+      "Adventure Time avec Finn et Jake",
+      "Время приключений",
+      "Adventure Time - Abenteuerzeit mit Finn und Jake",
+      "Seikkailuhetki",
+      "Kalandra fel!",
+      "Eventyrtid",
+      "핀과 제이크의 어드벤처 타임",
+      "הרפתקאות פין וג'ייק",
+      "Äventyrsdags",
+      "Hora de Aventura",
+      "Час пригод",
+      "Време за приключения",
+      "Tijd voor avontuur",
+      "探險活寶",
+      "Nuotykių metas",
+      "Sarguzashtlar vaqti",
+      "Čas na dobrodružství",
+      "Să-nceapă aventura",
+      "Pora na przygodę!",
+      "แอดแวนเจอร์ ไทม์",
+      "アドベンチャー・タイム",
+      "Čas na dobrodružstvo",
+      "وقت المغامرة",
+      "Giờ Phiêu Lưu",
+      "თავგადასავლების დრო",
+      "探險時光",
+      "وقت ماجراجویی",
+      "Piedzīvojumu laiks"
+    ],
     "seasons": [
       {
         "id": 26868,
@@ -4764,7 +4833,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15260",
-    "fetchedAt": "2026-10-06T05:53:48.069Z"
+    "fetchedAt": "2026-10-06T06:29:08.153Z"
   },
   "Agatha All Along": {
     "tmdbId": 138501,
@@ -4794,6 +4863,54 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
     "backdropPath": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+    "alternativeTitles": [
+      "Agatha À Chaque Fois par Marvel Television",
+      "女巫阿加莎",
+      "Agatha All Along",
+      "אגתה: לאורך כל הדרך",
+      "אגתה: יומני הדארקהולד",
+      "تمام مدت آگاتا",
+      "Agatha En Todas Partes de Marvel Studios",
+      "Agatha En Todas Partes de Marvel Television",
+      "Аґата увесь час",
+      "Це все Аґата",
+      "Marvel Studios' Agatha",
+      "Agatha: House of Harkness",
+      "Agatha: Coven of Chaos",
+      "Agatha: Darkhold Diaries",
+      "Marvel Studios' Agatha: House of Harkness",
+      "Marvel Studios' Agatha: Coven of Chaos",
+      "Marvel Studios' Agatha: Darkhold Diaries",
+      "Agatha",
+      "Marvel Television's Agatha All Along"
+    ],
+    "translatedTitles": [
+      "Agatha All Along",
+      "Agatha Desde Sempre",
+      "전부 애거사 짓이야",
+      "Это всё Агата",
+      "Agatha, ¿quién si no?",
+      "Agatha en todas partes",
+      "აგათა: ყველა ერთად",
+      "אגתה לאורך כל הדרך",
+      "阿嘉莎無所不在",
+      "Агата през цялото време",
+      "To zawsze Agatha",
+      "Agatha za vším schovaná",
+      "Agatha à chaque fois",
+      "アガサ・オール・アロング",
+      "女巫阿嘉莎",
+      "Mindvégig Agatha",
+      "Foi Sempre a Agatha",
+      "Agatha de la bun început",
+      "Za všetkým hľadaj Agátu",
+      "أغاثا منذ البداية",
+      "อากาธา ออล อะลอง",
+      "آگاتا تمام مدت",
+      "Phù Thủy Agatha",
+      "女巫阿加莎",
+      "Agata visą laiką"
+    ],
     "seasons": [
       {
         "id": 219360,
@@ -5503,7 +5620,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/138501",
-    "fetchedAt": "2026-10-06T05:53:48.302Z"
+    "fetchedAt": "2026-10-06T06:29:08.532Z"
   },
   "ANNE+": {
     "tmdbId": 82835,
@@ -5544,6 +5661,13 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3mlJXXunjkBpYxVlk0brMny87bv.jpg",
     "backdropPath": "/kT4H8vDXevD2pHJcq8wUZwE6VXr.jpg",
+    "alternativeTitles": [
+      "Anne Plus"
+    ],
+    "translatedTitles": [
+      "安妮+",
+      "ANNE+"
+    ],
     "seasons": [
       {
         "id": 110298,
@@ -6119,7 +6243,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/82835",
-    "fetchedAt": "2026-10-06T05:53:48.629Z"
+    "fetchedAt": "2026-10-06T06:29:09.035Z"
   },
   "Arcane": {
     "tmdbId": 94605,
@@ -6150,6 +6274,30 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
     "backdropPath": "/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+    "alternativeTitles": [
+      "英雄联盟：双城之战",
+      "არკეინი",
+      "آرکین : لیگ افسانه ها",
+      "Аркейн: League of Legends",
+      "Лига Легенд",
+      "Arcane: League of Legends",
+      "Arcane Afterglow"
+    ],
+    "translatedTitles": [
+      "英雄联盟：双城之战",
+      "Arcane",
+      "아케인",
+      "Аркейн",
+      "ארקיין",
+      "奧術",
+      "آركين",
+      "アーケイン",
+      "Аркејн",
+      "อาร์เคน: ตำนานลีกออฟเลเจ็นดส์",
+      "Arkayn",
+      "آرکین:  لیگ افسانه ها",
+      "იდუმალი"
+    ],
     "seasons": [
       {
         "id": 134187,
@@ -7530,7 +7678,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/94605",
-    "fetchedAt": "2026-10-06T05:53:48.959Z"
+    "fetchedAt": "2026-10-06T06:29:09.560Z"
   },
   "The Art of Joy": {
     "tmdbId": 242436,
@@ -7559,6 +7707,19 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/r85DN0RFD2fJPgXIha4PwAEl3kG.jpg",
     "backdropPath": "/tkhl1mIahN8Z9YtmWIu8S5HD3C9.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "欢愉的艺术",
+      "L'arte della gioia",
+      "The Art of Joy",
+      "L'Art de la joie",
+      "Umjetnost radosti",
+      "El arte de la felicidad",
+      "歡愉的藝術",
+      "아트 오브 조이",
+      "Nghệ Thuật Của Niềm Vui",
+      "Prieka māksla"
+    ],
     "seasons": [
       {
         "id": 371910,
@@ -7954,7 +8115,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/242436",
-    "fetchedAt": "2026-10-06T05:53:49.188Z"
+    "fetchedAt": "2026-10-06T06:29:09.941Z"
   },
   "Atypical": {
     "tmdbId": 71578,
@@ -7984,6 +8145,30 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/kNif3eZAjQ7qU3Ol9E7zo0kjPMo.jpg",
     "backdropPath": "/uy3yFKKjd2PvrUTHVMjDM8gD0eP.jpg",
+    "alternativeTitles": [
+      "非典型孤独",
+      "Atipico"
+    ],
+    "translatedTitles": [
+      "非典型少年",
+      "Atypical",
+      "Atypowy",
+      "Atípico",
+      "별나도 괜찮아",
+      "Нетипичен",
+      "Atypique",
+      "Άτυπος",
+      "異類",
+      "Нетиповий",
+      "Atypický",
+      "לא טיפוסי",
+      "Нетипичный",
+      "Több, mint normális",
+      "ユニークライフ",
+      "Lập Dị",
+      "เอทิปปิคอล",
+      "Atipic"
+    ],
     "seasons": [
       {
         "id": 88062,
@@ -10349,7 +10534,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/71578",
-    "fetchedAt": "2026-10-06T05:53:49.704Z"
+    "fetchedAt": "2026-10-06T06:29:10.678Z"
   },
   "Babylon Berlin": {
     "tmdbId": 66980,
@@ -10386,6 +10571,24 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
     "backdropPath": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "巴比伦柏林",
+      "Babylon Berlin",
+      "Babylon Berlín",
+      "Берлински Вавилон",
+      "Вавилон-Берлин",
+      "Babilon Berlin",
+      "Babilonas Berlynas",
+      "בבילון ברלין",
+      "巴比倫柏林",
+      "バビロン・ベルリン",
+      "Babilona Berlīne",
+      "바빌론 베를린",
+      "Вавилон-Берлін",
+      "Babülon-Berliin",
+      "بابیلون برلین"
+    ],
     "seasons": [
       {
         "id": 78241,
@@ -14151,7 +14354,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66980",
-    "fetchedAt": "2026-10-06T05:53:50.330Z"
+    "fetchedAt": "2026-10-06T06:29:11.589Z"
   },
   "Bad Behaviour": {
     "tmdbId": 207368,
@@ -14180,6 +14383,15 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/lKEZdbcmeIDGfl0uvxu0yWl0sdX.jpg",
     "backdropPath": "/4mEzCZlvoL9SUXt4hfYGNJGfFti.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "不良行为",
+      "Bad Behaviour",
+      "배드 비해이비어",
+      "Mau Comportamento",
+      "התנהגות רעה",
+      "不良行為"
+    ],
     "seasons": [
       {
         "id": 303275,
@@ -14592,7 +14804,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/207368",
-    "fetchedAt": "2026-10-06T05:53:50.556Z"
+    "fetchedAt": "2026-10-06T06:29:11.975Z"
   },
   "The Beast in Me": {
     "tmdbId": 250504,
@@ -14622,6 +14834,38 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
     "backdropPath": "/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+    "alternativeTitles": [
+      "La bête en moi"
+    ],
+    "translatedTitles": [
+      "兽藏我心",
+      "The Beast in Me",
+      "Bestia din mine",
+      "O Monstro em Mim",
+      "내 안의 괴물",
+      "Звір у мені",
+      "La bête en moi",
+      "อสูรร้ายในใจเรา",
+      "Чудовище внутри меня",
+      "وحش يسكن روحي",
+      "獸藏我心",
+      "Zvijer u meni",
+      "To monstrum ve mně",
+      "Το Τέρας Μέσα Μου",
+      "द बीस्ट इन मी",
+      "החיה שבתוכי",
+      "A bennem lakozó fenevad",
+      "BEAST －私のなかの獣－",
+      "Bestia we mnie",
+      "La bestia en mí",
+      "Con thú trong tôi",
+      "Звярът в мен",
+      "La bèstia en mi",
+      "Zver v meni",
+      "მხეცი ჩემში",
+      "هیولای درون من",
+      "Žvėris manyje"
+    ],
     "seasons": [
       {
         "id": 385988,
@@ -15671,7 +15915,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/250504",
-    "fetchedAt": "2026-10-06T05:53:50.784Z"
+    "fetchedAt": "2026-10-06T06:29:12.360Z"
   },
   "Black Mirror": {
     "tmdbId": 42009,
@@ -15708,6 +15952,55 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
     "backdropPath": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "alternativeTitles": [
+      "بلاك ميرور",
+      "Qara güzgü",
+      "Черното огледало",
+      "Чорнае люстэрка",
+      "黑鏡",
+      "Ispilu Beltza",
+      "Espejo negro",
+      "Miroir noir",
+      "შავი სარკე",
+      "מראה שחורה",
+      "ブラック・ミラー",
+      "블랙 미러",
+      "Juodasis veidrodis",
+      "Црно огледало",
+      "Czarne lustro",
+      "Црно Огледало",
+      "Чёрное зеркало",
+      "Neynika Reş",
+      "Kara Ayna",
+      "Чорне дзеркало"
+    ],
+    "translatedTitles": [
+      "黑镜",
+      "Black Mirror",
+      "Černé zrcadlo",
+      "Fekete tükör",
+      "Черное зеркало",
+      "Μαύρος Καθρέφτης",
+      "מראה שחורה",
+      "Oglinda neagră",
+      "Czarne lustro",
+      "黑鏡",
+      "Чорне дзеркало",
+      "블랙 미러",
+      "Црно огледало",
+      "Черно огледало",
+      "Juodasis Veidrodis",
+      "آیینه سیاه",
+      "შავი სარკე",
+      "แบล็ก มิร์เรอร์",
+      "ブラック・ミラー",
+      "Gương đen",
+      "Crno zrcalo",
+      "Črno ogledalo",
+      "المرآة السوداء",
+      "Tume peegeldus",
+      "Melnais spogulis"
+    ],
     "seasons": [
       {
         "id": 51964,
@@ -22440,7 +22733,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/42009",
-    "fetchedAt": "2026-10-06T05:53:51.601Z"
+    "fetchedAt": "2026-10-06T06:29:13.436Z"
   },
   "Blue Lisbon": {
     "tmdbId": 132956,
@@ -22470,6 +22763,12 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/l0OYnDL8cZo3NyF8z7E7X7Ry2tY.jpg",
     "backdropPath": "/7fQrCsu2GhAzA8wYioQhmHK57SC.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "蓝色里斯本",
+      "Lisboa Azul",
+      "Blue Lisbon"
+    ],
     "seasons": [
       {
         "id": 209657,
@@ -22661,7 +22960,7 @@ window.WLW_TMDB_DETAILS = {
     ],
     "crew": [],
     "tmdbUrl": "https://www.themoviedb.org/tv/132956",
-    "fetchedAt": "2026-10-06T05:53:51.832Z"
+    "fetchedAt": "2026-10-06T06:29:13.860Z"
   },
   "Bridgerton": {
     "tmdbId": 91239,
@@ -22690,6 +22989,58 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
     "backdropPath": "/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+    "alternativeTitles": [
+      "布里杰顿家族",
+      "布里奇顿",
+      "Bridgertonovi",
+      "Los Bridgerton",
+      "La Chronique des Bridgerton",
+      "Μπρίτζερτον",
+      "A Bridgerton család",
+      "ברידג'רטון",
+      "ब्रिजरटन खानदान",
+      "బ్రిడ్జర్జన్",
+      "ブリジャートン家",
+      "브리저튼",
+      "பிரிட்ஜெர்டன்",
+      "Familien Bridgerton",
+      "Bridgertonowie",
+      "Бриджертоны",
+      "بریجرتن",
+      "Familjen Bridgerton",
+      "บริดเจอร์ตัน: วังวนรัก เกมไฮโซ",
+      "Бріджертони",
+      "Dòng Tộc Bridgerton",
+      "Gia Tộc Bridgerton",
+      "Nhà Bridgerton"
+    ],
+    "translatedTitles": [
+      "布里杰顿家族",
+      "Bridgerton",
+      "La Chronique des Bridgerton",
+      "Бриджертоны",
+      "Bridgertonovi",
+      "Los Bridgerton",
+      "브리저튼",
+      "A Bridgerton család",
+      "Μπρίτζερτον",
+      "Familjen Bridgerton",
+      "柏捷頓家族：名門韻事",
+      "ברידג'רטון",
+      "Bridgertonowie",
+      "Бріджертони",
+      "ブリジャートン家",
+      "Bridžertonų kronikos",
+      "بریجرتن",
+      "บริดเจอร์ตัน: วังวนรัก เกมไฮโซ",
+      "ბრიჯერტონი",
+      "بريدجرتون",
+      "ब्रिजरटन खानदान",
+      "Familien Bridgerton",
+      "Бриджъртън",
+      "Bridžertona",
+      "برجرٹن خاندان"
+    ],
     "seasons": [
       {
         "id": 127918,
@@ -26406,7 +26757,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91239",
-    "fetchedAt": "2026-10-06T05:53:52.442Z"
+    "fetchedAt": "2026-10-06T06:29:14.728Z"
   },
   "The Buccaneers": {
     "tmdbId": 213338,
@@ -26435,6 +26786,35 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/vbbZRlzz41JQjBOT9OEKHgonhZ3.jpg",
     "backdropPath": "/xwFeuZJxr1R7pV9uTbCTL8tPJyc.jpg",
+    "alternativeTitles": [
+      "Авантюристките",
+      "海盗佳丽",
+      "上流海盗",
+      "浮华年代",
+      "上流恋爱家",
+      "הבאקנירס",
+      "הבוקנירים"
+    ],
+    "translatedTitles": [
+      "The Buccaneers",
+      "'리치 아메리칸 걸스' - The Buccaneers",
+      "The Buccaneers: Aristócratas por amor",
+      "Bukanýrky",
+      "Łowczynie",
+      "Οι Αμερικανίδες",
+      "Мисливиці",
+      "Буканьерки",
+      "バカニアーズ",
+      "上流戀愛家",
+      "浮華年代",
+      "Americké aristokratky",
+      "Las bucaneras",
+      "Les boucanières",
+      "Jovens Rebeldes",
+      "Os Bucaneiros",
+      "द बकनीयर्स",
+      "Kén Chồng Quý Tộc - The Buccaneers"
+    ],
     "seasons": [
       {
         "id": 314379,
@@ -27227,7 +27607,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/213338",
-    "fetchedAt": "2026-10-06T05:53:52.768Z"
+    "fetchedAt": "2026-10-06T06:29:15.226Z"
   },
   "Buffy the Vampire Slayer": {
     "tmdbId": 95,
@@ -27264,6 +27644,52 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
     "backdropPath": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+    "alternativeTitles": [
+      "באפי קוטלת הערפדים",
+      "バフィー 恋する十字架",
+      "뱀파이어 해결사",
+      "버피와 뱀파이어",
+      "미녀와 뱀파이어",
+      "뱀파이어 헌터 버피",
+      "버피 더 뱀파이어 슬레이어",
+      "Баффі — винищувачка вампірів",
+      "BtVS"
+    ],
+    "translatedTitles": [
+      "吸血鬼猎人巴菲",
+      "Buffy the Vampire Slayer",
+      "Buffy - Caçadora de Vampiros",
+      "Buffy, cazavampiros",
+      "Buffy - Im Bann der Dämonen",
+      "Buffy contre les vampires",
+      "Buffy, a vámpírok réme",
+      "Buffy, spaima vampirilor",
+      "Баффи - истребительница вампиров",
+      "Buffy l'ammazzavampiri",
+      "Buffy: Postrach wampirów",
+      "Buffy: Vampyrernes skræk",
+      "Μπάφυ η Φονιάς των Βαμπίρ",
+      "Баффі — переможниця вампірів",
+      "Buffy: A Caça-Vampiros",
+      "Buffy, přemožitelka upírů ",
+      "באפי ציידת הערפדים",
+      "Buffy, vampyyrintappaja",
+      "Бъфи, убийцата на вампири",
+      "Bafi vampyrų žudikė",
+      "Buffy, ubojica vampira",
+      "بافی قاتل خون آشام",
+      "미녀와 뱀파이어",
+      "Buffy, la cazavampiros",
+      "Buffy, premožiteľka upírov",
+      "魔法奇兵",
+      "Buffy och vampyrerna",
+      "バフィー ～恋する十字架～",
+      "Buffy, izganjalka vampirjev",
+      "Buffy - vampyrenes skrekk",
+      "มือใหม่ปราบผี",
+      "Bafija pret vampīriem",
+      "Vampiiritapja Buffy"
+    ],
     "seasons": [
       {
         "id": 59465,
@@ -36974,7 +37400,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95",
-    "fetchedAt": "2026-10-06T05:53:53.584Z"
+    "fetchedAt": "2026-10-06T06:29:16.309Z"
   },
   "Bust Up": {
     "tmdbId": 323866,
@@ -37006,6 +37432,13 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/kBCBgvC40J84s1RycCtqa7h3Oky.jpg",
     "backdropPath": "/gtZDq3YCCImTNQr9Umyzv0pXQUZ.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "前任拍档",
+      "Bust Up",
+      "Разборки",
+      "Back Up – Auf Streife mit der Ex"
+    ],
     "seasons": [
       {
         "id": 518942,
@@ -37131,7 +37564,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/323866",
-    "fetchedAt": "2026-10-06T05:53:53.822Z"
+    "fetchedAt": "2026-10-06T06:29:16.693Z"
   },
   "Call My Agent Berlin": {
     "tmdbId": 296527,
@@ -37161,6 +37594,15 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/zEH1eWPO43ed5LIREGU5QS5H54n.jpg",
     "backdropPath": "/yYpR4RcGgUlCqVQa7Nuj22Dfc0P.jpg",
+    "alternativeTitles": [
+      "10 אחוז ברלין"
+    ],
+    "translatedTitles": [
+      "找我经纪人：柏林",
+      "Call My Agent Berlin",
+      "עשרה אחוז, ברלין",
+      "Позвоните моему агенту: Берлин"
+    ],
     "seasons": [
       {
         "id": 466412,
@@ -37414,7 +37856,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/296527",
-    "fetchedAt": "2026-10-06T05:53:54.053Z"
+    "fetchedAt": "2026-10-06T06:29:17.075Z"
   },
   "The Confessions of Frannie Langton": {
     "tmdbId": 214065,
@@ -37444,6 +37886,29 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3DcYx9xZvHgyjKSWZJOYf09IEIH.jpg",
     "backdropPath": "/74Xsd38gdaAeRks4lipKyMQaOev.jpg",
+    "alternativeTitles": [
+      "Das Geständnis der Frannie Langton"
+    ],
+    "translatedTitles": [
+      "弗兰妮·兰顿的自白",
+      "The Confessions of Frannie Langton",
+      "Das Geständnis der Frannie Langton",
+      "Las confesiones de Frannie Langton",
+      "Les confessions de Frannie Langton",
+      "Frannie Langton vallomásai",
+      "Wyznania Frannie Langton",
+      "Vyznání Frannie Langtonové",
+      "Confesiunile lui Frannie Langton",
+      "וידויה של משרתת",
+      "Vyznanie Frannie Langtonovej",
+      "‎Izpovedi Frannie Langton",
+      "Изповедта на Франи Лангтън",
+      "Исповедь Фрэнни Лэнгтон",
+      "Ispovijesti Frannie Langton",
+      "Исповедите на Френи Ленгтон",
+      "Ispovesti Freni Langton",
+      "Lời Thú Tội Của Frannie Langton"
+    ],
     "seasons": [
       {
         "id": 315654,
@@ -37610,7 +38075,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/214065",
-    "fetchedAt": "2026-10-06T05:53:54.282Z"
+    "fetchedAt": "2026-10-06T06:29:17.461Z"
   },
   "The Crow Girl": {
     "tmdbId": 248698,
@@ -37640,6 +38105,22 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/9vCFSNwql5Be5W1LrS7hGVZYnbm.jpg",
     "backdropPath": "/qNvL8eup1eTFeKXEG402mjxNAzU.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "乌鸦女孩",
+      "The Crow Girl",
+      "Ворона",
+      "Vraní dívka",
+      "دختر کلاغ",
+      "Kragepigen",
+      "Krähenmädchen",
+      "Kråkflickan",
+      "크로우 걸",
+      "Varistyttö",
+      "ילדה עורב",
+      "烏鴉女孩",
+      "Vranje dekle"
+    ],
     "seasons": [
       {
         "id": 383139,
@@ -38429,7 +38910,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/248698",
-    "fetchedAt": "2026-10-06T05:53:54.603Z"
+    "fetchedAt": "2026-10-06T06:29:17.940Z"
   },
   "Cruel Intentions": {
     "tmdbId": 228528,
@@ -38458,6 +38939,33 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/tWtcyehBCO9fksIj30pdtVldntw.jpg",
     "backdropPath": "/82pXGnJAboAmOgJPxuWdo4qru32.jpg",
+    "alternativeTitles": [
+      "Juegos Sexuales",
+      "Eiskalte Engel"
+    ],
+    "translatedTitles": [
+      "危险性游戏",
+      "Cruel Intentions",
+      "사랑보다 아름다운 유혹",
+      "Juegos Sexuales",
+      "Sexe Intentions",
+      "Segundas Intenções",
+      "วัยร้าย วัยรัก",
+      "Kegyetlen játékok",
+      "Жестокие игры",
+      "Seks Oyunları",
+      "Eiskalte Engel",
+      "Crueles intenciones",
+      "危險性遊戲",
+      "Tentația seducției",
+      "نوايا خبيثة",
+      "სასტიკი ზრახვები",
+      "משחקי פיתוי",
+      "Okrutne intencje",
+      "Жорстокі ігри",
+      "Erotiniai žaidimai",
+      "Intencions perverses"
+    ],
     "seasons": [
       {
         "id": 344921,
@@ -38729,7 +39237,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/228528",
-    "fetchedAt": "2026-10-06T05:53:54.827Z"
+    "fetchedAt": "2026-10-06T06:29:18.321Z"
   },
   "DC’s Legends of Tomorrow": {
     "tmdbId": 62643,
@@ -38760,6 +39268,40 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
     "backdropPath": "/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+    "alternativeTitles": [
+      "DC Legends of Tomorrow",
+      "Οι Θρύλοι του Αύριο",
+      "Leyendas del Mañana",
+      "รวมพลคนเหนือมนุษย์",
+      "Legends of Tomorrow"
+    ],
+    "translatedTitles": [
+      "明日传奇",
+      "DC's Legends of Tomorrow",
+      "DC's Legends Of Tomorrow",
+      "Легенды завтрашнего дня",
+      "Οι Θρύλοι του Αύριο",
+      " DC's Legends of Tomorrow",
+      "A holnap legendái",
+      "אגדות המחר",
+      "Legendy zítřka",
+      "DC: Legends of Tomorrow",
+      "Легенди завтрашнього дня",
+      "Lendas do Amanhã",
+      "DC 레전드 오브 투모로우",
+      "Legends of Tomorrow",
+      "DC : Les légendes de demain",
+      "明日傳奇",
+      "Легендите на утрешния ден",
+      "Leyendas del Mañana",
+      "Rytdienos legendos",
+      "レジェンド・オブ・トゥモロー",
+      "Legende sutrašnjice",
+      "Huyền Thoại Tương Lai",
+      "ดีซี รวมพลคนเหนือมนุษย์",
+      "ხვალინდელი დღის ლეგენდები",
+      "افسانه های فردا"
+    ],
     "seasons": [
       {
         "id": 66615,
@@ -48760,7 +49302,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62643",
-    "fetchedAt": "2026-10-06T05:53:55.648Z"
+    "fetchedAt": "2026-10-06T06:29:19.368Z"
   },
   "Deadloch": {
     "tmdbId": 225780,
@@ -48790,6 +49332,28 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/7rI7T4AfSzOx0Rqw73AusyIpeXf.jpg",
     "backdropPath": "/cPp04nzDp2EREeGzzSYBJxx9jzi.jpg",
+    "alternativeTitles": [
+      "戴洛克小镇",
+      "小镇警花",
+      "戴洛奇小镇",
+      "デッドロック ～女刑事の事件簿～",
+      "Тупик",
+      "Дедлох",
+      "小鎮警花"
+    ],
+    "translatedTitles": [
+      "戴洛奇小镇",
+      "Deadloch",
+      "ديدلوك",
+      "דדלוך",
+      "데드로크",
+      "戴洛奇小鎮",
+      "Deadloch - Uno strano genere di delitti",
+      "เดดล็อค ดับปริศนา",
+      "Дедлок",
+      "Дэдлок",
+      "デッドロック 〜女刑事の事件簿〜"
+    ],
     "seasons": [
       {
         "id": 339499,
@@ -49378,7 +49942,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225780",
-    "fetchedAt": "2026-10-06T05:53:55.969Z"
+    "fetchedAt": "2026-10-06T06:29:19.855Z"
   },
   "Dickinson": {
     "tmdbId": 89901,
@@ -49408,6 +49972,26 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
     "backdropPath": "/jrFL1KBSDO5vTM7AB6sXnx6Flc0.jpg",
+    "alternativeTitles": [
+      "狄金森",
+      "דיקינסון",
+      "ディキンスン 若き女性詩人の憂鬱",
+      "Дикинсон",
+      "Дікінсон"
+    ],
+    "translatedTitles": [
+      "Dickinson",
+      "Дикинсон",
+      "Ντίκινσον",
+      "Дикинсън",
+      "狄金生",
+      "'디킨슨' - Dickinson",
+      "狄金森的詩生活",
+      "დიკინსონი",
+      "ディキンスン ～若き女性詩人の憂鬱～",
+      "डिकिन्सन",
+      "Dikinson"
+    ],
     "seasons": [
       {
         "id": 125153,
@@ -51397,7 +51981,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/89901",
-    "fetchedAt": "2026-10-06T05:53:56.387Z"
+    "fetchedAt": "2026-10-06T06:29:20.526Z"
   },
   "Dix pour cent": {
     "tmdbId": 64165,
@@ -51427,6 +52011,41 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3whFzxzeKuTIgPzm2c0pm5xAhEL.jpg",
     "backdropPath": "/4hmHHZnanKEb1fLTkmYePvENmuI.jpg",
+    "alternativeTitles": [
+      "Appelez Mon Agent",
+      "百分之十",
+      "10%"
+    ],
+    "translatedTitles": [
+      "百分之十",
+      "Dix pour cent",
+      "Call My Agent!",
+      "Call my agent",
+      "Πάρε τον Μάνατζέρ μου",
+      "연예인 매니저로 살아남기",
+      "10 אחוז",
+      "Gdzie jest mój agent?",
+      "Appelez mon agent",
+      "找我經紀人",
+      "Chiami il mio agente!",
+      "Десять процентов",
+      "Зателефонуйте моєму агенту!",
+      "Zece la sută",
+      "Call My Agent!‎",
+      "Ten Percent",
+      "Chci mluvit se svým agentem!",
+      "Hívd az ügynökömet!",
+      "कॉल माय एजेंट!",
+      "エージェント物語",
+      "เรียกผู้จัดการมาสิ!",
+      "Menajerimi Arayın!",
+      "Hãy gọi quản lý của tôi!",
+      "Zovite mi agenta!",
+      "Ring til min agent!",
+      "Ring min agent!",
+      "Agentit",
+      "找我经纪人"
+    ],
     "seasons": [
       {
         "id": 71380,
@@ -53248,22 +53867,6 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 17520,
-        "name": "Cédric Klapisch",
-        "profilePath": "/rKyrzbJcOQKMU1TqzUvkt7tghcG.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 19066,
-        "name": "Jeanne Herry",
-        "profilePath": "/2xmHOlRJ6LuBsO94WHB0pVNs59T.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 64575,
         "name": "Laurent Tirard",
         "profilePath": "/oqZ5tK6HLo9U0DSD9JesElsD0u7.jpg",
@@ -53278,10 +53881,26 @@ window.WLW_TMDB_DETAILS = {
         "jobs": [
           "Director"
         ]
+      },
+      {
+        "id": 17520,
+        "name": "Cédric Klapisch",
+        "profilePath": "/rKyrzbJcOQKMU1TqzUvkt7tghcG.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 19066,
+        "name": "Jeanne Herry",
+        "profilePath": "/2xmHOlRJ6LuBsO94WHB0pVNs59T.jpg",
+        "jobs": [
+          "Director"
+        ]
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/64165",
-    "fetchedAt": "2026-10-06T05:53:56.900Z"
+    "fetchedAt": "2026-10-06T06:29:21.301Z"
   },
   "The Dynasty: UConn Huskies": {
     "tmdbId": 294722,
@@ -53310,6 +53929,29 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/5lZ0NLV93fIx8yIWT38h8rt5u2I.jpg",
     "backdropPath": "/6dBzbLqznXgpe5z9ZIqqD0mxwac.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "哈士奇王朝：康涅狄格大学女篮",
+      "The Dynasty: UConn Huskies",
+      "Dynasty: Die Insidergeschichte der UConn Huskies",
+      "Dynastie: UConn Huskies",
+      "學界女籃傳奇：UConn Huskies",
+      "哈士奇王朝：康乃狄克大學女籃",
+      "La dynastie : UConn Huskies",
+      "द डाइनेस्टी : यूनिवर्सिटी ऑफ़ कनेटिकट हस्कीज़",
+      "ダイナスティ：ユーコン・ハスキーズ",
+      "Huskies: Dynastia z Connecticut",
+      "A Dinastia: UConn Huskies",
+      "'여자 농구 전설의 팀 허스키스' - The Dynasty: UConn Huskies",
+      "A Dinastia - UConn Huskies",
+      "Династия: «Коннектикут Хаскис»",
+      "Dynastia: UConn Huskies",
+      "La dinastía: UConn Huskies",
+      "UConn Huskies: La dinastía",
+      "Династія: Коннектикут Хаскіс",
+      "Hanedan: UConn Huskies",
+      "Triều Đại Của UConn Huskies - The Dynasty: UConn Huskies"
+    ],
     "seasons": [
       {
         "id": 462660,
@@ -53561,7 +54203,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/294722",
-    "fetchedAt": "2026-10-06T05:53:57.128Z"
+    "fetchedAt": "2026-10-06T06:29:21.767Z"
   },
   "Eldorado KaDeWe": {
     "tmdbId": 153886,
@@ -53590,6 +54232,14 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/z20vFVMNUuT7v1M2Lr4U4omjJZW.jpg",
     "backdropPath": "/fnKHs3CMO3CmUl2H2ZSVMPzAuw7.jpg",
+    "alternativeTitles": [
+      "Eldorado KaDeWe - Jetzt ist unsere Zeit"
+    ],
+    "translatedTitles": [
+      "金迷卡迪威",
+      "Eldorado KaDeWe",
+      "KaDeWe"
+    ],
     "seasons": [
       {
         "id": 236721,
@@ -53875,7 +54525,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153886",
-    "fetchedAt": "2026-10-06T05:53:57.355Z"
+    "fetchedAt": "2026-10-06T06:29:22.155Z"
   },
   "Elle": {
     "tmdbId": 254420,
@@ -53906,6 +54556,42 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/dpH7Lyrs7z7MlTGgfeibryGnWAv.jpg",
     "backdropPath": "/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+    "alternativeTitles": [
+      "De l'univers d' Una rossa molt legal: ELLE",
+      "Do Universo de Legalmente Loira: ELLE",
+      "Ze světa PRAVÉ blondýnky:  ELLE",
+      "Aus der Welt von Natürlich blond: ELLE",
+      "Fra Blondinens Hævn-universet: ELLE",
+      "מהעולם של \"לא רק בלונדינית\": אל",
+      "Dal mondo de La Rivincita delle Bionde: Elle",
+      "Do Mundo de Legalmente Loira: ELLE",
+      "من عالم “شقراء هاڤن إيل",
+      "From The World of  Legally Blonde: ELLE"
+    ],
+    "translatedTitles": [
+      "艾丽",
+      "Elle",
+      "엘",
+      "Эль",
+      "Elle: Legalmente Loira",
+      "إيل",
+      "Ελ",
+      "אל",
+      "एल",
+      "எல்",
+      "ఎల్",
+      "แอล บันทึกวัยทีน",
+      "エル",
+      "《艾丽》",
+      "艾兒",
+      "ಎಲ್",
+      "എൽ",
+      "Ель",
+      "Ellie",
+      "Ze świata Legalnej Blondynki: Elle",
+      "Elle: Legalmente rubia",
+      "Elė"
+    ],
     "seasons": [
       {
         "id": 393740,
@@ -54747,7 +55433,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/254420",
-    "fetchedAt": "2026-10-06T05:53:57.687Z"
+    "fetchedAt": "2026-10-06T06:29:22.639Z"
   },
   "Euphoria": {
     "tmdbId": 85552,
@@ -54776,6 +55462,42 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
     "backdropPath": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+    "alternativeTitles": [
+      "Еуфория",
+      "亢奋",
+      "高校十八禁",
+      "ユーフォリア/EUPHORIA",
+      "ユーフォリア／EUPHORIA",
+      "유포리아",
+      "Eiforija",
+      "Euphoria US",
+      "Phê Pha"
+    ],
+    "translatedTitles": [
+      "亢奋",
+      "Euphoria",
+      "Ейфорія",
+      "Еуфория",
+      "Эйфория",
+      "אופוריה",
+      "Euforie",
+      "Eiforija",
+      "Euforia",
+      "유포리아",
+      "Eufória",
+      "Euforija",
+      "高校十八禁",
+      "ユーフォリア／EUPHORIA",
+      "نشوة",
+      "سرخوشی",
+      "ยูโฟเรีย",
+      "Lâng Lâng",
+      "ეიფორია",
+      "Evforija",
+      "毒癮女孩",
+      "Еуфорија",
+      "Eufooria"
+    ],
     "seasons": [
       {
         "id": 115613,
@@ -58947,7 +59669,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85552",
-    "fetchedAt": "2026-10-06T05:53:58.125Z"
+    "fetchedAt": "2026-10-06T06:29:23.435Z"
   },
   "Feel Good": {
     "tmdbId": 99610,
@@ -58983,6 +59705,27 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/ri3dx91b3QeRGB35gnEiHGhXxdP.jpg",
     "backdropPath": "/21fr4skILqHaCz0VY50DQn0tYhO.jpg",
+    "alternativeTitles": [
+      "迷醉伦敦",
+      "心向快乐",
+      "Feel Good 小姐",
+      "我要开心",
+      "Mae and George",
+      "Feel Good"
+    ],
+    "translatedTitles": [
+      "心向快乐",
+      "Feel Good",
+      "Как же хорошо...",
+      "我要開心",
+      "필 굿",
+      "Na pohodu",
+      "מיי וג'ורג'",
+      "Jól érzem magam",
+      "Як добре",
+      "フィール・グッド",
+      "Épicurienne"
+    ],
     "seasons": [
       {
         "id": 143698,
@@ -59558,7 +60301,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/99610",
-    "fetchedAt": "2026-10-06T05:53:58.445Z"
+    "fetchedAt": "2026-10-06T06:29:23.960Z"
   },
   "Fingersmith": {
     "tmdbId": 13812,
@@ -59589,6 +60332,23 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/jrPoKY5xDOeUyZ9NrswP37PWAAM.jpg",
     "backdropPath": "/jT8IYK7rvMRgk1bMJZvJMo0g88I.jpg",
+    "alternativeTitles": [
+      "Cambio de identidad",
+      "핑거스미스"
+    ],
+    "translatedTitles": [
+      "指匠情挑",
+      "Fingersmith",
+      "Cambio de Identidad",
+      "Du bout des doigts",
+      "핑거스미스",
+      "A tolvajlány",
+      "Falsas Aparências",
+      "Złodziejka",
+      "Бархатные пальчики",
+      "荊の城",
+      "Đôi Tay Đạo Chích"
+    ],
     "seasons": [
       {
         "id": 24936,
@@ -59789,7 +60549,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/13812",
-    "fetchedAt": "2026-10-06T05:53:58.676Z"
+    "fetchedAt": "2026-10-06T06:29:24.337Z"
   },
   "First Kill": {
     "tmdbId": 111616,
@@ -59819,6 +60579,32 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/hwSy1vVaRzV70ZvAEsl6FGOHNlH.jpg",
     "backdropPath": "/abFQcEO0UJVfUQPmhgjaKeLxRwy.jpg",
+    "alternativeTitles": [
+      "Première Proie",
+      "一猎钟情"
+    ],
+    "translatedTitles": [
+      "一猎钟情",
+      "First Kill",
+      "Первое убийство",
+      "퍼스트 킬",
+      "Primeira Morte",
+      "Az első áldozat",
+      "Перше вбивство",
+      "První krev",
+      "Pierwsze zabójstwo",
+      "La primera muerte",
+      "חיסול ראשון",
+      "รักแรกฆ่า",
+      "Première Proie",
+      "ファースト・キル",
+      "一獵鍾情",
+      "Prvi umor",
+      "Pirmoji žmogžudystė",
+      "Mạng Đầu",
+      "Să te ucid",
+      "القتل الأول"
+    ],
     "seasons": [
       {
         "id": 165919,
@@ -60560,7 +61346,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/111616",
-    "fetchedAt": "2026-10-06T05:53:58.908Z"
+    "fetchedAt": "2026-10-06T06:29:24.718Z"
   },
   "Gentleman Jack": {
     "tmdbId": 86163,
@@ -60589,6 +61375,23 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/hLQl8LKLXdA4gF4ArR8TXzXGRYV.jpg",
     "backdropPath": "/iimwbuwIC37rgjhsq29A2Xediva.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "绅士杰克",
+      "Gentleman Jack",
+      "Domnul Jack",
+      "Джентълменът Джак",
+      "Джентльмен Джек",
+      "ג'נטלמן ג'ק",
+      "Džentlmenis Džeks",
+      "젠틀맨 잭",
+      "Gentleman Jack - Nessuna mi ha mai detto di no",
+      "紳士傑克",
+      "Džentelmenas Džekas",
+      "ジェントルマン・ジャック 紳士と呼ばれたレディ",
+      "เจนเทิลแมนแจ็ค",
+      "Џентлмен Џек"
+    ],
     "seasons": [
       {
         "id": 117576,
@@ -61878,7 +62681,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/86163",
-    "fetchedAt": "2026-10-06T05:53:59.355Z"
+    "fetchedAt": "2026-10-06T06:29:25.509Z"
   },
   "The Good Fight": {
     "tmdbId": 69158,
@@ -61913,6 +62716,47 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
     "backdropPath": "/nz6vpYyN1pEwBYeoAVIu2316d0z.jpg",
+    "alternativeTitles": [
+      "Добрата битка",
+      "Une lutte exemplaire",
+      "傲戰法庭",
+      "傲骨雄心",
+      "Dobrý boj",
+      "Ο καλός αγώνας",
+      "Dobra borba",
+      "Diane védelmében",
+      "הטובות לקרב",
+      "グッド・ファイト",
+      "グッド・ファイト 華麗なる逆転",
+      "La batalla ejemplar",
+      "Sprawa idealna",
+      "Lupta perfecta",
+      "Хорошая борьба",
+      "ทนายสาวหัวใจทระนง ซีซั่นหนึ่ง",
+      "傲骨之戰",
+      "Cuộc Đối Đầu Ngoạn Mục"
+    ],
+    "translatedTitles": [
+      "傲骨之战",
+      "The Good Fight",
+      "הטובות לקרב",
+      "굿 파이트",
+      "Хорошая борьба",
+      "Diane védelmében",
+      "Taisnā tiesa",
+      "Добрата битка",
+      "Dobrý boj",
+      "Хороша боротьба",
+      "傲骨之戰",
+      "Sprawa idealna",
+      "Une lutte exemplaire",
+      "Gera kova",
+      "Lupta perfectă",
+      "ザ・グッド・ファイト",
+      "Hyvä taistelu",
+      "Dober boj",
+      "Dobra bitka"
+    ],
     "seasons": [
       {
         "id": 82956,
@@ -70345,7 +71189,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/69158",
-    "fetchedAt": "2026-10-06T05:54:00.084Z"
+    "fetchedAt": "2026-10-06T06:29:26.847Z"
   },
   "Grey’s Anatomy": {
     "tmdbId": 1416,
@@ -70374,6 +71218,62 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
     "backdropPath": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "alternativeTitles": [
+      "Anatomia e Greit",
+      "A Anatomia de Grey",
+      "L'anatomie de Grey",
+      "实习医生",
+      "Grey's Anatomy Die jungen Ärzte",
+      "Grey's Anatomy Die jungen Aerzte",
+      "Grey's Anatomy - Die jungen Ärzte",
+      "A coeur ouvert",
+      "그레이 아나토미",
+      "Анатомия Грей",
+      "Анатомія пристрасті",
+      "Greys Anatomy"
+    ],
+    "translatedTitles": [
+      "实习医生格蕾",
+      "Grey's Anatomy",
+      "A Grace klinika",
+      "Anatomia de Grey",
+      "Anatomía de Grey",
+      "Анатомията на Грей",
+      "האנטומיה של גריי",
+      "그레이 아나토미",
+      "Grey's Hvide Verden",
+      "Анатомия страсти",
+      "Anatomia lui Grey",
+      "Uvod u anatomiju",
+      "Greys Anatomy",
+      "Chirurdzy",
+      "Chirurgové",
+      "Anatomi Grey",
+      "Anatomi kelabu",
+      "Анатомія Ґрей",
+      "កាយវិភាគសាស្ត្ររបស់ហ្គ្រី",
+      "Grey's Anatomie",
+      "Dre Grey, leçons d'anatomie",
+      "グレイズ・アナトミー",
+      "Увод у анатомију",
+      "實習醫生",
+      "Greyn anatomia",
+      "کالبدشناسی گری",
+      "Grejas anatomija",
+      "Grei anatomija",
+      "Klinika Grace",
+      "გრეის ანატომია",
+      "Anatomía según Grey",
+      "تشريح غراي",
+      "Анатомія жарсці",
+      "Grey anatomiyasi",
+      "Talenti v belem",
+      "แพทย์มือใหม่ หัวใจเกินร้อย",
+      "Grey anatoomia",
+      "Ca Phẫu Thuật Của Grey",
+      "醫人當自強",
+      "GREY'S ANATOMY"
+    ],
     "seasons": [
       {
         "id": 3718,
@@ -110899,7 +111799,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1416",
-    "fetchedAt": "2026-10-06T05:54:02.511Z"
+    "fetchedAt": "2026-10-06T06:29:31.123Z"
   },
   "Hacks": {
     "tmdbId": 124101,
@@ -110941,6 +111841,30 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
     "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+    "alternativeTitles": [
+      "老哏新侃",
+      "天后与草莓",
+      "Полезные советы"
+    ],
+    "translatedTitles": [
+      "绝望写手",
+      "Hacks",
+      "Хитрости",
+      "天后與草莓",
+      "Medíocres",
+      "האקס",
+      "나의 직장상사는 코미디언",
+      "Хитрощі",
+      "Хитринки",
+      "Hacks – A pénz beszél",
+      "Stále v kurzu",
+      "Stále v kurze",
+      "แฮ็คส์",
+      "Huyền Thoại Làng Hài",
+      "職業槍手",
+      "Gudrybės",
+      "هکس"
+    ],
     "seasons": [
       {
         "id": 192055,
@@ -117411,7 +118335,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/124101",
-    "fetchedAt": "2026-10-06T05:54:03.135Z"
+    "fetchedAt": "2026-10-06T06:29:32.263Z"
   },
   "Hal & Harper": {
     "tmdbId": 245640,
@@ -117441,6 +118365,19 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/qqM46MePDr9BTU3qoNBFTBIZcqb.jpg",
     "backdropPath": "/6cCAVDZzHzse6S5pQRGD9MjUenu.jpg",
+    "alternativeTitles": [
+      "Hal and Harper"
+    ],
+    "translatedTitles": [
+      "哈尔与哈珀",
+      "Hal & Harper",
+      "할 & 하퍼",
+      "哈爾與哈珀",
+      "Гел і Гарпер",
+      "Хэл и Харпер",
+      "Hal și Harper",
+      "هال و هارپر"
+    ],
     "seasons": [
       {
         "id": 377769,
@@ -118138,7 +119075,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/245640",
-    "fetchedAt": "2026-10-06T05:54:03.371Z"
+    "fetchedAt": "2026-10-06T06:29:32.743Z"
   },
   "Harley Quinn": {
     "tmdbId": 74440,
@@ -118182,6 +119119,24 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
     "backdropPath": "/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+    "alternativeTitles": [
+      "小丑女",
+      "Harley Quinn: A Very Problematic Valentine's Day Special"
+    ],
+    "translatedTitles": [
+      "哈莉·奎茵",
+      "Harley Quinn",
+      "Гарлі Квінн",
+      "Харли Квинн",
+      "할리 퀸",
+      "Arlequina",
+      "הארלי קווין",
+      "Харли Куин",
+      "哈莉奎茵",
+      "ハーレイ・クイン",
+      "Harlė Kvin",
+      "ฮาร์ลีย์ ควินน์"
+    ],
     "seasons": [
       {
         "id": 93845,
@@ -120195,7 +121150,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/74440",
-    "fetchedAt": "2026-10-06T05:54:03.990Z"
+    "fetchedAt": "2026-10-06T06:29:33.846Z"
   },
   "The Haunting of Bly Manor": {
     "tmdbId": 109958,
@@ -120225,6 +121180,45 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/vIXQ8UymmQ7zJEPrKJP3s3fSbhR.jpg",
     "backdropPath": "/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg",
+    "alternativeTitles": [
+      "Bly Manor : La dernière demeure",
+      "عمارت تسخیر شده بلای",
+      "ザ・ホーンティング・オブ・ブライマナー",
+      "Призраки поместья Блай",
+      "บลายเมเนอร์ บ้านกระตุกวิญญาณ",
+      "鬼莊園",
+      "Привиди садиби Блай"
+    ],
+    "translatedTitles": [
+      "鬼庄园",
+      "The Haunting of Bly Manor",
+      "A Maldição da Mansão Bly",
+      "Záhadné sídlo Bly",
+      "ザ・ホーンティング・オブ・ブライマナー",
+      "La maldición de Bly Manor",
+      "Призраки усадьбы Блай",
+      "블라이 저택의 유령",
+      "Привиди маєтку Блай",
+      "The Haunting: Bly Malikânesi",
+      "Bly Manor : La dernière demeure",
+      "Spuk in Bly Manor",
+      "A Bly-udvarház szelleme",
+      "מי מתגורר באחוזת בליי",
+      "Nawiedzony dwór w Bly",
+      "鬼莊園",
+      "Οι Δαίμονες της Έπαυλης Μπλάι",
+      "Проклетство имања Блај",
+      "Conacul bântuit",
+      "บลายเมเนอร์ บ้านกระตุกวิญญาณ",
+      "Bly dvaro vaiduokliai",
+      "Chuyện ma ám ở trang viên Bly",
+      "Призраците в имението Блай",
+      "ბლაის მამულის მოჩვენებები",
+      "陰宅怪事",
+      "Prokletstvo imanja Bly",
+      "ब्लाय मेनर के प्रेत",
+      "A Maldição de Bly Manor"
+    ],
     "seasons": [
       {
         "id": 162959,
@@ -121072,7 +122066,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/109958",
-    "fetchedAt": "2026-10-06T05:54:04.223Z"
+    "fetchedAt": "2026-10-06T06:29:34.287Z"
   },
   "The Hunting Wives": {
     "tmdbId": 244447,
@@ -121102,6 +122096,38 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
     "backdropPath": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+    "alternativeTitles": [
+      "猎艳娇妻",
+      "猎艳的娇妻",
+      "猎艳的娇妻们",
+      "狩猎的妻子们",
+      "捕猎者",
+      "猎妻",
+      "狩猎之妻",
+      "狩猎娇妻",
+      "Жены на охоте",
+      "Жены-охотницы"
+    ],
+    "translatedTitles": [
+      "狩猎之妻",
+      "The Hunting Wives",
+      "Soțiile la vânătoare",
+      "Casadas e Caçadoras",
+      "נשות הציד",
+      "Дружини на полюванні",
+      "Жёны на охоте",
+      "狩獵的妻子們",
+      "狩獵妻子",
+      "Những Quý Bà Thợ Săn",
+      "사냥하는 아내들",
+      "Lovkinje",
+      "ภรรยานักล่า",
+      "Medžiotojų žmonos",
+      "Nido di vipere",
+      "Las Esposas Cazadoras",
+      "Las esposas cazadoras",
+      "ハンティング・ワイブス"
+    ],
     "seasons": [
       {
         "id": 375706,
@@ -121960,7 +122986,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/244447",
-    "fetchedAt": "2026-10-06T05:54:04.555Z"
+    "fetchedAt": "2026-10-06T06:29:34.891Z"
   },
   "Interview with the Vampire": {
     "tmdbId": 128098,
@@ -121990,6 +123016,38 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
     "backdropPath": "/1tADVruLbywl7P3TOVQmNza3aAO.jpg",
+    "alternativeTitles": [
+      "Вампир Лестат",
+      "Anne Rice's Interview with the Vampire",
+      "Interview with the Vampire: Uncut",
+      "Interview with the Vampire: Part II",
+      "Anne Rice's Interview with the Vampire: Part II",
+      "Interview with the Vampire: Cast Diaries"
+    ],
+    "translatedTitles": [
+      "夜访吸血鬼",
+      "Interview with the Vampire",
+      "Интервью с вампиром",
+      "Wywiad z wampirem",
+      "Entrevista com o Vampiro",
+      "Entrevista con el vampiro",
+      "Інтерв’ю з вампіром",
+      "夜訪吸血鬼",
+      "Interjú a vámpírral",
+      "뱀파이어와의 인터뷰",
+      "ინტერვიუ ვამპირთან",
+      "Entretien avec un vampire",
+      "Интервју са вампиром",
+      "ראיון עם הערפד",
+      "Interviu su vampyru",
+      "Intervista col vampiro",
+      "Phỏng Vấn Ma Cà Rồng",
+      "インタビュー・ウィズ・ヴァンパイア",
+      "บันทึกรัตติกาลต้องสาป",
+      "Intervija ar vampīru",
+      "مصاحبه با خون‌آشام",
+      "Veren vangit"
+    ],
     "seasons": [
       {
         "id": 200240,
@@ -123983,7 +125041,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/128098",
-    "fetchedAt": "2026-10-06T05:54:04.883Z"
+    "fetchedAt": "2026-10-06T06:29:35.497Z"
   },
   "Jessica Jones": {
     "tmdbId": 38472,
@@ -124013,6 +125071,36 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/oxnWofiE9fHOgUfs9NJa6nG6NTR.jpg",
     "backdropPath": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+    "alternativeTitles": [
+      "Marvel - Jessica Jones",
+      "Jessica Jones",
+      "Marvel's A.K.A. Jessica Jones"
+    ],
+    "translatedTitles": [
+      "杰西卡·琼斯",
+      "Marvel's Jessica Jones",
+      "Marvel - Jessica Jones",
+      "Джессика Джонс",
+      "Τζέσσικα Τζόουνς",
+      "마블 제시카 존스",
+      "Marvel Jessica Jones",
+      "ג'סיקה ג'ונס",
+      "Jessica Jones",
+      "Джессіка Джонс",
+      "漫威潔西卡瓊斯",
+      "Marvel: Jessica Jones",
+      "Джесика Джоунс",
+      "Džesika Džouns",
+      "جسیکا جونز مارول",
+      "Marvel ジェシカ・ジョーンズ",
+      "เจสซิก้า โจนส์",
+      "جيسيكا جونز",
+      "潔西卡瓊斯",
+      "漫威杰西卡·琼斯",
+      "Marvel's जेसिका जोन्स",
+      "ჯესიკა ჯონსი",
+      "Džesika Džonsa"
+    ],
     "seasons": [
       {
         "id": 64822,
@@ -129242,7 +130330,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/38472",
-    "fetchedAt": "2026-10-06T05:54:05.312Z"
+    "fetchedAt": "2026-10-06T06:29:36.282Z"
   },
   "The Jetty": {
     "tmdbId": 233324,
@@ -129272,6 +130360,21 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg",
     "backdropPath": "/e6B2PN4iAtqXwSbguBEFY9lRwNO.jpg",
+    "alternativeTitles": [
+      "O pontão"
+    ],
+    "translatedTitles": [
+      "往事决堤",
+      "The Jetty",
+      "Пристань",
+      "罪惡棧橋",
+      "Pomost",
+      "Syvissä vesissä",
+      "Detektiv Ember Manning",
+      "Ember Manning: Fallet vid bryggan",
+      "O pontão",
+      "V globoki vodi"
+    ],
     "seasons": [
       {
         "id": 354036,
@@ -129858,7 +130961,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/233324",
-    "fetchedAt": "2026-10-06T05:54:05.551Z"
+    "fetchedAt": "2026-10-06T06:29:36.728Z"
   },
   "Killing Eve": {
     "tmdbId": 72750,
@@ -129888,6 +130991,39 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg",
     "backdropPath": "/2eR0H27Us1tvbjd95oW7WhiKioC.jpg",
+    "alternativeTitles": [
+      "双姝",
+      "キリング・イヴ",
+      "キリング・イヴ/Killing Eve",
+      "Žudant Ievą"
+    ],
+    "translatedTitles": [
+      "杀死伊芙",
+      "Killing Eve",
+      "追殺夏娃",
+      "Вбиваючи Єву",
+      "Убивайки Ийв",
+      "Na mušce",
+      "Убивая Еву",
+      "להרוג את איב",
+      "킬링 이브",
+      "Killing Eve: Dupla Obsessão",
+      "Obsesia Evei",
+      "Obsesja Eve",
+      "Megszállottak viadala",
+      "Na muške",
+      "Nužudyti Evą",
+      "کشتن حوا",
+      "พลิกเกมล่า แก้วตาทรชน",
+      "Nogalināt Īvu",
+      "ევას მკვლელობისას",
+      "キリング・イヴ／Killing Eve",
+      "Ubij Eve",
+      "Ubijanje Eve",
+      "獨行殺姬",
+      "Eve'i tapmine",
+      "Truy Sát Eve"
+    ],
     "seasons": [
       {
         "id": 90301,
@@ -133218,7 +134354,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/72750",
-    "fetchedAt": "2026-10-06T05:54:06.077Z"
+    "fetchedAt": "2026-10-06T06:29:37.671Z"
   },
   "The L Word": {
     "tmdbId": 3475,
@@ -133248,6 +134384,31 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/nuBhtv4P5nY9loJ6kXb1hsyc9EA.jpg",
     "backdropPath": "/6OcRNLQP6jzRRGcS0JmnYKuX4oX.jpg",
+    "alternativeTitles": [
+      "女欢女爱",
+      "蕾丝箴言",
+      "エルのせかい",
+      "L 워드",
+      "L Word"
+    ],
+    "translatedTitles": [
+      "拉字至上",
+      "The L Word",
+      "The L Word - Wenn Frauen Frauen lieben",
+      "Секс в другом городе",
+      "Cuvântul cu L",
+      "Elles",
+      "еЛ връзки",
+      "L.",
+      "Láska je Láska",
+      "Słowo na L",
+      "ישנן בנות",
+      "La palabra L",
+      "Láska je láska",
+      "엘 워드",
+      "Lの世界",
+      "کلمه \"ل\""
+    ],
     "seasons": [
       {
         "id": 10603,
@@ -136035,7 +137196,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/3475",
-    "fetchedAt": "2026-10-06T05:54:06.794Z"
+    "fetchedAt": "2026-10-06T06:29:38.942Z"
   },
   "The Last of Us": {
     "tmdbId": 100088,
@@ -136064,6 +137225,56 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
     "backdropPath": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+    "alternativeTitles": [
+      "Bizdən Geriyə Qalanlar",
+      "আমাদের শেষ",
+      "Последните от нас",
+      "Les derniers d'entre nous",
+      "Poslední z nás",
+      "De sidste som os",
+      "האחרונים מבנינו",
+      "האחרונים שמבינינו",
+      "האחרונים שביננו",
+      "آخرین بازمانده‌ی ما",
+      "آخرین ما",
+      "د لست آف آس",
+      "ザ・ラスト・オブ・アス",
+      "ラスト・オブ・アス",
+      "ラスアス",
+      "라스트 오브 어스",
+      "Paskutiniai iš mūsų",
+      "Одни из нас",
+      "Posledný z nás",
+      "ปัจฉิมอเมริกา",
+      "Bizden geriye kalanlar",
+      "Останні з нас",
+      "Những Người Còn Sót Lại"
+    ],
+    "translatedTitles": [
+      "最后生还者",
+      "The Last of Us",
+      "Bizning oxirgimiz",
+      "Одни из нас",
+      "더 라스트 오브 어스",
+      "الأخير منا",
+      "Останні з нас",
+      "Posljednji od Nas",
+      "The Last of Us: Последните оцелели",
+      "האחרונים מבינינו",
+      "ما تبقى منا",
+      "Intayada ugu Dambeysa",
+      "آخرین بازمانده از ما",
+      "THE LAST OF US",
+      "最後生還者",
+      "Những Người Còn Sót Lại",
+      "เดอะลาสต์ออฟอัส",
+      "Yang Terakhir Dari Kita",
+      "Paskutinieji iš mūsų",
+      "Pēdējais no mums",
+      "უკანასკნელი ჩვენგანი",
+      "Viimased meie hulgast",
+      "Апошнія з нас"
+    ],
     "seasons": [
       {
         "id": 144593,
@@ -136264,7 +137475,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1253360,
         "name": "Pedro Pascal",
-        "character": "Joel Miller (uncredited) / Joel Miller",
+        "character": "Joel Miller / Joel Miller (uncredited)",
         "order": 164,
         "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
       },
@@ -136754,7 +137965,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1151408,
         "name": "Samuel Hoeksema",
-        "character": "Clicker / Museum Clicker",
+        "character": "Museum Clicker / Clicker",
         "order": 571,
         "profilePath": "/6TEscmA3aFBkdWX2DuozcUhHkBK.jpg"
       },
@@ -137055,7 +138266,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 5371137,
         "name": "Molly Scarpine",
-        "character": "Stalker Voice (voice) / Female Stalker Voice (voice)",
+        "character": "Female Stalker Voice (voice) / Stalker Voice (voice)",
         "order": 614,
         "profilePath": ""
       },
@@ -137780,7 +138991,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 5371137,
         "name": "Molly Scarpine",
-        "character": "Stalker Voice (voice) / Female Stalker Voice (voice)",
+        "character": "Female Stalker Voice (voice) / Stalker Voice (voice)",
         "order": 614,
         "profilePath": ""
       },
@@ -137837,6 +139048,14 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 1574550,
+        "name": "Ali Abbasi",
+        "profilePath": "/1mwdpvwjAG1NkvUwpdBMEMJnjK2.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 208453,
         "name": "Peter Hoar",
         "profilePath": "/qfLft2v4stmVdXYEdanJhasYC5J.jpg",
@@ -137848,38 +139067,6 @@ window.WLW_TMDB_DETAILS = {
         "id": 175311,
         "name": "Jeremy Webb",
         "profilePath": "/hJcVQ62yQTBP5lLbhsIFpeHK2hD.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1574550,
-        "name": "Ali Abbasi",
-        "profilePath": "/1mwdpvwjAG1NkvUwpdBMEMJnjK2.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 57199,
-        "name": "Mark Mylod",
-        "profilePath": "/6Nwg31BrgPkCjZ054Pso3ctg3Ov.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 916958,
-        "name": "Liza Johnson",
-        "profilePath": "/y7as9fauoSzDo3J8xN9h4RZ6h7M.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1122804,
-        "name": "Nina Lopez-Corrado",
-        "profilePath": "/pOleBiod4Un0aiRdJsgdfoGW7H0.jpg",
         "jobs": [
           "Director"
         ]
@@ -137909,8 +139096,56 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 916958,
+        "name": "Liza Johnson",
+        "profilePath": "/y7as9fauoSzDo3J8xN9h4RZ6h7M.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1122804,
+        "name": "Nina Lopez-Corrado",
+        "profilePath": "/pOleBiod4Un0aiRdJsgdfoGW7H0.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 57199,
+        "name": "Mark Mylod",
+        "profilePath": "/6Nwg31BrgPkCjZ054Pso3ctg3Ov.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 1551704,
         "name": "Cecil O'Connor",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 1058615,
+        "name": "Carter Swan",
+        "profilePath": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 1396493,
+        "name": "Rose Lam",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 2313937,
+        "name": "Jacqueline Lesko",
         "profilePath": "",
         "jobs": [
           "Executive Producer"
@@ -137925,30 +139160,6 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1970298,
-        "name": "Evan Wells",
-        "profilePath": "/3ntVgs1tyRfec7iROG89hCoqpm5.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 2313937,
-        "name": "Jacqueline Lesko",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 1396493,
-        "name": "Rose Lam",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
         "id": 1223797,
         "name": "Carolyn Strauss",
         "profilePath": "/o88ISZv7ILrPMHutX1XVr7trmkF.jpg",
@@ -137957,9 +139168,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1058615,
-        "name": "Carter Swan",
-        "profilePath": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+        "id": 1970298,
+        "name": "Evan Wells",
+        "profilePath": "/3ntVgs1tyRfec7iROG89hCoqpm5.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -137974,7 +139185,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100088",
-    "fetchedAt": "2026-10-06T05:54:07.129Z"
+    "fetchedAt": "2026-10-06T06:29:39.600Z"
   },
   "The Legend of Korra": {
     "tmdbId": 33880,
@@ -138005,6 +139216,58 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
     "backdropPath": "/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+    "alternativeTitles": [
+      "Avatar: A Lenda de Korra",
+      "Avatar: Die Legende von Korra",
+      "Avatar - Die Legende von Korra",
+      "Avatar 2 - Die Legende von Korra",
+      "Avatar 2: Die Legende von Korra",
+      "La Légende de Korra",
+      "ლეგენდა კორრაზე",
+      "ლეგენდა კორაზე",
+      "Ο Θρύλος της Κόρρα",
+      "Avatár: Korra Legendája",
+      "آواتار: افسانه کورا",
+      "Avatar: La leggenda di Korra",
+      "아바타: 코라의 전설",
+      "Avatar: Legenda lui Korra",
+      "أفاتار: أسطورة كورا",
+      "Avatar: The Legend of Korra",
+      "降世神通：柯拉傳奇"
+    ],
+    "translatedTitles": [
+      "降世神通：科拉传奇",
+      "The Legend of Korra",
+      "A Lenda de Korra",
+      "La leyenda de Korra",
+      "Avatar : La Légende de Korra",
+      "Ο Θρύλος της Κόρρα",
+      "Die Legende von Korra",
+      "Легенда о Корре",
+      "אווטאר: האגדה של קורה",
+      "Avatar: Legenda Lui Korra",
+      "Аватар: Легенда про Корру",
+      "Legenda Korry",
+      "코라의 전설",
+      "Korra Legendája",
+      "Легенда за Кора",
+      "La leggenda di Korra",
+      "Avatar: Korra Efsanesi",
+      "降世神通：科拉傳奇",
+      "Avatar: De Legende van Korra",
+      "Avatārs: Leģenda par Koru",
+      "Avatar: La Leyenda de Korra",
+      "Legenden om Korra",
+      "Truyền Thuyết Về Korra",
+      "أفاتار: أسطورة كورا",
+      "Avatar: Legenda o Korri",
+      "افسانه کورا",
+      "ავატარი: ლეგენდა კორაზე",
+      "レジェンド･オブ･コーラ",
+      "Avatar, la llegenda de la Korra",
+      "Avatar: Legenden om Korra",
+      "Legenda apie Korą"
+    ],
     "seasons": [
       {
         "id": 44710,
@@ -139649,7 +140912,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/33880",
-    "fetchedAt": "2026-10-06T05:54:07.652Z"
+    "fetchedAt": "2026-10-06T06:29:40.555Z"
   },
   "Leopard Skin": {
     "tmdbId": 136748,
@@ -139679,6 +140942,14 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/5U5EscRz89quJnLdNgLEbhQtO18.jpg",
     "backdropPath": "/82qjAjDmvyyL5Aase0MpDvBUpNC.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "豹纹",
+      "Leopard Skin",
+      "פנתרות",
+      "豹紋",
+      "Леопардовая шкура"
+    ],
     "seasons": [
       {
         "id": 216313,
@@ -139899,7 +141170,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/136748",
-    "fetchedAt": "2026-10-06T05:54:07.890Z"
+    "fetchedAt": "2026-10-06T06:29:41.000Z"
   },
   "LIGGA": {
     "tmdbId": 153855,
@@ -139929,6 +141200,15 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/cM3n3qPbEDU3dozYWpTZWZvfbuT.jpg",
     "backdropPath": "/v6x1r9SnrHiO0VfljrlGMlNF0yw.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "睡莺",
+      "Ligga",
+      "LIGGE - kunsten å komme over eksen",
+      "Sleep Around",
+      "Bettgeflüster",
+      "Kuinka päästä yli eksästä"
+    ],
     "seasons": [
       {
         "id": 236628,
@@ -140300,7 +141580,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153855",
-    "fetchedAt": "2026-10-06T05:54:08.140Z"
+    "fetchedAt": "2026-10-06T06:29:41.484Z"
   },
   "Lip Service": {
     "tmdbId": 31420,
@@ -140329,6 +141609,14 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/hgv0kvFsbyd7Sm58wIDyOGKmiFw.jpg",
     "backdropPath": "/jll5ueCEqvzC1sjFjIoQoeOLwK3.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "唇唇欲动",
+      "Lip Service",
+      "שפת נשים",
+      "Пустые слова",
+      "唇唇欲動"
+    ],
     "seasons": [
       {
         "id": 42970,
@@ -140726,7 +142014,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/31420",
-    "fetchedAt": "2026-10-06T05:54:08.482Z"
+    "fetchedAt": "2026-10-06T06:29:42.134Z"
   },
   "Long Story Short": {
     "tmdbId": 262375,
@@ -140756,6 +142044,26 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
     "backdropPath": "/eqZjZGHa1mZYBPHUHOX2LSzzCsS.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "长话短说",
+      "Long Story Short",
+      "롱 스토리 숏",
+      "القصة باختصار",
+      "長話短說",
+      "長くて短くて、短くて長い",
+      "Pe scurt",
+      "ยาวไม่มัน สั้นหน่อยดีกว่า",
+      "Pour faire une histoire courte",
+      "Ukratko",
+      "Život ve zkratce",
+      "Röviden a lényeg",
+      "אז בקיצור",
+      "Якщо коротко",
+      "Chuyện dài tóm ngắn",
+      "Карацей Кажучы",
+      "Короче говоря"
+    ],
     "seasons": [
       {
         "id": 407640,
@@ -141425,7 +142733,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/262375",
-    "fetchedAt": "2026-10-06T05:54:08.712Z"
+    "fetchedAt": "2026-10-06T06:29:42.617Z"
   },
   "Loving Her": {
     "tmdbId": 126627,
@@ -141454,6 +142762,11 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/tOB0jo7cQzp4wIKbEHo7VAGRwIn.jpg",
     "backdropPath": "/42CoOgEIXyjhxkf2GG0yApu4JDI.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "汉娜和她的五个前女友",
+      "Loving Her"
+    ],
     "seasons": [
       {
         "id": 197377,
@@ -141786,7 +143099,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126627",
-    "fetchedAt": "2026-10-06T05:54:09.066Z"
+    "fetchedAt": "2026-10-06T06:29:43.233Z"
   },
   "Monster: The Lizzie Borden Story": {
     "tmdbId": 299939,
@@ -141816,6 +143129,47 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
     "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+    "alternativeTitles": [
+      "Monstre - L'Histoire de Lizzie Borden",
+      "Monstre, L'Histoire de Lizzie Borden",
+      "മോൺസ്റ്റർ: ദി ലിസി ബോർഡൻ സ്റ്റോറി",
+      "Canavar: Lizzie Borden'ın Hikayesi",
+      "怪物：麗茲波頓的故事"
+    ],
+    "translatedTitles": [
+      "怪物：莉齐·博登的故事",
+      "Monster: The Lizzie Borden Story",
+      "Monstre : L'Histoire de Lizzie Borden",
+      "괴물: 리지 보든 이야기",
+      "מפלצת: הסיפור של ליזי בורדן",
+      "Monster: La storia di Lizzie Borden",
+      "Potwór: Historia Lizzie Borden",
+      "Monstro: A História de Lizzie Borden",
+      "Чудовисько: Історія Ліззі Борден",
+      "Monstrum: Priča o Lizzie Borden",
+      "Monster: Die Geschichte von Lizzie Borden",
+      "Monstruo: La historia de Lizzie Borden",
+      "Monstrum: Příběh Lizzie Borden",
+      "Monstre. La història de Lizzie Borden",
+      "Canavar: Lizzie Borden'ın Hikâyesi",
+      "Монстр: История Лиззи Борден",
+      "الوحش: قصة ليزي بوردن",
+      "怪物：麗茲波頓的故事",
+      "Monster: Historien om Lizzie Borden",
+      "Monstre : L'histoire de Lizzie Borden",
+      "Hirviö: Lizzie Bordenin tarina",
+      "Szörnyeteg: A Lizzie Borden-sztori",
+      "मॉन्स्टर: लिज़ी बोर्डन की खौफ़नाक कहानी",
+      "モンスター: リジー・ボーデンの物語",
+      "Monstru: Povestea lui Lizzie Borden",
+      "Quái vật: Câu chuyện về Lizzie Borden",
+      "ปีศาจ: เรื่องราวของลิซซี่ บอร์เดน",
+      "Monster: Berättelsen om Lizzie Borden",
+      "Чудовище: Историята на Лизи Бордън",
+      "مونسٹر: لیزی بورڈن کی ہلاکت خیز کہانی",
+      "Τέρας: Η Ιστορία της Λίζι Μπόρντεν",
+      "هیولا: داستان لیزی بوردن"
+    ],
     "seasons": [
       {
         "id": 473542,
@@ -142945,25 +144299,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 21712,
-        "name": "Carl Franklin",
-        "profilePath": "/8xX5z2BXZZHynzaMruOB8VkQ077.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 4605446,
-        "name": "Nissa Diederich",
+        "id": 2094561,
+        "name": "Louise Shore",
         "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 52779,
-        "name": "Ryan Murphy",
-        "profilePath": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -142977,8 +144315,16 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2094561,
-        "name": "Louise Shore",
+        "id": 4605446,
+        "name": "Nissa Diederich",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 2624774,
+        "name": "Tanase Popa",
         "profilePath": "",
         "jobs": [
           "Executive Producer"
@@ -142993,16 +144339,24 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2624774,
-        "name": "Tanase Popa",
-        "profilePath": "",
+        "id": 52779,
+        "name": "Ryan Murphy",
+        "profilePath": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 21712,
+        "name": "Carl Franklin",
+        "profilePath": "/8xX5z2BXZZHynzaMruOB8VkQ077.jpg",
         "jobs": [
           "Executive Producer"
         ]
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/299939",
-    "fetchedAt": "2026-10-06T05:54:09.290Z"
+    "fetchedAt": "2026-10-06T06:29:43.712Z"
   },
   "Orphan Black": {
     "tmdbId": 56296,
@@ -143039,6 +144393,26 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
     "backdropPath": "/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
+    "alternativeTitles": [
+      "Тъмното дете",
+      "Клонинги",
+      "오펀 블랙"
+    ],
+    "translatedTitles": [
+      "黑色孤儿",
+      "Orphan Black",
+      "Sötét árvák",
+      "Тёмное дитя",
+      "Sans origine : Orphan Black",
+      "אורפן בלאק",
+      "Темне дитя",
+      "Клонинги",
+      "黑色孤兒",
+      "오펀 블랙",
+      "オーファン・ブラック 暴走遺伝子",
+      "Juodoji našlaitė",
+      "สวมรอยเงามรณะ"
+    ],
     "seasons": [
       {
         "id": 58141,
@@ -146811,7 +148185,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/56296",
-    "fetchedAt": "2026-10-06T05:54:09.927Z"
+    "fetchedAt": "2026-10-06T06:29:44.831Z"
   },
   "The Owl House": {
     "tmdbId": 92685,
@@ -146844,6 +148218,59 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/cZLxKTslrf9gzRomVy8BhaYjg7n.jpg",
     "backdropPath": "/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
+    "alternativeTitles": [
+      "La Casa Búho",
+      "Het Huis van de Uil",
+      "A Casa da Coruja",
+      "The Owl House - A Casa da Coruja",
+      "Willkommen Im Haus Der Eulen",
+      "Casa Búho",
+      "Luz à Osville",
+      "בית הינשוף",
+      "アウルハウス",
+      "아울 하우스",
+      "The Owl House : La Casa Búho",
+      "Sowi Dom",
+      "奇幻猫头鹰小屋",
+      "Baykuş Evi",
+      "奇幻貓頭鷹小屋",
+      "Будинок сови",
+      "Disney The Owl House",
+      "Disney's The Owl House",
+      "Owl Pellets",
+      "Nhà Cú"
+    ],
+    "translatedTitles": [
+      "猫头鹰魔法社",
+      "The Owl House",
+      "Luz à Osville",
+      "Дом Совы",
+      "A Casa Coruja",
+      "奇幻貓頭鷹小屋",
+      "Совиний дім",
+      "בית הינשוף",
+      "Willkommen im Haus der Eulen",
+      "The Owl House - Aspirante strega",
+      "アウルハウス",
+      "아울 하우스",
+      "Casa Búho",
+      "Casa Bufnițelor",
+      "La Casa Búho",
+      "Uglehuset",
+      "Sowi dom",
+      "Baykuş Evi",
+      "Soví dům",
+      "Casa da Coruja",
+      "A bagolyház",
+      "Το Σπίτι της Κουκουβάγιας",
+      "Ugglehuset",
+      "Къщата на совите",
+      "خانه جغدی",
+      "منزل البوم",
+      "Pelėdos namelis",
+      "Pöllötalo",
+      "Soví dom"
+    ],
     "seasons": [
       {
         "id": 130506,
@@ -147977,7 +149404,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92685",
-    "fetchedAt": "2026-10-06T05:54:10.353Z"
+    "fetchedAt": "2026-10-06T06:29:45.647Z"
   },
   "Paper Girls": {
     "tmdbId": 106431,
@@ -148008,6 +149435,21 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/6eaySyOW29li0CgXHqy7pgb0IUT.jpg",
     "backdropPath": "/otyDmwl75oagrC01LpVeegUknuP.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "送报女孩",
+      "Paper Girls",
+      "페이퍼 걸스",
+      "Holky od novin",
+      "بنات من ورق",
+      "送報女孩",
+      "מחלקות העיתונים",
+      "Газетчицы",
+      "สี่สาวน้อยท่องเวลา",
+      "Újságos lányok",
+      "Fetele care aduc ziarul",
+      "Lehtitytöt"
+    ],
     "seasons": [
       {
         "id": 157236,
@@ -148841,7 +150283,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/106431",
-    "fetchedAt": "2026-10-06T05:54:10.586Z"
+    "fetchedAt": "2026-10-06T06:29:46.127Z"
   },
   "Person of Interest": {
     "tmdbId": 1411,
@@ -148872,6 +150314,49 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
     "backdropPath": "/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
+    "alternativeTitles": [
+      "Personne d'intérêt",
+      "嫌疑人",
+      "Kohde",
+      "ინტერესის ობიექტი",
+      "مظنون",
+      "فرد تحت نظر",
+      "مظنون تحت نظر",
+      "Suspectul",
+      "Подозреваемый",
+      "บุคคลต้องสงสัย",
+      "Особливо небезпечно",
+      "У полі зору",
+      "P.O.I"
+    ],
+    "translatedTitles": [
+      "疑犯追踪",
+      "Person of Interest",
+      "В поле зрения",
+      "A célszemély",
+      "Sob Suspeita",
+      "Impersonalni",
+      "Vigilados, Person of Interest",
+      "Osumnjičeni",
+      "Judantis objektas",
+      "Kohde",
+      "מבוקש",
+      "Personne d'intérêt",
+      "ปฏิบัติการลับสกัดทรชน",
+      "Pessoa de Interesse",
+      "شخص محل إهتمام",
+      "Под наблюдение",
+      "Підозрюваний",
+      "Lovci zločinců",
+      "퍼슨 오브 인터레스트",
+      "疑犯追蹤",
+      "パーソン・オブ・インタレスト",
+      "مظنون",
+      "Lovec zločincov",
+      "ინტერესის ობიექტი",
+      "Kẻ Tình Nghi",
+      "犯罪預警"
+    ],
     "seasons": [
       {
         "id": 3693,
@@ -161114,7 +162599,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1411",
-    "fetchedAt": "2026-10-06T05:54:11.224Z"
+    "fetchedAt": "2026-10-06T06:29:47.253Z"
   },
   "Piste noire": {
     "tmdbId": 218656,
@@ -161143,6 +162628,16 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/nzta29OwfQHMQHF8VQWieo5Nixb.jpg",
     "backdropPath": "/jUcyuXgYUb7FOxZtRWEegv8vQ9f.jpg",
+    "alternativeTitles": [
+      "Черна писта"
+    ],
+    "translatedTitles": [
+      "雪道疑云",
+      "Piste noire",
+      "Чёрная трасса",
+      "Черна писта",
+      "雪道疑雲"
+    ],
     "seasons": [
       {
         "id": 325121,
@@ -161697,7 +163192,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/218656",
-    "fetchedAt": "2026-10-06T05:54:11.457Z"
+    "fetchedAt": "2026-10-06T06:29:47.712Z"
   },
   "Pluribus": {
     "tmdbId": 225171,
@@ -161727,6 +163222,38 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
     "backdropPath": "/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+    "alternativeTitles": [
+      "同乐者",
+      "萬中選一",
+      "פלוריבוס",
+      "Единая",
+      "Плюрибус",
+      "Из многих",
+      "بلوريبوس",
+      "السعادة",
+      "眾生為一",
+      "Saticoy",
+      "Wycaro",
+      "Wycaro 339",
+      "Plur1bus",
+      "Kẻ Lạc Loài"
+    ],
+    "translatedTitles": [
+      "Pluribus",
+      "Одна из многих",
+      "眾生為一",
+      "萬中選一",
+      "प्लूरिबस",
+      "プルリブス",
+      "'플루리부스: 행복의 시대' - Pluribus",
+      "Jedyna",
+      "Kẻ Lạc Loài - Pluribus",
+      "Єдина",
+      "Плурибус",
+      "پلوریبوس",
+      "მრავალი",
+      "پلیوریبس"
+    ],
     "seasons": [
       {
         "id": 338336,
@@ -163564,7 +165091,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225171",
-    "fetchedAt": "2026-10-06T05:54:11.692Z"
+    "fetchedAt": "2026-10-06T06:29:48.200Z"
   },
   "Portrait of a Marriage": {
     "tmdbId": 46493,
@@ -163593,6 +165120,11 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/osRnMoNtuwwk82rqegyAKDvdNdS.jpg",
     "backdropPath": "/gsTAutXaRImqmgHgOi9TnjisHhv.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "婚姻的肖像",
+      "Portrait of a Marriage"
+    ],
     "seasons": [
       {
         "id": 85876,
@@ -163844,7 +165376,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/46493",
-    "fetchedAt": "2026-10-06T05:54:11.942Z"
+    "fetchedAt": "2026-10-06T06:29:48.645Z"
   },
   "Queer for Fear: The History of Queer Horror": {
     "tmdbId": 209027,
@@ -163873,6 +165405,12 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/7cSmbV0FJpvtOzlavyON3g9B1gQ.jpg",
     "backdropPath": "/jEiLRTEA1qCSFigG27sY5mPotZ9.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "酷与惧：酷儿恐怖片的历史",
+      "Queer for Fear: The History of Queer Horror",
+      "酷與懼：酷兒恐怖片的歷史"
+    ],
     "seasons": [
       {
         "id": 306248,
@@ -164190,7 +165728,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/209027",
-    "fetchedAt": "2026-10-06T05:54:12.176Z"
+    "fetchedAt": "2026-10-06T06:29:49.134Z"
   },
   "Rizzoli & Isles": {
     "tmdbId": 32895,
@@ -164222,6 +165760,32 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg",
     "backdropPath": "/suL7cJdywRnTmsT1RNjE78iJTsG.jpg",
+    "alternativeTitles": [
+      "Rizzoli und Isles",
+      "Напарницы",
+      "Rizzoli and Isles"
+    ],
+    "translatedTitles": [
+      "妙女神探",
+      "Rizzoli & Isles",
+      "Született detektívek",
+      "Rizzoli and Isles",
+      "Риццоли и Айлс",
+      "Різзолі та Айлз",
+      "Rizzoli et Isles",
+      "Rizzoli & Isles: Vraždy na pitevně",
+      "Ризоли и Айлс: Криминални досиета",
+      "Jane şi Maura: Detectivi în Boston",
+      "Rizoli un Aila",
+      "Partnerki",
+      "Detektyvė Rizoli",
+      "ריזולי ואיילס",
+      "Bostonské vraždy",
+      "リゾーリ&アイルズ ヒロインたちの捜査線",
+      "리졸리 앤 아일스",
+      "สองสวยสืบสะบัด",
+      "Rizzoli og Isles"
+    ],
     "seasons": [
       {
         "id": 44133,
@@ -176097,7 +177661,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/32895",
-    "fetchedAt": "2026-10-06T05:54:13.008Z"
+    "fetchedAt": "2026-10-06T06:29:50.641Z"
   },
   "Señorita 89": {
     "tmdbId": 155645,
@@ -176139,6 +177703,19 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3Pe8NiIqGyavJdu0ujQr9PW2NBU.jpg",
     "backdropPath": "/gqDk3WvuJCuCu0XuIWWaw97iMe2.jpg",
+    "alternativeTitles": [
+      "Senorita 89"
+    ],
+    "translatedTitles": [
+      "美人危姬",
+      "Señorita 89",
+      "Мисс 89",
+      "세뇨리따 89",
+      "Seňorita",
+      "Miss '89",
+      "Postati Miss Mehike",
+      "هشتاد و نهمین ملکه زیبایی مکزیک"
+    ],
     "seasons": [
       {
         "id": 240046,
@@ -176393,7 +177970,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155645",
-    "fetchedAt": "2026-10-06T05:54:13.342Z"
+    "fetchedAt": "2026-10-06T06:29:51.259Z"
   },
   "Sharp Objects": {
     "tmdbId": 70453,
@@ -176424,6 +178001,43 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
     "backdropPath": "/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
+    "alternativeTitles": [
+      "Objetos Cortantes",
+      "利器之痕",
+      "Sur ma peau",
+      "シャープ・オブジェクト KIZU－傷－：連続少女猟奇殺人事件",
+      "샤프 오브젝트",
+      "Ostre przedmioty",
+      "أدوات حادة"
+    ],
+    "translatedTitles": [
+      "利器",
+      "Sharp Objects",
+      "Ostré předměty",
+      "Острые предметы",
+      "חפצים חדים",
+      "Отворени рани",
+      "Heridas abiertas",
+      "Objetos Cortantes",
+      "Гострі предмети",
+      "Αιχμηρά Αντικείμενα",
+      "Aštrūs daiktai",
+      "몸을 긋는 소녀",
+      "Asi priekšmeti",
+      "Ostre przedmioty",
+      "Éles tárgyak",
+      "ბასრი ნივთები",
+      "Heridas Abiertas",
+      "Sur ma peau",
+      "สนิทชิดเชือด",
+      "Оштри предмети",
+      "چیزهای تیز",
+      "シャープ・オブジェクト KIZU－傷－：連続少女猟奇殺人事件",
+      "Vật Sắc",
+      "Ostrina",
+      "Obiecte ascuțite",
+      "أدوات حادة"
+    ],
     "seasons": [
       {
         "id": 85560,
@@ -177700,7 +179314,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/70453",
-    "fetchedAt": "2026-10-06T05:54:13.573Z"
+    "fetchedAt": "2026-10-06T06:29:51.747Z"
   },
   "She Loves to Cook, and She Loves to Eat": {
     "tmdbId": 212765,
@@ -177729,6 +179343,21 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/uHi0EOih6zhlgWJ34pnsf9Ii7P3.jpg",
     "backdropPath": "/gjmlEarJ2fCpISnfNzSLoF6C4w3.jpg",
+    "alternativeTitles": [
+      "她爱做饭，她爱吃饭",
+      "想做菜的女人和想吃的女人",
+      "喜歡做飯的女子與喜歡吃飯的女子",
+      "Tsukuritai Onna to Tabetai Onna",
+      "She Loves to Cook and She Loves to Eat"
+    ],
+    "translatedTitles": [
+      "想做饭的女人和想吃饭的女人",
+      "作りたい女と食べたい女",
+      "She Loves to Cook, and She Loves to Eat",
+      "만들고 싶은 여자와 먹고 싶은 여자",
+      "喜歡做飯的女子與喜歡吃飯的女子",
+      "SHE LOVES TO COOK AND SHE LOVES TO EAT"
+    ],
     "seasons": [
       {
         "id": 313256,
@@ -178153,7 +179782,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/212765",
-    "fetchedAt": "2026-10-06T05:54:13.914Z"
+    "fetchedAt": "2026-10-06T06:29:52.355Z"
   },
   "She-Hulk: Attorney at Law": {
     "tmdbId": 92783,
@@ -178183,6 +179812,64 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/5xz2orV8f0usyrfGNshcoXHmiaV.jpg",
     "backdropPath": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+    "alternativeTitles": [
+      "She-Hulk : Avocate de Marvel Studios",
+      "女浩克",
+      "女浩克：政法律师",
+      "Marvel's She-Hulk - Die Anwältin",
+      "هي هالك : محامية في القانون",
+      "Marvel's She-Hulk: abogada Hulka",
+      "አማረኛ",
+      "Miss Hulk : Avocate",
+      "She-Hulk : Avocate",
+      "变形女侠：律政英雌",
+      "הענקית הירוקה",
+      "شی‌هالک: وکیل دادگستری",
+      "هالک‌ زن: وکیل دادگستری",
+      "هالک دخت",
+      "هالک-دخت: وکیل دادگستری",
+      "شی هالک",
+      "She ハルク：ザ・アトーニー",
+      "변호사 쉬 헐크",
+      "Женщина-Халк: Адвокат",
+      "ชี-ฮัลค์",
+      "ชี-ฮัลค์: ทนายสายลุย",
+      "律师女浩克",
+      "Жінка-Галк: Адвокатка",
+      "Жінка-Халк: Адвокатка",
+      "She-Hulk",
+      "Marvel Studios' She-Hulk: Attorney at Law"
+    ],
+    "translatedTitles": [
+      "She-Hulk: Attorney at Law",
+      "변호사 쉬헐크",
+      "She-Hulk : Avocate",
+      "Mulher-Hulk: Defensora de Heróis",
+      "Жінка-Галк: Адвокатка",
+      "She-Hulk: abogada Hulka",
+      "שי-האלק: עורכת דין בשירות החוק",
+      "She-Hulk: Defensora de héroes",
+      "シー・ハルク：ザ・アトーニー",
+      "She-Hulk: Neuvěřitelná právnička",
+      "She-Hulk: Neuveriteľná právnička",
+      "Amazon: Ügyvéd",
+      "She-Hulk - A Advogada",
+      "律師女浩克",
+      "Mecenas She-Hulk",
+      "She-Hulk: Die Anwältin",
+      "女浩克",
+      "ഷീ-ഹൾക്ക്",
+      "शी-हल्क",
+      "She-Hulk: Avocata apărării",
+      "Жената-Хълк: Адвокат",
+      "شي-هالك: محامية في القانون",
+      "變形女俠：律政英雌",
+      "Nữ Khổng Lồ Xanh",
+      "شی هالک‌ : وکیل دادگستری",
+      "Ji-Halkas: Teisininkė",
+      "ქალი-ჰალკი: ადვოკატი",
+      "Жена-Хулк: Адвокат"
+    ],
     "seasons": [
       {
         "id": 163259,
@@ -179563,7 +181250,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92783",
-    "fetchedAt": "2026-10-06T05:54:14.147Z"
+    "fetchedAt": "2026-10-06T06:29:52.865Z"
   },
   "Sjukt oklar": {
     "tmdbId": 85530,
@@ -179592,6 +181279,12 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/sx7VzD6FLQFx3QuuVZsnrQmJDMp.jpg",
     "backdropPath": "/jQV17daGhXKdw20ZsBaAo2qaChS.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "无可救药",
+      "Sjukt oklar",
+      "Cực Kỳ Mơ Hồ"
+    ],
     "seasons": [
       {
         "id": 115557,
@@ -179834,7 +181527,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85530",
-    "fetchedAt": "2026-10-06T05:54:14.491Z"
+    "fetchedAt": "2026-10-06T06:29:53.486Z"
   },
   "South of Nowhere": {
     "tmdbId": 2081,
@@ -179869,6 +181562,13 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/zGvtxSlopOuhXDjjQrSuPqW62kU.jpg",
     "backdropPath": "/xKKl8f3G5gYStIhfvpJVKZ7sMdJ.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "心倾何处",
+      "South of Nowhere",
+      "Do neznáma",
+      "心傾何處"
+    ],
     "seasons": [
       {
         "id": 6295,
@@ -180967,7 +182667,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/2081",
-    "fetchedAt": "2026-10-06T05:54:14.913Z"
+    "fetchedAt": "2026-10-06T06:29:54.269Z"
   },
   "Special Ops: Lioness": {
     "tmdbId": 113962,
@@ -180997,6 +182697,41 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdropPath": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "alternativeTitles": [
+      "Operação: Lioness",
+      "母狮",
+      "特别行动：母狮",
+      "Special Ops: Lioness",
+      "Opérations Spéciales : Lioness",
+      "מבצעים מיוחדים: לביאה",
+      "شیرزن",
+      "Special Ops Lioness",
+      "諜戰行動：母獅"
+    ],
+    "translatedTitles": [
+      "母狮",
+      "Lioness",
+      "라이어니스: 특수 작전팀",
+      "Operazione speciale: Lioness",
+      "Operaciones Especiales: Lioness",
+      "Спецзагін \"Левиця\"",
+      "Special Ops: Lioness",
+      "Спецназ: Львица",
+      "ليونيس",
+      "Specialusis būrys: Liūtė",
+      "Đặc Nhiệm: Sư Tử Cái",
+      "Operativo: Lioness",
+      "特種部隊：母獅",
+      "הלביאות: מבצעים מיוחדים",
+      "諜戰行動：母獅",
+      "Лъвица",
+      "Operațiuni speciale: Leoaica",
+      "شیرزن",
+      "ძუ ლომი",
+      "Лавица",
+      "特殊作戦部隊：ライオネス",
+      "Opérations Spéciales : Lioness"
+    ],
     "seasons": [
       {
         "id": 170740,
@@ -181336,7 +183071,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 60076,
         "name": "Thad Luckinbill",
-        "character": "Kyle / Kyle McManus",
+        "character": "Kyle McManus / Kyle",
         "order": 12,
         "profilePath": "/7zBnpYTwwxKT6OHcycqacGQwQT8.jpg"
       },
@@ -181840,7 +183575,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 98215,
         "name": "Matt Gerald",
-        "character": "Cody / Cody J",
+        "character": "Cody J / Cody",
         "order": 569,
         "profilePath": "/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg"
       },
@@ -182568,7 +184303,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1711699,
         "name": "Jose Vasquez",
-        "character": "Punk #4 / Punk #3",
+        "character": "Punk #3 / Punk #4",
         "order": 673,
         "profilePath": "/6KCW3MCV5LMwK7p1zMwXBLbT4gz.jpg"
       },
@@ -182652,7 +184387,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 3492602,
         "name": "Konstantin Podprugin",
-        "character": "Man / Man #1",
+        "character": "Man #1 / Man",
         "order": 688,
         "profilePath": "/m0IdxqTyKuSEfHn0dN35QOxuLHB.jpg"
       },
@@ -183783,24 +185518,15 @@ window.WLW_TMDB_DETAILS = {
           "Creator",
           "Director",
           "Executive Producer",
-          "Story",
+          "Teleplay",
           "Writer",
-          "Teleplay"
+          "Story"
         ]
       },
       {
         "id": 3176244,
         "name": "Michael Friedman",
         "profilePath": "/h6qBemrwTBKJcuc5gL2ZDs8qLb1.jpg",
-        "jobs": [
-          "Director",
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 56435,
-        "name": "Stephen Kay",
-        "profilePath": "/9HsKUi7Ab5jtIQ59OOGyvBtfJRI.jpg",
         "jobs": [
           "Director",
           "Executive Producer"
@@ -183816,17 +185542,18 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 40256,
-        "name": "D.J. Caruso",
-        "profilePath": "/f1SZVhhjvzVot596JYVJdf60dWY.jpg",
+        "id": 56435,
+        "name": "Stephen Kay",
+        "profilePath": "/9HsKUi7Ab5jtIQ59OOGyvBtfJRI.jpg",
         "jobs": [
-          "Director"
+          "Director",
+          "Executive Producer"
         ]
       },
       {
-        "id": 233263,
-        "name": "Anthony Byrne",
-        "profilePath": "",
+        "id": 40256,
+        "name": "D.J. Caruso",
+        "profilePath": "/f1SZVhhjvzVot596JYVJdf60dWY.jpg",
         "jobs": [
           "Director"
         ]
@@ -183840,6 +185567,14 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 233263,
+        "name": "Anthony Byrne",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 57135,
         "name": "Robert McLachlan",
         "profilePath": "/yTWFJiQCp9ilMcULCGLnObD6ICc.jpg",
@@ -183848,41 +185583,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 8691,
-        "name": "Zoe Saldaña",
-        "profilePath": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 4232,
-        "name": "Bob Yari",
-        "profilePath": "/8PecTVSJk5uJmndCGTLwgsLPEhP.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
         "id": 82943,
         "name": "Jill Wagner",
         "profilePath": "/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 4177284,
-        "name": "David Lemanowicz",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 41892,
-        "name": "Geyer Kosinski",
-        "profilePath": "",
         "jobs": [
           "Executive Producer"
         ]
@@ -183896,14 +185599,6 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 228247,
-        "name": "Ron Burkle",
-        "profilePath": "/hf69HPpxXieEPqSblJGqX5Hq31V.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
         "id": 2227,
         "name": "Nicole Kidman",
         "profilePath": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
@@ -183912,9 +185607,49 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 4232,
+        "name": "Bob Yari",
+        "profilePath": "/8PecTVSJk5uJmndCGTLwgsLPEhP.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 8691,
+        "name": "Zoe Saldaña",
+        "profilePath": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 41892,
+        "name": "Geyer Kosinski",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 4177284,
+        "name": "David Lemanowicz",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
         "id": 21390,
         "name": "David C. Glasser",
         "profilePath": "/t26MlYwJl4TBLFkHz9pjixA8yo7.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 228247,
+        "name": "Ron Burkle",
+        "profilePath": "/hf69HPpxXieEPqSblJGqX5Hq31V.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -183937,7 +185672,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113962",
-    "fetchedAt": "2026-10-06T05:54:15.335Z"
+    "fetchedAt": "2026-10-06T06:29:55.082Z"
   },
   "Station 19": {
     "tmdbId": 76773,
@@ -183967,6 +185702,36 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
     "backdropPath": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+    "alternativeTitles": [
+      "Die Jungen Helden",
+      "ステーション19",
+      "ステーション・ナインティーン"
+    ],
+    "translatedTitles": [
+      "19号消防局",
+      "Station 19",
+      "תחנה 19",
+      "Пожарная часть 19",
+      "Станция 19",
+      "Grey's Anatomy : Station 19",
+      "Estación 19",
+      "Seattle Firefighters - Die jungen Helden",
+      "Estação 19",
+      "스테이션 19",
+      "Станція 19",
+      "19-es körzet",
+      "V ohni",
+      "Asema 19",
+      "19號消防局",
+      "Jednostka 19",
+      "19-oji komanda",
+      "Postaja 19",
+      "STATION 19",
+      "ทีมแกร่งนักผจญเพลิง",
+      "19 號消防局",
+      "ایستگاه 19",
+      "Stația 19"
+    ],
     "seasons": [
       {
         "id": 98684,
@@ -185856,7 +187621,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1607796,
         "name": "Joseph Piccuirro",
-        "character": "Station 23 Firefighter / David Mayhorn",
+        "character": "David Mayhorn / Station 23 Firefighter",
         "order": 612,
         "profilePath": ""
       },
@@ -186297,7 +188062,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1077345,
         "name": "Jennifer Kim",
-        "character": "Darcie / TV Reporter",
+        "character": "TV Reporter / Darcie",
         "order": 678,
         "profilePath": "/yLBlN3ZxNZx4jbCBT4wHUDXtZe7.jpg"
       },
@@ -187326,7 +189091,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1236010,
         "name": "Kenneth Meseroll",
-        "character": "Dad Montgomery / Paul Montgomery",
+        "character": "Paul Montgomery / Dad Montgomery",
         "order": 829,
         "profilePath": ""
       },
@@ -190800,7 +192565,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1077345,
         "name": "Jennifer Kim",
-        "character": "Darcie / TV Reporter",
+        "character": "TV Reporter / Darcie",
         "order": 678,
         "profilePath": "/yLBlN3ZxNZx4jbCBT4wHUDXtZe7.jpg"
       },
@@ -192785,14 +194550,6 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1433989,
-        "name": "Tessa Blake",
-        "profilePath": "/gg1V8wk9qQdqCU0WbRcSIfTh7kg.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 205644,
         "name": "David Greenspan",
         "profilePath": "",
@@ -192801,9 +194558,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1584194,
-        "name": "Paula Hunziker",
-        "profilePath": "/6bftg4Ky515koybPicjuRSTSoJz.jpg",
+        "id": 1433989,
+        "name": "Tessa Blake",
+        "profilePath": "/gg1V8wk9qQdqCU0WbRcSIfTh7kg.jpg",
         "jobs": [
           "Director"
         ]
@@ -192817,49 +194574,17 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 1584194,
+        "name": "Paula Hunziker",
+        "profilePath": "/6bftg4Ky515koybPicjuRSTSoJz.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 1285937,
         "name": "Tamika Miller",
         "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 166447,
-        "name": "Milan Cheylov",
-        "profilePath": "/bEw8P5gniVmpt1RgUHbZxfgzrKK.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1213560,
-        "name": "Allison Liddi-Brown",
-        "profilePath": "/273QG90wZlrLgDKtaCxNWj23x1G.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1940580,
-        "name": "Nicole Cummins-Rubio",
-        "profilePath": "/nVOmvc30Nkhhl28jrUve5aUxqZP.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 95475,
-        "name": "Jason George",
-        "profilePath": "/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 121767,
-        "name": "Bethany Rooney",
-        "profilePath": "/q59fiboczOPgklDZL9Hhec7tX3b.jpg",
         "jobs": [
           "Director"
         ]
@@ -192881,41 +194606,49 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 1940580,
+        "name": "Nicole Cummins-Rubio",
+        "profilePath": "/nVOmvc30Nkhhl28jrUve5aUxqZP.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 95475,
+        "name": "Jason George",
+        "profilePath": "/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 166447,
+        "name": "Milan Cheylov",
+        "profilePath": "/bEw8P5gniVmpt1RgUHbZxfgzrKK.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 121767,
+        "name": "Bethany Rooney",
+        "profilePath": "/q59fiboczOPgklDZL9Hhec7tX3b.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1213560,
+        "name": "Allison Liddi-Brown",
+        "profilePath": "/273QG90wZlrLgDKtaCxNWj23x1G.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 1080857,
         "name": "DeMane Davis",
         "profilePath": "/nlp8kQ1jcN0Zbt2rv9SRdIqjl2q.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 154955,
-        "name": "Danielle Savre",
-        "profilePath": "/6N7FtcVfNqsx7PEj3JdNN4sOzX4.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 566964,
-        "name": "Pete Chatmon",
-        "profilePath": "/aUGfTu2Pf1Dvbo1CDWQLecCccIe.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1215703,
-        "name": "Karen Gaviola",
-        "profilePath": "/tkJ0nzWQIvz4sAno7SZBZ1U6OMF.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1283668,
-        "name": "Sydney Freeland",
-        "profilePath": "/mJQ8NheBTdQNFV1ZPOQioEMs0j6.jpg",
         "jobs": [
           "Director"
         ]
@@ -192929,41 +194662,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1218791,
-        "name": "Dennis Smith",
-        "profilePath": "/cxsDfWfVvHQK81u04124mDJVMkJ.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 68946,
-        "name": "James Hanlon",
-        "profilePath": "/LKWIxng8blmcgypa8UROtSbF7b.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1213615,
-        "name": "Ellen S. Pressman",
-        "profilePath": "/b7IFJ7XoPT6oQ5DT6s4NTZWztFA.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 1744211,
         "name": "Nzingha Stewart",
         "profilePath": "/th8WxtcLcSMqByxwGXzCMnUClpq.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 3701237,
-        "name": "Oliver Bokelberg",
-        "profilePath": "",
         "jobs": [
           "Director"
         ]
@@ -192977,33 +194678,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1583278,
-        "name": "Sheelin Choksey",
-        "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1214575,
-        "name": "Mary Lou Belli",
-        "profilePath": "/yv0I6ou5BFjr5FZWAy3yqJ4I8lx.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1212230,
-        "name": "Janice Cooke",
-        "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1191192,
-        "name": "Marisol Adler",
-        "profilePath": "",
+        "id": 1213615,
+        "name": "Ellen S. Pressman",
+        "profilePath": "/b7IFJ7XoPT6oQ5DT6s4NTZWztFA.jpg",
         "jobs": [
           "Director"
         ]
@@ -193017,9 +194694,17 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1371115,
-        "name": "Diana Valentine",
-        "profilePath": "/gVtTIVvk79TX5HH7mquqdTLatNQ.jpg",
+        "id": 154955,
+        "name": "Danielle Savre",
+        "profilePath": "/6N7FtcVfNqsx7PEj3JdNN4sOzX4.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 68946,
+        "name": "James Hanlon",
+        "profilePath": "/LKWIxng8blmcgypa8UROtSbF7b.jpg",
         "jobs": [
           "Director"
         ]
@@ -193041,6 +194726,62 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 1215703,
+        "name": "Karen Gaviola",
+        "profilePath": "/tkJ0nzWQIvz4sAno7SZBZ1U6OMF.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1191192,
+        "name": "Marisol Adler",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 566964,
+        "name": "Pete Chatmon",
+        "profilePath": "/aUGfTu2Pf1Dvbo1CDWQLecCccIe.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1583278,
+        "name": "Sheelin Choksey",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1214575,
+        "name": "Mary Lou Belli",
+        "profilePath": "/yv0I6ou5BFjr5FZWAy3yqJ4I8lx.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 3701237,
+        "name": "Oliver Bokelberg",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1283668,
+        "name": "Sydney Freeland",
+        "profilePath": "/mJQ8NheBTdQNFV1ZPOQioEMs0j6.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 47020,
         "name": "Eric Laneuville",
         "profilePath": "/hrVy4Ws5sL7rOI7TbTlKrUVosMF.jpg",
@@ -193049,11 +194790,27 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 25539,
-        "name": "Shonda Rhimes",
-        "profilePath": "/pIQbVxfjNwZ0DaAjo3q107nng1b.jpg",
+        "id": 1218791,
+        "name": "Dennis Smith",
+        "profilePath": "/cxsDfWfVvHQK81u04124mDJVMkJ.jpg",
         "jobs": [
-          "Executive Producer"
+          "Director"
+        ]
+      },
+      {
+        "id": 1212230,
+        "name": "Janice Cooke",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1371115,
+        "name": "Diana Valentine",
+        "profilePath": "/gVtTIVvk79TX5HH7mquqdTLatNQ.jpg",
+        "jobs": [
+          "Director"
         ]
       },
       {
@@ -193071,6 +194828,14 @@ window.WLW_TMDB_DETAILS = {
         "jobs": [
           "Executive Producer",
           "Writer"
+        ]
+      },
+      {
+        "id": 25539,
+        "name": "Shonda Rhimes",
+        "profilePath": "/pIQbVxfjNwZ0DaAjo3q107nng1b.jpg",
+        "jobs": [
+          "Executive Producer"
         ]
       },
       {
@@ -193130,8 +194895,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 3701236,
-        "name": "Staci Okunola",
+        "id": 1549883,
+        "name": "Tyrone Finch",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -193146,8 +194911,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1549883,
-        "name": "Tyrone Finch",
+        "id": 3701236,
+        "name": "Staci Okunola",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -193158,6 +194923,15 @@ window.WLW_TMDB_DETAILS = {
         "name": "Leah Gonzalez",
         "profilePath": "",
         "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 2545728,
+        "name": "Rob Giles",
+        "profilePath": "",
+        "jobs": [
+          "Story",
           "Writer"
         ]
       },
@@ -193178,15 +194952,6 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2545728,
-        "name": "Rob Giles",
-        "profilePath": "",
-        "jobs": [
-          "Story",
-          "Writer"
-        ]
-      },
-      {
         "id": 1524509,
         "name": "Emmylou Díaz",
         "profilePath": "",
@@ -193195,8 +194960,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1826006,
-        "name": "Brian Anthony",
+        "id": 3247553,
+        "name": "Daniel K. Hoh",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -193219,80 +194984,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 3247553,
-        "name": "Daniel K. Hoh",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1172871,
-        "name": "James Leffler",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1214632,
-        "name": "Daniel Arkin",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1254646,
-        "name": "Wendy Calhoun",
-        "profilePath": "/hkgX6Upu5R84u5MwiKseZwOrgQb.jpg",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1224260,
-        "name": "Sam Forman",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 33280,
-        "name": "Trey Callaway",
-        "profilePath": "/Al6d18nhGXny7TrCkmLOl5EkawF.jpg",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 3747852,
-        "name": "Mellow Brown",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 141916,
-        "name": "Beresford Bennett",
-        "profilePath": "/xahMiplzOY0sW5tijfIuXWAMiOF.jpg",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1224068,
-        "name": "Zoanne Clack",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1155519,
-        "name": "Benjamin Hayes",
+        "id": 1826006,
+        "name": "Brian Anthony",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -193307,24 +195000,32 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1236114,
-        "name": "Chris Downey",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 3483475,
-        "name": "Alexandra Fernandez",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
         "id": 1868591,
         "name": "Jill Weinberger",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 2577054,
+        "name": "Cinque Henderson",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1224260,
+        "name": "Sam Forman",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1224068,
+        "name": "Zoanne Clack",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -193339,8 +195040,16 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1172870,
-        "name": "Molly Green",
+        "id": 33280,
+        "name": "Trey Callaway",
+        "profilePath": "/Al6d18nhGXny7TrCkmLOl5EkawF.jpg",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 3483475,
+        "name": "Alexandra Fernandez",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -193355,16 +195064,72 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2577054,
-        "name": "Cinque Henderson",
+        "id": 1172871,
+        "name": "James Leffler",
         "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1236114,
+        "name": "Chris Downey",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1214632,
+        "name": "Daniel Arkin",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 3747852,
+        "name": "Mellow Brown",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1155519,
+        "name": "Benjamin Hayes",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1172870,
+        "name": "Molly Green",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1254646,
+        "name": "Wendy Calhoun",
+        "profilePath": "/hkgX6Upu5R84u5MwiKseZwOrgQb.jpg",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 141916,
+        "name": "Beresford Bennett",
+        "profilePath": "/xahMiplzOY0sW5tijfIuXWAMiOF.jpg",
         "jobs": [
           "Writer"
         ]
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/76773",
-    "fetchedAt": "2026-10-06T05:54:16.155Z"
+    "fetchedAt": "2026-10-06T06:29:56.644Z"
   },
   "Sterling Point": {
     "tmdbId": 283297,
@@ -193394,6 +195159,29 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
     "backdropPath": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "斯特林角",
+      "Sterling Point",
+      "Стерлинг Поинт",
+      "스털링 포인트",
+      "Стерлінґ Пойнт",
+      "סטרלינג פוינט",
+      "Стърлинг Пойнт",
+      "Sterling Point - L'isola dei segreti",
+      "نقطة سترلينغ",
+      "星嶼秘境",
+      "स्टर्लिंग पॉइंट",
+      "Στέρλινγκ Πόιντ",
+      "ಸ್ಟರ್ಲಿಂಗ್ ಪಾಯಿಂಟ್",
+      "スターリング・ポイント あの夏、あの島で",
+      "ஸ்டர்லிங் பாயிண்ட்",
+      "സ്റ്റെർലിങ് പോയിൻ്റ്",
+      "స్టెర్లింగ్ పాయింట్",
+      "สเตอร์ลิ่ง พอยต์ : มรดกกลางใจ",
+      "استرلینگ پوینت",
+      "سٹرلنگ پوائنٹ"
+    ],
     "seasons": [
       {
         "id": 440261,
@@ -193792,7 +195580,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/283297",
-    "fetchedAt": "2026-10-06T05:54:16.481Z"
+    "fetchedAt": "2026-10-06T06:29:57.261Z"
   },
   "Supergirl": {
     "tmdbId": 62688,
@@ -193829,6 +195617,35 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/90mSQajf4STPROA6H7Hh8OvyWdK.jpg",
     "backdropPath": "/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
+    "alternativeTitles": [
+      "Super girl",
+      "Super-girl",
+      "超女",
+      "超级少女",
+      "Σούπεργκερλ",
+      "Супердевушка",
+      "ซูเปอร์เกิร์ล สาวน้อยจอมพลัง"
+    ],
+    "translatedTitles": [
+      "超级少女",
+      "Supergirl",
+      "Супергёрл",
+      "Σούπεργκερλ",
+      "دختر فوق العاده ( سوپرگرل )",
+      "סופרגירל",
+      "슈퍼걸",
+      "Супердівчина",
+      "ซูเปอร์เกิร์ล",
+      "Super Mergina",
+      "Супергърл",
+      "女超人",
+      "スーパーガール",
+      "الفتاة الخارقة",
+      "სუპერ გოგონა",
+      "Nữ Siêu Nhân",
+      "Supergyorl",
+      "സൂപ്പർഗേൾ"
+    ],
     "seasons": [
       {
         "id": 66734,
@@ -204051,7 +205868,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62688",
-    "fetchedAt": "2026-10-06T05:54:17.210Z"
+    "fetchedAt": "2026-10-06T06:29:58.549Z"
   },
   "Swimming with Sharks": {
     "tmdbId": 156822,
@@ -204080,6 +205897,18 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/kiBuVgOdEYAx2kApt5FJ4SXiczz.jpg",
     "backdropPath": "/8qdU0KjhB3fSpXI33RKc7NREJtV.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "与鲨同游",
+      "Swimming with Sharks",
+      "스위밍 위드 샤크",
+      "Среди акул",
+      "לשחות עם כרישים",
+      "Cómo sobrevivir a un tiburón",
+      "Серед акул",
+      "驚爆好萊塢內幕",
+      "Peldot ar haizivīm"
+    ],
     "seasons": [
       {
         "id": 242383,
@@ -204305,7 +206134,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/156822",
-    "fetchedAt": "2026-10-06T05:54:17.443Z"
+    "fetchedAt": "2026-10-06T06:29:58.995Z"
   },
   "Teenage Bounty Hunters": {
     "tmdbId": 90766,
@@ -204336,6 +206165,34 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/gFtJaWcLAJJsSzfuWcLSeAS8aVl.jpg",
     "backdropPath": "/63LRRGIWQxvJiW4G1fRyS70ZE6Y.jpg",
+    "alternativeTitles": [
+      "赏金姐妹花",
+      "Adolescentes cazadoras de recompensas",
+      "Распутные охотницы за головами",
+      "Юні мисливиці за головами",
+      "Slutty Teenage Bounty Hunters"
+    ],
+    "translatedTitles": [
+      "赏金姐妹花",
+      "Teenage Bounty Hunters",
+      "Caçadoras de Recompensas",
+      "Jeunes filles sachant chasser",
+      "Молодые охотницы за головами",
+      "Tinédzser fejvadászok",
+      "틴에이지 바운티 헌터스",
+      "נותנות בראש",
+      "Holky na lovu (odměn)",
+      "Dos balas muy perdidas",
+      "賞金姐妹花",
+      "Nastoletnie łowczynie nagród",
+      "Adolescentes cazadoras de recompensas",
+      "めちゃくちゃ恋するハンターズ",
+      "Юні мисливиці за головами",
+      "Νέες και Ατίθασες Κυνηγοί Κεφαλών",
+      "Adolescente pe urmele ticăloşilor",
+      "Thợ Săn Tiền Thưởng Tuổi Học Đường",
+      "สาวซ่าล่าค่าหัว"
+    ],
     "seasons": [
       {
         "id": 126910,
@@ -205698,7 +207555,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/90766",
-    "fetchedAt": "2026-10-06T05:54:17.677Z"
+    "fetchedAt": "2026-10-06T06:29:59.440Z"
   },
   "This Way Up": {
     "tmdbId": 91740,
@@ -205727,6 +207584,16 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/mcj3pxw0Z2xx4vGdKi6apWuaWll.jpg",
     "backdropPath": "/dHZlmXSIwbMgm6HfFa9GFzHNsM7.jpg",
+    "alternativeTitles": [
+      "生活向上"
+    ],
+    "translatedTitles": [
+      "此路朝上",
+      "This Way Up",
+      "Вверх дном",
+      "디스 웨이 업",
+      "Pe drumul cel bun"
+    ],
     "seasons": [
       {
         "id": 128698,
@@ -206091,7 +207958,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91740",
-    "fetchedAt": "2026-10-06T05:54:18.002Z"
+    "fetchedAt": "2026-10-06T06:30:00.054Z"
   },
   "Triple Oh!": {
     "tmdbId": 252382,
@@ -206120,6 +207987,11 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/xn6cisrn8hed2LkJpUk4YmHQb5G.jpg",
     "backdropPath": "/q23AlAShlgoOGkSUhqBP3ymRi1o.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "零零零",
+      "Triple Oh!"
+    ],
     "seasons": [
       {
         "id": 389511,
@@ -206530,7 +208402,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/252382",
-    "fetchedAt": "2026-10-06T05:54:18.244Z"
+    "fetchedAt": "2026-10-06T06:30:00.525Z"
   },
   "Veneno": {
     "tmdbId": 100834,
@@ -206559,6 +208431,16 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/rSMgruoizGda8Rqe9DsgD2Ln8Uq.jpg",
     "backdropPath": "/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+    "alternativeTitles": [
+      "Veneno"
+    ],
+    "translatedTitles": [
+      "毒药",
+      "Veneno",
+      "베네노",
+      "Венено",
+      "Inde"
+    ],
     "seasons": [
       {
         "id": 145791,
@@ -207215,7 +209097,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100834",
-    "fetchedAt": "2026-10-06T05:54:18.484Z"
+    "fetchedAt": "2026-10-06T06:30:00.970Z"
   },
   "Vigil": {
     "tmdbId": 126167,
@@ -207245,6 +209127,33 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/5zAheY0Upi2MwU3edGtEgb7Ldh3.jpg",
     "backdropPath": "/bfL7ZRhYJn5rYq9DYZL4Wf5qboL.jpg",
+    "alternativeTitles": [
+      "守夜号",
+      "Vigil Tod auf hoher See",
+      "Vigil: Tod auf hoher See",
+      "Vigil: Conspiración nuclear",
+      "Vigil - kuolema syvyyksissä",
+      "Vigil - vaaniva kuolema",
+      "ויג'יל",
+      "Sazvērestība armijas bāzē"
+    ],
+    "translatedTitles": [
+      "不眠",
+      "Vigil",
+      "Дежурство",
+      "Sazvērestība zemūdenē",
+      "守夜號",
+      "ערנות",
+      "Vigil: Conspiración nuclear",
+      "Чергування",
+      "비질",
+      "Mirtis gelmėse",
+      "Vigil - Døden i dybet",
+      "Vigil - Indagine a bordo",
+      "原潜ヴィジル 水面下の陰謀",
+      "Vigil: conspiración nuclear",
+      "მოვალეობა"
+    ],
     "seasons": [
       {
         "id": 196468,
@@ -208147,7 +210056,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126167",
-    "fetchedAt": "2026-10-06T05:54:19.100Z"
+    "fetchedAt": "2026-10-06T06:30:02.152Z"
   },
   "Warehouse 13": {
     "tmdbId": 15819,
@@ -208179,6 +210088,35 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/2AIi7giGzw4Jt709FaL8gOe9GQu.jpg",
     "backdropPath": "/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+    "alternativeTitles": [
+      "Armazém 13",
+      "Skladiste 13",
+      "ウェアハウス13 ～秘密の倉庫 事件ファイル",
+      "ウェアハウス13／秘密の倉庫 事件ファイル",
+      "ウェアハウス13 秘密の倉庫 事件ファイル",
+      "13號倉庫"
+    ],
+    "translatedTitles": [
+      "十三号仓库",
+      "Warehouse 13",
+      "13-as raktár",
+      "Хранилище 13",
+      "Almacén 13",
+      "Сховище 13",
+      "Skladiště 13",
+      "L'entrepôt 13",
+      "第13號倉庫",
+      "Depozitul 13",
+      "Armazém 13",
+      "מחסן סודי 13",
+      "Magazyn 13",
+      "웨어하우스 13",
+      "საწყობი 13",
+      "ウェアハウス13 〜秘密の倉庫 事件ファイル〜",
+      "หน่วยลับคลังพิศวง",
+      "Varasto 13",
+      "第 13 號倉庫"
+    ],
     "seasons": [
       {
         "id": 27255,
@@ -215293,7 +217231,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15819",
-    "fetchedAt": "2026-10-06T05:54:19.712Z"
+    "fetchedAt": "2026-10-06T06:30:03.306Z"
   },
   "Wednesday": {
     "tmdbId": 119051,
@@ -215324,6 +217262,48 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
     "backdropPath": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+    "alternativeTitles": [
+      "Вэнсдэй",
+      "星期三",
+      "ოთხშაბათი",
+      "Γουένσντεϊ Άνταμς",
+      "וונסדי",
+      "چهارشنبه",
+      "Merlina",
+      "Уэнсдэй",
+      "Венздей",
+      "Sreda",
+      "เวนส์เดย์",
+      "Wednesday Addams",
+      "Uenzdey"
+    ],
+    "translatedTitles": [
+      "Wednesday",
+      "Mercredi",
+      "Wandinha",
+      "Miércoles",
+      "웬즈데이",
+      "Венздей",
+      "Mercoledì",
+      "Уэнздей",
+      "星期三",
+      "ウェンズデー",
+      "ונסדיי",
+      "Merlina",
+      "Среда",
+      "وينزداي آدامز",
+      "Sreda",
+      "ونزدی",
+      "Trečiadienė",
+      "Уенсдей",
+      "Mércores",
+      "Merkredo",
+      "უენსდეი",
+      "वेडनेसडे ऐडम्स",
+      "Dimecres",
+      "Venzdey",
+      "وینزڈے ایڈمز"
+    ],
     "seasons": [
       {
         "id": 182137,
@@ -217196,7 +219176,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/119051",
-    "fetchedAt": "2026-10-06T05:54:20.134Z"
+    "fetchedAt": "2026-10-06T06:30:04.201Z"
   },
   "Wentworth": {
     "tmdbId": 44856,
@@ -217232,6 +219212,24 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/3nikr0NE3t8UMgI1Ba6hXaeEgKr.jpg",
     "backdropPath": "/bPJ6t9O4pFlpZ5OvauM5EGBOd0L.jpg",
+    "alternativeTitles": [
+      "웬트워스",
+      "Wentworth Prison"
+    ],
+    "translatedTitles": [
+      "温特沃斯",
+      "Wentworth",
+      "Wentworth, a nők börtöne",
+      "Вентворт",
+      "웬트워스",
+      "ウェントワース女子刑務所",
+      "Уентуърт",
+      "Wentworth. Więzienie dla kobiet",
+      "וונטוורת'",
+      "溫特沃斯",
+      "温特沃斯女監牢",
+      "เวนท์เวิร์ธ"
+    ],
     "seasons": [
       {
         "id": 53647,
@@ -219824,7 +221822,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/44856",
-    "fetchedAt": "2026-10-06T05:54:21.135Z"
+    "fetchedAt": "2026-10-06T06:30:06.033Z"
   },
   "The Wilds": {
     "tmdbId": 113367,
@@ -219854,6 +221852,29 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg",
     "backdropPath": "/7SSO2wXsuOOVnB6oeWbuIDynrE2.jpg",
+    "alternativeTitles": [
+      "Дикунки",
+      "The Wilds"
+    ],
+    "translatedTitles": [
+      "荒野",
+      "The Wilds",
+      "Salvajes",
+      "The Wilds: Vidas Selvagens",
+      "Дикарки",
+      "孤島",
+      "Yaban",
+      "더 와일즈",
+      "אבודות בטבע",
+      "Trosečnice",
+      "ザ・ワイルズ ～孤島に残された少女たち～",
+      "Negyvenama sala",
+      "A vadak",
+      "Dzicz",
+      "Изгубени",
+      "ผจญป่า ฝ่าหาดมรณะ",
+      "Дикі"
+    ],
     "seasons": [
       {
         "id": 169272,
@@ -221045,14 +223066,6 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 157879,
-        "name": "Alison Maclean",
-        "profilePath": "/jfSCedkHdpM9HxmZvohQqYklutX.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 15337,
         "name": "John Polson",
         "profilePath": "/rsjpQFAvQSo05HflPSCODCCbYFl.jpg",
@@ -221062,9 +223075,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 558465,
-        "name": "Ben C. Lucas",
-        "profilePath": "",
+        "id": 157879,
+        "name": "Alison Maclean",
+        "profilePath": "/jfSCedkHdpM9HxmZvohQqYklutX.jpg",
         "jobs": [
           "Director"
         ]
@@ -221078,17 +223091,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1613214,
-        "name": "Tara Nicole Weyr",
+        "id": 558465,
+        "name": "Ben C. Lucas",
         "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1088579,
-        "name": "Haifaa al-Mansour",
-        "profilePath": "/67UWpEJi36AXxY3aQf4DBSvGv9e.jpg",
         "jobs": [
           "Director"
         ]
@@ -221099,15 +223104,6 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/bRJWL5X0R38kv92dFPAGTL3CGck.jpg",
         "jobs": [
           "Director"
-        ]
-      },
-      {
-        "id": 1302549,
-        "name": "Susanna Fogel",
-        "profilePath": "/sAbg3vh5GzQGXnlFpQlAyFAVmcs.jpg",
-        "jobs": [
-          "Director",
-          "Executive Producer"
         ]
       },
       {
@@ -221127,6 +223123,31 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 1668245,
+        "name": "Ben Young",
+        "profilePath": "/HGR4K0K2munDE65ySgmPjWV2hQ.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1088579,
+        "name": "Haifaa al-Mansour",
+        "profilePath": "/67UWpEJi36AXxY3aQf4DBSvGv9e.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1302549,
+        "name": "Susanna Fogel",
+        "profilePath": "/sAbg3vh5GzQGXnlFpQlAyFAVmcs.jpg",
+        "jobs": [
+          "Director",
+          "Executive Producer"
+        ]
+      },
+      {
         "id": 41847,
         "name": "Ed Wild",
         "profilePath": "",
@@ -221135,9 +223156,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1668245,
-        "name": "Ben Young",
-        "profilePath": "/HGR4K0K2munDE65ySgmPjWV2hQ.jpg",
+        "id": 1613214,
+        "name": "Tara Nicole Weyr",
+        "profilePath": "",
         "jobs": [
           "Director"
         ]
@@ -221151,20 +223172,20 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
+        "id": 35975,
+        "name": "Jamie Tarses",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
         "id": 62059,
         "name": "Amy Harris",
         "profilePath": "/y7geiXVVm2ut1GezcNaCcb90iQG.jpg",
         "jobs": [
           "Executive Producer",
           "Writer"
-        ]
-      },
-      {
-        "id": 35975,
-        "name": "Jamie Tarses",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
         ]
       },
       {
@@ -221192,16 +223213,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 509130,
-        "name": "Shalisha Francis",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1731178,
-        "name": "Jai Tiggett",
+        "id": 2158031,
+        "name": "Tonya Kong",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -221216,8 +223229,16 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2158031,
-        "name": "Tonya Kong",
+        "id": 1731178,
+        "name": "Jai Tiggett",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 509130,
+        "name": "Shalisha Francis",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -221233,7 +223254,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113367",
-    "fetchedAt": "2026-10-06T05:54:21.501Z"
+    "fetchedAt": "2026-10-06T06:30:06.662Z"
   },
   "WIR": {
     "tmdbId": 155700,
@@ -221262,6 +223283,14 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/dCyQWQL14QOuVVzPvxDL71kZJpp.jpg",
     "backdropPath": "/pi1TiumN7oFMuYrwHEqMBRBUiDE.jpg",
+    "alternativeTitles": [
+      "All About Us"
+    ],
+    "translatedTitles": [
+      "我们",
+      "Wir",
+      "All About Us"
+    ],
     "seasons": [
       {
         "id": 240160,
@@ -222189,7 +224218,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155700",
-    "fetchedAt": "2026-10-06T05:54:22.032Z"
+    "fetchedAt": "2026-10-06T06:30:07.704Z"
   },
   "Wynonna Earp": {
     "tmdbId": 65988,
@@ -222233,6 +224262,23 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
     "backdropPath": "/qVu5MC7DiDOrlcKNZsb9rEJJ1UI.jpg",
+    "alternativeTitles": [
+      "Уинона Ърп",
+      "ווינונה ארפ"
+    ],
+    "translatedTitles": [
+      "狙魔女杰",
+      "Wynonna Earp",
+      "Вайнона Эрп",
+      "Вайнона Ерп",
+      "Wynonna Earp: A Maldição dos Renascidos",
+      "וינונה ארפ",
+      "Уайнона Ърп",
+      "위노나 어프",
+      "Vainona Erp",
+      "狙魔女傑",
+      "ワイノナ・アープ"
+    ],
     "seasons": [
       {
         "id": 75564,
@@ -223172,7 +225218,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1815046,
         "name": "Josh Bertwistle",
-        "character": "Vinnie / Big Bubba",
+        "character": "Big Bubba / Vinnie",
         "order": 556,
         "profilePath": ""
       },
@@ -223886,7 +225932,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1831592,
         "name": "Kelsey Andries",
-        "character": "Rotten Jack / BBD Cleaner",
+        "character": "BBD Cleaner / Rotten Jack",
         "order": 659,
         "profilePath": "/cAVrs2DZ7rGpbGlmq5en4ZyuKuu.jpg"
       },
@@ -224952,7 +226998,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1831592,
         "name": "Kelsey Andries",
-        "character": "Rotten Jack / BBD Cleaner",
+        "character": "BBD Cleaner / Rotten Jack",
         "order": 659,
         "profilePath": "/cAVrs2DZ7rGpbGlmq5en4ZyuKuu.jpg"
       },
@@ -225255,7 +227301,7 @@ window.WLW_TMDB_DETAILS = {
       {
         "id": 1815046,
         "name": "Josh Bertwistle",
-        "character": "Vinnie / Big Bubba",
+        "character": "Big Bubba / Vinnie",
         "order": 556,
         "profilePath": ""
       },
@@ -225379,17 +227425,17 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 51034,
-        "name": "Brett Sullivan",
-        "profilePath": "/yJnzBZi4gsLRkuKN4mW6JELegow.jpg",
+        "id": 545330,
+        "name": "April Mullen",
+        "profilePath": "/kkpPBHkeKEa0CXsUEP11hOh6htk.jpg",
         "jobs": [
           "Director"
         ]
       },
       {
-        "id": 545330,
-        "name": "April Mullen",
-        "profilePath": "/kkpPBHkeKEa0CXsUEP11hOh6htk.jpg",
+        "id": 51034,
+        "name": "Brett Sullivan",
+        "profilePath": "/yJnzBZi4gsLRkuKN4mW6JELegow.jpg",
         "jobs": [
           "Director"
         ]
@@ -225427,25 +227473,9 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2112160,
-        "name": "Todd Berger",
-        "profilePath": "/xaBkKcUbsnmBRLiV8ZShO9sD7KF.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 1209601,
-        "name": "Ted Adams",
-        "profilePath": "/lPdyNS6aW0iJ9Bm7S8AyqMY7BDT.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 71582,
-        "name": "Tom Cox",
-        "profilePath": "/2iZz0xQJExKr2Ov1iUonkQsCW5D.jpg",
+        "id": 1485176,
+        "name": "Brian Dennis",
+        "profilePath": "/pLdLrBQNDY8HABslU08NZEztFB2.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -225459,17 +227489,33 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 1485176,
-        "name": "Brian Dennis",
-        "profilePath": "/pLdLrBQNDY8HABslU08NZEztFB2.jpg",
+        "id": 1316145,
+        "name": "Jordy Randall",
+        "profilePath": "/210RLhHYVFvUJcz1A8h1GiHwsGq.jpg",
         "jobs": [
           "Executive Producer"
         ]
       },
       {
-        "id": 1316145,
-        "name": "Jordy Randall",
-        "profilePath": "/210RLhHYVFvUJcz1A8h1GiHwsGq.jpg",
+        "id": 2112160,
+        "name": "Todd Berger",
+        "profilePath": "/xaBkKcUbsnmBRLiV8ZShO9sD7KF.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 71582,
+        "name": "Tom Cox",
+        "profilePath": "/2iZz0xQJExKr2Ov1iUonkQsCW5D.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 1209601,
+        "name": "Ted Adams",
+        "profilePath": "/lPdyNS6aW0iJ9Bm7S8AyqMY7BDT.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -225491,17 +227537,17 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 2168405,
-        "name": "Peter Emerson",
-        "profilePath": "/nn8AICyi96iISdlc55BmCCOjYnI.jpg",
+        "id": 2723738,
+        "name": "David Colburn",
+        "profilePath": "",
         "jobs": [
           "Executive Producer"
         ]
       },
       {
-        "id": 2723738,
-        "name": "David Colburn",
-        "profilePath": "",
+        "id": 2168405,
+        "name": "Peter Emerson",
+        "profilePath": "/nn8AICyi96iISdlc55BmCCOjYnI.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -225580,7 +227626,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/65988",
-    "fetchedAt": "2026-10-06T05:54:22.578Z"
+    "fetchedAt": "2026-10-06T06:30:08.691Z"
   },
   "Yellowjackets": {
     "tmdbId": 117488,
@@ -225616,6 +227662,31 @@ window.WLW_TMDB_DETAILS = {
     ],
     "posterPath": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
     "backdropPath": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "alternativeTitles": [
+      "黄蜂",
+      "צהובות",
+      "옐로우재킷",
+      "Lapsenes"
+    ],
+    "translatedTitles": [
+      "黄蜂",
+      "Yellowjackets",
+      "Шершни",
+      "옐로우재킷",
+      "הצהובות",
+      "黃蜂",
+      "Túlélőjátszma",
+      "Áo Khoác Vàng",
+      "Шершні",
+      "イエロージャケッツ",
+      "Vapsvos",
+      "Kollased vapsikud",
+      "Rumeni jopiči",
+      "แจ็กเก็ตสีเหลือง",
+      "Осите",
+      "Стршљенови",
+      "جلیقه زردها"
+    ],
     "seasons": [
       {
         "id": 178264,
@@ -228766,7 +230837,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/117488",
-    "fetchedAt": "2026-10-06T05:54:23.098Z"
+    "fetchedAt": "2026-10-06T06:30:09.672Z"
   }
 };
 window.WLW_TMDB_DETAILS_BY_ID = {
@@ -228805,6 +230876,52 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
     "backdropPath": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+    "alternativeTitles": [
+      "באפי קוטלת הערפדים",
+      "バフィー 恋する十字架",
+      "뱀파이어 해결사",
+      "버피와 뱀파이어",
+      "미녀와 뱀파이어",
+      "뱀파이어 헌터 버피",
+      "버피 더 뱀파이어 슬레이어",
+      "Баффі — винищувачка вампірів",
+      "BtVS"
+    ],
+    "translatedTitles": [
+      "吸血鬼猎人巴菲",
+      "Buffy the Vampire Slayer",
+      "Buffy - Caçadora de Vampiros",
+      "Buffy, cazavampiros",
+      "Buffy - Im Bann der Dämonen",
+      "Buffy contre les vampires",
+      "Buffy, a vámpírok réme",
+      "Buffy, spaima vampirilor",
+      "Баффи - истребительница вампиров",
+      "Buffy l'ammazzavampiri",
+      "Buffy: Postrach wampirów",
+      "Buffy: Vampyrernes skræk",
+      "Μπάφυ η Φονιάς των Βαμπίρ",
+      "Баффі — переможниця вампірів",
+      "Buffy: A Caça-Vampiros",
+      "Buffy, přemožitelka upírů ",
+      "באפי ציידת הערפדים",
+      "Buffy, vampyyrintappaja",
+      "Бъфи, убийцата на вампири",
+      "Bafi vampyrų žudikė",
+      "Buffy, ubojica vampira",
+      "بافی قاتل خون آشام",
+      "미녀와 뱀파이어",
+      "Buffy, la cazavampiros",
+      "Buffy, premožiteľka upírov",
+      "魔法奇兵",
+      "Buffy och vampyrerna",
+      "バフィー ～恋する十字架～",
+      "Buffy, izganjalka vampirjev",
+      "Buffy - vampyrenes skrekk",
+      "มือใหม่ปราบผี",
+      "Bafija pret vampīriem",
+      "Vampiiritapja Buffy"
+    ],
     "seasons": [
       {
         "id": 59465,
@@ -238515,7 +240632,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95",
-    "fetchedAt": "2026-10-06T05:53:53.584Z"
+    "fetchedAt": "2026-10-06T06:29:16.309Z"
   },
   "1411": {
     "tmdbId": 1411,
@@ -238546,6 +240663,49 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
     "backdropPath": "/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
+    "alternativeTitles": [
+      "Personne d'intérêt",
+      "嫌疑人",
+      "Kohde",
+      "ინტერესის ობიექტი",
+      "مظنون",
+      "فرد تحت نظر",
+      "مظنون تحت نظر",
+      "Suspectul",
+      "Подозреваемый",
+      "บุคคลต้องสงสัย",
+      "Особливо небезпечно",
+      "У полі зору",
+      "P.O.I"
+    ],
+    "translatedTitles": [
+      "疑犯追踪",
+      "Person of Interest",
+      "В поле зрения",
+      "A célszemély",
+      "Sob Suspeita",
+      "Impersonalni",
+      "Vigilados, Person of Interest",
+      "Osumnjičeni",
+      "Judantis objektas",
+      "Kohde",
+      "מבוקש",
+      "Personne d'intérêt",
+      "ปฏิบัติการลับสกัดทรชน",
+      "Pessoa de Interesse",
+      "شخص محل إهتمام",
+      "Под наблюдение",
+      "Підозрюваний",
+      "Lovci zločinců",
+      "퍼슨 오브 인터레스트",
+      "疑犯追蹤",
+      "パーソン・オブ・インタレスト",
+      "مظنون",
+      "Lovec zločincov",
+      "ინტერესის ობიექტი",
+      "Kẻ Tình Nghi",
+      "犯罪預警"
+    ],
     "seasons": [
       {
         "id": 3693,
@@ -250788,7 +252948,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1411",
-    "fetchedAt": "2026-10-06T05:54:11.224Z"
+    "fetchedAt": "2026-10-06T06:29:47.253Z"
   },
   "1416": {
     "tmdbId": 1416,
@@ -250817,6 +252977,62 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
     "backdropPath": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "alternativeTitles": [
+      "Anatomia e Greit",
+      "A Anatomia de Grey",
+      "L'anatomie de Grey",
+      "实习医生",
+      "Grey's Anatomy Die jungen Ärzte",
+      "Grey's Anatomy Die jungen Aerzte",
+      "Grey's Anatomy - Die jungen Ärzte",
+      "A coeur ouvert",
+      "그레이 아나토미",
+      "Анатомия Грей",
+      "Анатомія пристрасті",
+      "Greys Anatomy"
+    ],
+    "translatedTitles": [
+      "实习医生格蕾",
+      "Grey's Anatomy",
+      "A Grace klinika",
+      "Anatomia de Grey",
+      "Anatomía de Grey",
+      "Анатомията на Грей",
+      "האנטומיה של גריי",
+      "그레이 아나토미",
+      "Grey's Hvide Verden",
+      "Анатомия страсти",
+      "Anatomia lui Grey",
+      "Uvod u anatomiju",
+      "Greys Anatomy",
+      "Chirurdzy",
+      "Chirurgové",
+      "Anatomi Grey",
+      "Anatomi kelabu",
+      "Анатомія Ґрей",
+      "កាយវិភាគសាស្ត្ររបស់ហ្គ្រី",
+      "Grey's Anatomie",
+      "Dre Grey, leçons d'anatomie",
+      "グレイズ・アナトミー",
+      "Увод у анатомију",
+      "實習醫生",
+      "Greyn anatomia",
+      "کالبدشناسی گری",
+      "Grejas anatomija",
+      "Grei anatomija",
+      "Klinika Grace",
+      "გრეის ანატომია",
+      "Anatomía según Grey",
+      "تشريح غراي",
+      "Анатомія жарсці",
+      "Grey anatomiyasi",
+      "Talenti v belem",
+      "แพทย์มือใหม่ หัวใจเกินร้อย",
+      "Grey anatoomia",
+      "Ca Phẫu Thuật Của Grey",
+      "醫人當自強",
+      "GREY'S ANATOMY"
+    ],
     "seasons": [
       {
         "id": 3718,
@@ -291342,7 +293558,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1416",
-    "fetchedAt": "2026-10-06T05:54:02.511Z"
+    "fetchedAt": "2026-10-06T06:29:31.123Z"
   },
   "2081": {
     "tmdbId": 2081,
@@ -291377,6 +293593,13 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/zGvtxSlopOuhXDjjQrSuPqW62kU.jpg",
     "backdropPath": "/xKKl8f3G5gYStIhfvpJVKZ7sMdJ.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "心倾何处",
+      "South of Nowhere",
+      "Do neznáma",
+      "心傾何處"
+    ],
     "seasons": [
       {
         "id": 6295,
@@ -292475,7 +294698,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/2081",
-    "fetchedAt": "2026-10-06T05:54:14.913Z"
+    "fetchedAt": "2026-10-06T06:29:54.269Z"
   },
   "3475": {
     "tmdbId": 3475,
@@ -292505,6 +294728,31 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/nuBhtv4P5nY9loJ6kXb1hsyc9EA.jpg",
     "backdropPath": "/6OcRNLQP6jzRRGcS0JmnYKuX4oX.jpg",
+    "alternativeTitles": [
+      "女欢女爱",
+      "蕾丝箴言",
+      "エルのせかい",
+      "L 워드",
+      "L Word"
+    ],
+    "translatedTitles": [
+      "拉字至上",
+      "The L Word",
+      "The L Word - Wenn Frauen Frauen lieben",
+      "Секс в другом городе",
+      "Cuvântul cu L",
+      "Elles",
+      "еЛ връзки",
+      "L.",
+      "Láska je Láska",
+      "Słowo na L",
+      "ישנן בנות",
+      "La palabra L",
+      "Láska je láska",
+      "엘 워드",
+      "Lの世界",
+      "کلمه \"ل\""
+    ],
     "seasons": [
       {
         "id": 10603,
@@ -295292,7 +297540,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/3475",
-    "fetchedAt": "2026-10-06T05:54:06.794Z"
+    "fetchedAt": "2026-10-06T06:29:38.942Z"
   },
   "13812": {
     "tmdbId": 13812,
@@ -295323,6 +297571,23 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/jrPoKY5xDOeUyZ9NrswP37PWAAM.jpg",
     "backdropPath": "/jT8IYK7rvMRgk1bMJZvJMo0g88I.jpg",
+    "alternativeTitles": [
+      "Cambio de identidad",
+      "핑거스미스"
+    ],
+    "translatedTitles": [
+      "指匠情挑",
+      "Fingersmith",
+      "Cambio de Identidad",
+      "Du bout des doigts",
+      "핑거스미스",
+      "A tolvajlány",
+      "Falsas Aparências",
+      "Złodziejka",
+      "Бархатные пальчики",
+      "荊の城",
+      "Đôi Tay Đạo Chích"
+    ],
     "seasons": [
       {
         "id": 24936,
@@ -295523,7 +297788,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/13812",
-    "fetchedAt": "2026-10-06T05:53:58.676Z"
+    "fetchedAt": "2026-10-06T06:29:24.337Z"
   },
   "15260": {
     "tmdbId": 15260,
@@ -295554,6 +297819,53 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
     "backdropPath": "/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+    "alternativeTitles": [
+      "Hora de Aventura com Finn e Jake",
+      "Hora de Aventura",
+      "探险活宝",
+      "Abenteuerzeit mit Finn und Jake",
+      "Eventyrtid",
+      "Hora de Aventuras",
+      "Время приключений с Финном и Джейком",
+      "Час пригод разом із Фіном та Джейком",
+      "Adventure Time with Finn & Jake",
+      "Adventure Time: Stakes",
+      "Adventure time with finn jake"
+    ],
+    "translatedTitles": [
+      "探险活宝",
+      "Adventure Time",
+      "Hora de aventuras",
+      "Hora de Aventuras",
+      "Adventure Time avec Finn et Jake",
+      "Время приключений",
+      "Adventure Time - Abenteuerzeit mit Finn und Jake",
+      "Seikkailuhetki",
+      "Kalandra fel!",
+      "Eventyrtid",
+      "핀과 제이크의 어드벤처 타임",
+      "הרפתקאות פין וג'ייק",
+      "Äventyrsdags",
+      "Hora de Aventura",
+      "Час пригод",
+      "Време за приключения",
+      "Tijd voor avontuur",
+      "探險活寶",
+      "Nuotykių metas",
+      "Sarguzashtlar vaqti",
+      "Čas na dobrodružství",
+      "Să-nceapă aventura",
+      "Pora na przygodę!",
+      "แอดแวนเจอร์ ไทม์",
+      "アドベンチャー・タイム",
+      "Čas na dobrodružstvo",
+      "وقت المغامرة",
+      "Giờ Phiêu Lưu",
+      "თავგადასავლების დრო",
+      "探險時光",
+      "وقت ماجراجویی",
+      "Piedzīvojumu laiks"
+    ],
     "seasons": [
       {
         "id": 26868,
@@ -299467,7 +301779,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15260",
-    "fetchedAt": "2026-10-06T05:53:48.069Z"
+    "fetchedAt": "2026-10-06T06:29:08.153Z"
   },
   "15819": {
     "tmdbId": 15819,
@@ -299499,6 +301811,35 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/2AIi7giGzw4Jt709FaL8gOe9GQu.jpg",
     "backdropPath": "/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+    "alternativeTitles": [
+      "Armazém 13",
+      "Skladiste 13",
+      "ウェアハウス13 ～秘密の倉庫 事件ファイル",
+      "ウェアハウス13／秘密の倉庫 事件ファイル",
+      "ウェアハウス13 秘密の倉庫 事件ファイル",
+      "13號倉庫"
+    ],
+    "translatedTitles": [
+      "十三号仓库",
+      "Warehouse 13",
+      "13-as raktár",
+      "Хранилище 13",
+      "Almacén 13",
+      "Сховище 13",
+      "Skladiště 13",
+      "L'entrepôt 13",
+      "第13號倉庫",
+      "Depozitul 13",
+      "Armazém 13",
+      "מחסן סודי 13",
+      "Magazyn 13",
+      "웨어하우스 13",
+      "საწყობი 13",
+      "ウェアハウス13 〜秘密の倉庫 事件ファイル〜",
+      "หน่วยลับคลังพิศวง",
+      "Varasto 13",
+      "第 13 號倉庫"
+    ],
     "seasons": [
       {
         "id": 27255,
@@ -306613,7 +308954,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15819",
-    "fetchedAt": "2026-10-06T05:54:19.712Z"
+    "fetchedAt": "2026-10-06T06:30:03.306Z"
   },
   "31420": {
     "tmdbId": 31420,
@@ -306642,6 +308983,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/hgv0kvFsbyd7Sm58wIDyOGKmiFw.jpg",
     "backdropPath": "/jll5ueCEqvzC1sjFjIoQoeOLwK3.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "唇唇欲动",
+      "Lip Service",
+      "שפת נשים",
+      "Пустые слова",
+      "唇唇欲動"
+    ],
     "seasons": [
       {
         "id": 42970,
@@ -307039,7 +309388,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/31420",
-    "fetchedAt": "2026-10-06T05:54:08.482Z"
+    "fetchedAt": "2026-10-06T06:29:42.134Z"
   },
   "32895": {
     "tmdbId": 32895,
@@ -307071,6 +309420,32 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg",
     "backdropPath": "/suL7cJdywRnTmsT1RNjE78iJTsG.jpg",
+    "alternativeTitles": [
+      "Rizzoli und Isles",
+      "Напарницы",
+      "Rizzoli and Isles"
+    ],
+    "translatedTitles": [
+      "妙女神探",
+      "Rizzoli & Isles",
+      "Született detektívek",
+      "Rizzoli and Isles",
+      "Риццоли и Айлс",
+      "Різзолі та Айлз",
+      "Rizzoli et Isles",
+      "Rizzoli & Isles: Vraždy na pitevně",
+      "Ризоли и Айлс: Криминални досиета",
+      "Jane şi Maura: Detectivi în Boston",
+      "Rizoli un Aila",
+      "Partnerki",
+      "Detektyvė Rizoli",
+      "ריזולי ואיילס",
+      "Bostonské vraždy",
+      "リゾーリ&アイルズ ヒロインたちの捜査線",
+      "리졸리 앤 아일스",
+      "สองสวยสืบสะบัด",
+      "Rizzoli og Isles"
+    ],
     "seasons": [
       {
         "id": 44133,
@@ -318946,7 +321321,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/32895",
-    "fetchedAt": "2026-10-06T05:54:13.008Z"
+    "fetchedAt": "2026-10-06T06:29:50.641Z"
   },
   "33880": {
     "tmdbId": 33880,
@@ -318977,6 +321352,58 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
     "backdropPath": "/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+    "alternativeTitles": [
+      "Avatar: A Lenda de Korra",
+      "Avatar: Die Legende von Korra",
+      "Avatar - Die Legende von Korra",
+      "Avatar 2 - Die Legende von Korra",
+      "Avatar 2: Die Legende von Korra",
+      "La Légende de Korra",
+      "ლეგენდა კორრაზე",
+      "ლეგენდა კორაზე",
+      "Ο Θρύλος της Κόρρα",
+      "Avatár: Korra Legendája",
+      "آواتار: افسانه کورا",
+      "Avatar: La leggenda di Korra",
+      "아바타: 코라의 전설",
+      "Avatar: Legenda lui Korra",
+      "أفاتار: أسطورة كورا",
+      "Avatar: The Legend of Korra",
+      "降世神通：柯拉傳奇"
+    ],
+    "translatedTitles": [
+      "降世神通：科拉传奇",
+      "The Legend of Korra",
+      "A Lenda de Korra",
+      "La leyenda de Korra",
+      "Avatar : La Légende de Korra",
+      "Ο Θρύλος της Κόρρα",
+      "Die Legende von Korra",
+      "Легенда о Корре",
+      "אווטאר: האגדה של קורה",
+      "Avatar: Legenda Lui Korra",
+      "Аватар: Легенда про Корру",
+      "Legenda Korry",
+      "코라의 전설",
+      "Korra Legendája",
+      "Легенда за Кора",
+      "La leggenda di Korra",
+      "Avatar: Korra Efsanesi",
+      "降世神通：科拉傳奇",
+      "Avatar: De Legende van Korra",
+      "Avatārs: Leģenda par Koru",
+      "Avatar: La Leyenda de Korra",
+      "Legenden om Korra",
+      "Truyền Thuyết Về Korra",
+      "أفاتار: أسطورة كورا",
+      "Avatar: Legenda o Korri",
+      "افسانه کورا",
+      "ავატარი: ლეგენდა კორაზე",
+      "レジェンド･オブ･コーラ",
+      "Avatar, la llegenda de la Korra",
+      "Avatar: Legenden om Korra",
+      "Legenda apie Korą"
+    ],
     "seasons": [
       {
         "id": 44710,
@@ -320621,7 +323048,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/33880",
-    "fetchedAt": "2026-10-06T05:54:07.652Z"
+    "fetchedAt": "2026-10-06T06:29:40.555Z"
   },
   "38472": {
     "tmdbId": 38472,
@@ -320651,6 +323078,36 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/oxnWofiE9fHOgUfs9NJa6nG6NTR.jpg",
     "backdropPath": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+    "alternativeTitles": [
+      "Marvel - Jessica Jones",
+      "Jessica Jones",
+      "Marvel's A.K.A. Jessica Jones"
+    ],
+    "translatedTitles": [
+      "杰西卡·琼斯",
+      "Marvel's Jessica Jones",
+      "Marvel - Jessica Jones",
+      "Джессика Джонс",
+      "Τζέσσικα Τζόουνς",
+      "마블 제시카 존스",
+      "Marvel Jessica Jones",
+      "ג'סיקה ג'ונס",
+      "Jessica Jones",
+      "Джессіка Джонс",
+      "漫威潔西卡瓊斯",
+      "Marvel: Jessica Jones",
+      "Джесика Джоунс",
+      "Džesika Džouns",
+      "جسیکا جونز مارول",
+      "Marvel ジェシカ・ジョーンズ",
+      "เจสซิก้า โจนส์",
+      "جيسيكا جونز",
+      "潔西卡瓊斯",
+      "漫威杰西卡·琼斯",
+      "Marvel's जेसिका जोन्स",
+      "ჯესიკა ჯონსი",
+      "Džesika Džonsa"
+    ],
     "seasons": [
       {
         "id": 64822,
@@ -325880,7 +328337,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/38472",
-    "fetchedAt": "2026-10-06T05:54:05.312Z"
+    "fetchedAt": "2026-10-06T06:29:36.282Z"
   },
   "42009": {
     "tmdbId": 42009,
@@ -325917,6 +328374,55 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
     "backdropPath": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "alternativeTitles": [
+      "بلاك ميرور",
+      "Qara güzgü",
+      "Черното огледало",
+      "Чорнае люстэрка",
+      "黑鏡",
+      "Ispilu Beltza",
+      "Espejo negro",
+      "Miroir noir",
+      "შავი სარკე",
+      "מראה שחורה",
+      "ブラック・ミラー",
+      "블랙 미러",
+      "Juodasis veidrodis",
+      "Црно огледало",
+      "Czarne lustro",
+      "Црно Огледало",
+      "Чёрное зеркало",
+      "Neynika Reş",
+      "Kara Ayna",
+      "Чорне дзеркало"
+    ],
+    "translatedTitles": [
+      "黑镜",
+      "Black Mirror",
+      "Černé zrcadlo",
+      "Fekete tükör",
+      "Черное зеркало",
+      "Μαύρος Καθρέφτης",
+      "מראה שחורה",
+      "Oglinda neagră",
+      "Czarne lustro",
+      "黑鏡",
+      "Чорне дзеркало",
+      "블랙 미러",
+      "Црно огледало",
+      "Черно огледало",
+      "Juodasis Veidrodis",
+      "آیینه سیاه",
+      "შავი სარკე",
+      "แบล็ก มิร์เรอร์",
+      "ブラック・ミラー",
+      "Gương đen",
+      "Crno zrcalo",
+      "Črno ogledalo",
+      "المرآة السوداء",
+      "Tume peegeldus",
+      "Melnais spogulis"
+    ],
     "seasons": [
       {
         "id": 51964,
@@ -332649,7 +335155,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/42009",
-    "fetchedAt": "2026-10-06T05:53:51.601Z"
+    "fetchedAt": "2026-10-06T06:29:13.436Z"
   },
   "44856": {
     "tmdbId": 44856,
@@ -332685,6 +335191,24 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3nikr0NE3t8UMgI1Ba6hXaeEgKr.jpg",
     "backdropPath": "/bPJ6t9O4pFlpZ5OvauM5EGBOd0L.jpg",
+    "alternativeTitles": [
+      "웬트워스",
+      "Wentworth Prison"
+    ],
+    "translatedTitles": [
+      "温特沃斯",
+      "Wentworth",
+      "Wentworth, a nők börtöne",
+      "Вентворт",
+      "웬트워스",
+      "ウェントワース女子刑務所",
+      "Уентуърт",
+      "Wentworth. Więzienie dla kobiet",
+      "וונטוורת'",
+      "溫特沃斯",
+      "温特沃斯女監牢",
+      "เวนท์เวิร์ธ"
+    ],
     "seasons": [
       {
         "id": 53647,
@@ -335277,7 +337801,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/44856",
-    "fetchedAt": "2026-10-06T05:54:21.135Z"
+    "fetchedAt": "2026-10-06T06:30:06.033Z"
   },
   "46493": {
     "tmdbId": 46493,
@@ -335306,6 +337830,11 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/osRnMoNtuwwk82rqegyAKDvdNdS.jpg",
     "backdropPath": "/gsTAutXaRImqmgHgOi9TnjisHhv.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "婚姻的肖像",
+      "Portrait of a Marriage"
+    ],
     "seasons": [
       {
         "id": 85876,
@@ -335557,7 +338086,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/46493",
-    "fetchedAt": "2026-10-06T05:54:11.942Z"
+    "fetchedAt": "2026-10-06T06:29:48.645Z"
   },
   "56296": {
     "tmdbId": 56296,
@@ -335594,6 +338123,26 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
     "backdropPath": "/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
+    "alternativeTitles": [
+      "Тъмното дете",
+      "Клонинги",
+      "오펀 블랙"
+    ],
+    "translatedTitles": [
+      "黑色孤儿",
+      "Orphan Black",
+      "Sötét árvák",
+      "Тёмное дитя",
+      "Sans origine : Orphan Black",
+      "אורפן בלאק",
+      "Темне дитя",
+      "Клонинги",
+      "黑色孤兒",
+      "오펀 블랙",
+      "オーファン・ブラック 暴走遺伝子",
+      "Juodoji našlaitė",
+      "สวมรอยเงามรณะ"
+    ],
     "seasons": [
       {
         "id": 58141,
@@ -339366,7 +341915,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/56296",
-    "fetchedAt": "2026-10-06T05:54:09.927Z"
+    "fetchedAt": "2026-10-06T06:29:44.831Z"
   },
   "62643": {
     "tmdbId": 62643,
@@ -339397,6 +341946,40 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
     "backdropPath": "/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+    "alternativeTitles": [
+      "DC Legends of Tomorrow",
+      "Οι Θρύλοι του Αύριο",
+      "Leyendas del Mañana",
+      "รวมพลคนเหนือมนุษย์",
+      "Legends of Tomorrow"
+    ],
+    "translatedTitles": [
+      "明日传奇",
+      "DC's Legends of Tomorrow",
+      "DC's Legends Of Tomorrow",
+      "Легенды завтрашнего дня",
+      "Οι Θρύλοι του Αύριο",
+      " DC's Legends of Tomorrow",
+      "A holnap legendái",
+      "אגדות המחר",
+      "Legendy zítřka",
+      "DC: Legends of Tomorrow",
+      "Легенди завтрашнього дня",
+      "Lendas do Amanhã",
+      "DC 레전드 오브 투모로우",
+      "Legends of Tomorrow",
+      "DC : Les légendes de demain",
+      "明日傳奇",
+      "Легендите на утрешния ден",
+      "Leyendas del Mañana",
+      "Rytdienos legendos",
+      "レジェンド・オブ・トゥモロー",
+      "Legende sutrašnjice",
+      "Huyền Thoại Tương Lai",
+      "ดีซี รวมพลคนเหนือมนุษย์",
+      "ხვალინდელი დღის ლეგენდები",
+      "افسانه های فردا"
+    ],
     "seasons": [
       {
         "id": 66615,
@@ -349397,7 +351980,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62643",
-    "fetchedAt": "2026-10-06T05:53:55.648Z"
+    "fetchedAt": "2026-10-06T06:29:19.368Z"
   },
   "62688": {
     "tmdbId": 62688,
@@ -349434,6 +352017,35 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/90mSQajf4STPROA6H7Hh8OvyWdK.jpg",
     "backdropPath": "/mmprryb2r0X8u9JkZCnaJIzyYX4.jpg",
+    "alternativeTitles": [
+      "Super girl",
+      "Super-girl",
+      "超女",
+      "超级少女",
+      "Σούπεργκερλ",
+      "Супердевушка",
+      "ซูเปอร์เกิร์ล สาวน้อยจอมพลัง"
+    ],
+    "translatedTitles": [
+      "超级少女",
+      "Supergirl",
+      "Супергёрл",
+      "Σούπεργκερλ",
+      "دختر فوق العاده ( سوپرگرل )",
+      "סופרגירל",
+      "슈퍼걸",
+      "Супердівчина",
+      "ซูเปอร์เกิร์ล",
+      "Super Mergina",
+      "Супергърл",
+      "女超人",
+      "スーパーガール",
+      "الفتاة الخارقة",
+      "სუპერ გოგონა",
+      "Nữ Siêu Nhân",
+      "Supergyorl",
+      "സൂപ്പർഗേൾ"
+    ],
     "seasons": [
       {
         "id": 66734,
@@ -359656,7 +362268,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62688",
-    "fetchedAt": "2026-10-06T05:54:17.210Z"
+    "fetchedAt": "2026-10-06T06:29:58.549Z"
   },
   "64165": {
     "tmdbId": 64165,
@@ -359686,6 +362298,41 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3whFzxzeKuTIgPzm2c0pm5xAhEL.jpg",
     "backdropPath": "/4hmHHZnanKEb1fLTkmYePvENmuI.jpg",
+    "alternativeTitles": [
+      "Appelez Mon Agent",
+      "百分之十",
+      "10%"
+    ],
+    "translatedTitles": [
+      "百分之十",
+      "Dix pour cent",
+      "Call My Agent!",
+      "Call my agent",
+      "Πάρε τον Μάνατζέρ μου",
+      "연예인 매니저로 살아남기",
+      "10 אחוז",
+      "Gdzie jest mój agent?",
+      "Appelez mon agent",
+      "找我經紀人",
+      "Chiami il mio agente!",
+      "Десять процентов",
+      "Зателефонуйте моєму агенту!",
+      "Zece la sută",
+      "Call My Agent!‎",
+      "Ten Percent",
+      "Chci mluvit se svým agentem!",
+      "Hívd az ügynökömet!",
+      "कॉल माय एजेंट!",
+      "エージェント物語",
+      "เรียกผู้จัดการมาสิ!",
+      "Menajerimi Arayın!",
+      "Hãy gọi quản lý của tôi!",
+      "Zovite mi agenta!",
+      "Ring til min agent!",
+      "Ring min agent!",
+      "Agentit",
+      "找我经纪人"
+    ],
     "seasons": [
       {
         "id": 71380,
@@ -361507,22 +364154,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 17520,
-        "name": "Cédric Klapisch",
-        "profilePath": "/rKyrzbJcOQKMU1TqzUvkt7tghcG.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 19066,
-        "name": "Jeanne Herry",
-        "profilePath": "/2xmHOlRJ6LuBsO94WHB0pVNs59T.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 64575,
         "name": "Laurent Tirard",
         "profilePath": "/oqZ5tK6HLo9U0DSD9JesElsD0u7.jpg",
@@ -361537,10 +364168,26 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "jobs": [
           "Director"
         ]
+      },
+      {
+        "id": 17520,
+        "name": "Cédric Klapisch",
+        "profilePath": "/rKyrzbJcOQKMU1TqzUvkt7tghcG.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 19066,
+        "name": "Jeanne Herry",
+        "profilePath": "/2xmHOlRJ6LuBsO94WHB0pVNs59T.jpg",
+        "jobs": [
+          "Director"
+        ]
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/64165",
-    "fetchedAt": "2026-10-06T05:53:56.900Z"
+    "fetchedAt": "2026-10-06T06:29:21.301Z"
   },
   "65988": {
     "tmdbId": 65988,
@@ -361584,6 +364231,23 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
     "backdropPath": "/qVu5MC7DiDOrlcKNZsb9rEJJ1UI.jpg",
+    "alternativeTitles": [
+      "Уинона Ърп",
+      "ווינונה ארפ"
+    ],
+    "translatedTitles": [
+      "狙魔女杰",
+      "Wynonna Earp",
+      "Вайнона Эрп",
+      "Вайнона Ерп",
+      "Wynonna Earp: A Maldição dos Renascidos",
+      "וינונה ארפ",
+      "Уайнона Ърп",
+      "위노나 어프",
+      "Vainona Erp",
+      "狙魔女傑",
+      "ワイノナ・アープ"
+    ],
     "seasons": [
       {
         "id": 75564,
@@ -362523,7 +365187,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1815046,
         "name": "Josh Bertwistle",
-        "character": "Vinnie / Big Bubba",
+        "character": "Big Bubba / Vinnie",
         "order": 556,
         "profilePath": ""
       },
@@ -363237,7 +365901,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1831592,
         "name": "Kelsey Andries",
-        "character": "Rotten Jack / BBD Cleaner",
+        "character": "BBD Cleaner / Rotten Jack",
         "order": 659,
         "profilePath": "/cAVrs2DZ7rGpbGlmq5en4ZyuKuu.jpg"
       },
@@ -364303,7 +366967,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1831592,
         "name": "Kelsey Andries",
-        "character": "Rotten Jack / BBD Cleaner",
+        "character": "BBD Cleaner / Rotten Jack",
         "order": 659,
         "profilePath": "/cAVrs2DZ7rGpbGlmq5en4ZyuKuu.jpg"
       },
@@ -364606,7 +367270,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1815046,
         "name": "Josh Bertwistle",
-        "character": "Vinnie / Big Bubba",
+        "character": "Big Bubba / Vinnie",
         "order": 556,
         "profilePath": ""
       },
@@ -364730,17 +367394,17 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 51034,
-        "name": "Brett Sullivan",
-        "profilePath": "/yJnzBZi4gsLRkuKN4mW6JELegow.jpg",
+        "id": 545330,
+        "name": "April Mullen",
+        "profilePath": "/kkpPBHkeKEa0CXsUEP11hOh6htk.jpg",
         "jobs": [
           "Director"
         ]
       },
       {
-        "id": 545330,
-        "name": "April Mullen",
-        "profilePath": "/kkpPBHkeKEa0CXsUEP11hOh6htk.jpg",
+        "id": 51034,
+        "name": "Brett Sullivan",
+        "profilePath": "/yJnzBZi4gsLRkuKN4mW6JELegow.jpg",
         "jobs": [
           "Director"
         ]
@@ -364778,25 +367442,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2112160,
-        "name": "Todd Berger",
-        "profilePath": "/xaBkKcUbsnmBRLiV8ZShO9sD7KF.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 1209601,
-        "name": "Ted Adams",
-        "profilePath": "/lPdyNS6aW0iJ9Bm7S8AyqMY7BDT.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 71582,
-        "name": "Tom Cox",
-        "profilePath": "/2iZz0xQJExKr2Ov1iUonkQsCW5D.jpg",
+        "id": 1485176,
+        "name": "Brian Dennis",
+        "profilePath": "/pLdLrBQNDY8HABslU08NZEztFB2.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -364810,17 +367458,33 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1485176,
-        "name": "Brian Dennis",
-        "profilePath": "/pLdLrBQNDY8HABslU08NZEztFB2.jpg",
+        "id": 1316145,
+        "name": "Jordy Randall",
+        "profilePath": "/210RLhHYVFvUJcz1A8h1GiHwsGq.jpg",
         "jobs": [
           "Executive Producer"
         ]
       },
       {
-        "id": 1316145,
-        "name": "Jordy Randall",
-        "profilePath": "/210RLhHYVFvUJcz1A8h1GiHwsGq.jpg",
+        "id": 2112160,
+        "name": "Todd Berger",
+        "profilePath": "/xaBkKcUbsnmBRLiV8ZShO9sD7KF.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 71582,
+        "name": "Tom Cox",
+        "profilePath": "/2iZz0xQJExKr2Ov1iUonkQsCW5D.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 1209601,
+        "name": "Ted Adams",
+        "profilePath": "/lPdyNS6aW0iJ9Bm7S8AyqMY7BDT.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -364842,17 +367506,17 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2168405,
-        "name": "Peter Emerson",
-        "profilePath": "/nn8AICyi96iISdlc55BmCCOjYnI.jpg",
+        "id": 2723738,
+        "name": "David Colburn",
+        "profilePath": "",
         "jobs": [
           "Executive Producer"
         ]
       },
       {
-        "id": 2723738,
-        "name": "David Colburn",
-        "profilePath": "",
+        "id": 2168405,
+        "name": "Peter Emerson",
+        "profilePath": "/nn8AICyi96iISdlc55BmCCOjYnI.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -364931,7 +367595,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/65988",
-    "fetchedAt": "2026-10-06T05:54:22.578Z"
+    "fetchedAt": "2026-10-06T06:30:08.691Z"
   },
   "66980": {
     "tmdbId": 66980,
@@ -364968,6 +367632,24 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
     "backdropPath": "/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "巴比伦柏林",
+      "Babylon Berlin",
+      "Babylon Berlín",
+      "Берлински Вавилон",
+      "Вавилон-Берлин",
+      "Babilon Berlin",
+      "Babilonas Berlynas",
+      "בבילון ברלין",
+      "巴比倫柏林",
+      "バビロン・ベルリン",
+      "Babilona Berlīne",
+      "바빌론 베를린",
+      "Вавилон-Берлін",
+      "Babülon-Berliin",
+      "بابیلون برلین"
+    ],
     "seasons": [
       {
         "id": 78241,
@@ -368733,7 +371415,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66980",
-    "fetchedAt": "2026-10-06T05:53:50.330Z"
+    "fetchedAt": "2026-10-06T06:29:11.589Z"
   },
   "69158": {
     "tmdbId": 69158,
@@ -368768,6 +371450,47 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
     "backdropPath": "/nz6vpYyN1pEwBYeoAVIu2316d0z.jpg",
+    "alternativeTitles": [
+      "Добрата битка",
+      "Une lutte exemplaire",
+      "傲戰法庭",
+      "傲骨雄心",
+      "Dobrý boj",
+      "Ο καλός αγώνας",
+      "Dobra borba",
+      "Diane védelmében",
+      "הטובות לקרב",
+      "グッド・ファイト",
+      "グッド・ファイト 華麗なる逆転",
+      "La batalla ejemplar",
+      "Sprawa idealna",
+      "Lupta perfecta",
+      "Хорошая борьба",
+      "ทนายสาวหัวใจทระนง ซีซั่นหนึ่ง",
+      "傲骨之戰",
+      "Cuộc Đối Đầu Ngoạn Mục"
+    ],
+    "translatedTitles": [
+      "傲骨之战",
+      "The Good Fight",
+      "הטובות לקרב",
+      "굿 파이트",
+      "Хорошая борьба",
+      "Diane védelmében",
+      "Taisnā tiesa",
+      "Добрата битка",
+      "Dobrý boj",
+      "Хороша боротьба",
+      "傲骨之戰",
+      "Sprawa idealna",
+      "Une lutte exemplaire",
+      "Gera kova",
+      "Lupta perfectă",
+      "ザ・グッド・ファイト",
+      "Hyvä taistelu",
+      "Dober boj",
+      "Dobra bitka"
+    ],
     "seasons": [
       {
         "id": 82956,
@@ -377200,7 +379923,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/69158",
-    "fetchedAt": "2026-10-06T05:54:00.084Z"
+    "fetchedAt": "2026-10-06T06:29:26.847Z"
   },
   "70453": {
     "tmdbId": 70453,
@@ -377231,6 +379954,43 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
     "backdropPath": "/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
+    "alternativeTitles": [
+      "Objetos Cortantes",
+      "利器之痕",
+      "Sur ma peau",
+      "シャープ・オブジェクト KIZU－傷－：連続少女猟奇殺人事件",
+      "샤프 오브젝트",
+      "Ostre przedmioty",
+      "أدوات حادة"
+    ],
+    "translatedTitles": [
+      "利器",
+      "Sharp Objects",
+      "Ostré předměty",
+      "Острые предметы",
+      "חפצים חדים",
+      "Отворени рани",
+      "Heridas abiertas",
+      "Objetos Cortantes",
+      "Гострі предмети",
+      "Αιχμηρά Αντικείμενα",
+      "Aštrūs daiktai",
+      "몸을 긋는 소녀",
+      "Asi priekšmeti",
+      "Ostre przedmioty",
+      "Éles tárgyak",
+      "ბასრი ნივთები",
+      "Heridas Abiertas",
+      "Sur ma peau",
+      "สนิทชิดเชือด",
+      "Оштри предмети",
+      "چیزهای تیز",
+      "シャープ・オブジェクト KIZU－傷－：連続少女猟奇殺人事件",
+      "Vật Sắc",
+      "Ostrina",
+      "Obiecte ascuțite",
+      "أدوات حادة"
+    ],
     "seasons": [
       {
         "id": 85560,
@@ -378507,7 +381267,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/70453",
-    "fetchedAt": "2026-10-06T05:54:13.573Z"
+    "fetchedAt": "2026-10-06T06:29:51.747Z"
   },
   "71578": {
     "tmdbId": 71578,
@@ -378537,6 +381297,30 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/kNif3eZAjQ7qU3Ol9E7zo0kjPMo.jpg",
     "backdropPath": "/uy3yFKKjd2PvrUTHVMjDM8gD0eP.jpg",
+    "alternativeTitles": [
+      "非典型孤独",
+      "Atipico"
+    ],
+    "translatedTitles": [
+      "非典型少年",
+      "Atypical",
+      "Atypowy",
+      "Atípico",
+      "별나도 괜찮아",
+      "Нетипичен",
+      "Atypique",
+      "Άτυπος",
+      "異類",
+      "Нетиповий",
+      "Atypický",
+      "לא טיפוסי",
+      "Нетипичный",
+      "Több, mint normális",
+      "ユニークライフ",
+      "Lập Dị",
+      "เอทิปปิคอล",
+      "Atipic"
+    ],
     "seasons": [
       {
         "id": 88062,
@@ -380902,7 +383686,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/71578",
-    "fetchedAt": "2026-10-06T05:53:49.704Z"
+    "fetchedAt": "2026-10-06T06:29:10.678Z"
   },
   "72750": {
     "tmdbId": 72750,
@@ -380932,6 +383716,39 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg",
     "backdropPath": "/2eR0H27Us1tvbjd95oW7WhiKioC.jpg",
+    "alternativeTitles": [
+      "双姝",
+      "キリング・イヴ",
+      "キリング・イヴ/Killing Eve",
+      "Žudant Ievą"
+    ],
+    "translatedTitles": [
+      "杀死伊芙",
+      "Killing Eve",
+      "追殺夏娃",
+      "Вбиваючи Єву",
+      "Убивайки Ийв",
+      "Na mušce",
+      "Убивая Еву",
+      "להרוג את איב",
+      "킬링 이브",
+      "Killing Eve: Dupla Obsessão",
+      "Obsesia Evei",
+      "Obsesja Eve",
+      "Megszállottak viadala",
+      "Na muške",
+      "Nužudyti Evą",
+      "کشتن حوا",
+      "พลิกเกมล่า แก้วตาทรชน",
+      "Nogalināt Īvu",
+      "ევას მკვლელობისას",
+      "キリング・イヴ／Killing Eve",
+      "Ubij Eve",
+      "Ubijanje Eve",
+      "獨行殺姬",
+      "Eve'i tapmine",
+      "Truy Sát Eve"
+    ],
     "seasons": [
       {
         "id": 90301,
@@ -384262,7 +387079,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/72750",
-    "fetchedAt": "2026-10-06T05:54:06.077Z"
+    "fetchedAt": "2026-10-06T06:29:37.671Z"
   },
   "74440": {
     "tmdbId": 74440,
@@ -384306,6 +387123,24 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg",
     "backdropPath": "/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+    "alternativeTitles": [
+      "小丑女",
+      "Harley Quinn: A Very Problematic Valentine's Day Special"
+    ],
+    "translatedTitles": [
+      "哈莉·奎茵",
+      "Harley Quinn",
+      "Гарлі Квінн",
+      "Харли Квинн",
+      "할리 퀸",
+      "Arlequina",
+      "הארלי קווין",
+      "Харли Куин",
+      "哈莉奎茵",
+      "ハーレイ・クイン",
+      "Harlė Kvin",
+      "ฮาร์ลีย์ ควินน์"
+    ],
     "seasons": [
       {
         "id": 93845,
@@ -386319,7 +389154,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/74440",
-    "fetchedAt": "2026-10-06T05:54:03.990Z"
+    "fetchedAt": "2026-10-06T06:29:33.846Z"
   },
   "76773": {
     "tmdbId": 76773,
@@ -386349,6 +389184,36 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg",
     "backdropPath": "/1vwIV2zQ88Dx6PwY7ZFZyamhYhV.jpg",
+    "alternativeTitles": [
+      "Die Jungen Helden",
+      "ステーション19",
+      "ステーション・ナインティーン"
+    ],
+    "translatedTitles": [
+      "19号消防局",
+      "Station 19",
+      "תחנה 19",
+      "Пожарная часть 19",
+      "Станция 19",
+      "Grey's Anatomy : Station 19",
+      "Estación 19",
+      "Seattle Firefighters - Die jungen Helden",
+      "Estação 19",
+      "스테이션 19",
+      "Станція 19",
+      "19-es körzet",
+      "V ohni",
+      "Asema 19",
+      "19號消防局",
+      "Jednostka 19",
+      "19-oji komanda",
+      "Postaja 19",
+      "STATION 19",
+      "ทีมแกร่งนักผจญเพลิง",
+      "19 號消防局",
+      "ایستگاه 19",
+      "Stația 19"
+    ],
     "seasons": [
       {
         "id": 98684,
@@ -388238,7 +391103,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1607796,
         "name": "Joseph Piccuirro",
-        "character": "Station 23 Firefighter / David Mayhorn",
+        "character": "David Mayhorn / Station 23 Firefighter",
         "order": 612,
         "profilePath": ""
       },
@@ -388679,7 +391544,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1077345,
         "name": "Jennifer Kim",
-        "character": "Darcie / TV Reporter",
+        "character": "TV Reporter / Darcie",
         "order": 678,
         "profilePath": "/yLBlN3ZxNZx4jbCBT4wHUDXtZe7.jpg"
       },
@@ -389708,7 +392573,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1236010,
         "name": "Kenneth Meseroll",
-        "character": "Dad Montgomery / Paul Montgomery",
+        "character": "Paul Montgomery / Dad Montgomery",
         "order": 829,
         "profilePath": ""
       },
@@ -393182,7 +396047,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1077345,
         "name": "Jennifer Kim",
-        "character": "Darcie / TV Reporter",
+        "character": "TV Reporter / Darcie",
         "order": 678,
         "profilePath": "/yLBlN3ZxNZx4jbCBT4wHUDXtZe7.jpg"
       },
@@ -395167,14 +398032,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1433989,
-        "name": "Tessa Blake",
-        "profilePath": "/gg1V8wk9qQdqCU0WbRcSIfTh7kg.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 205644,
         "name": "David Greenspan",
         "profilePath": "",
@@ -395183,9 +398040,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1584194,
-        "name": "Paula Hunziker",
-        "profilePath": "/6bftg4Ky515koybPicjuRSTSoJz.jpg",
+        "id": 1433989,
+        "name": "Tessa Blake",
+        "profilePath": "/gg1V8wk9qQdqCU0WbRcSIfTh7kg.jpg",
         "jobs": [
           "Director"
         ]
@@ -395199,49 +398056,17 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 1584194,
+        "name": "Paula Hunziker",
+        "profilePath": "/6bftg4Ky515koybPicjuRSTSoJz.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 1285937,
         "name": "Tamika Miller",
         "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 166447,
-        "name": "Milan Cheylov",
-        "profilePath": "/bEw8P5gniVmpt1RgUHbZxfgzrKK.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1213560,
-        "name": "Allison Liddi-Brown",
-        "profilePath": "/273QG90wZlrLgDKtaCxNWj23x1G.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1940580,
-        "name": "Nicole Cummins-Rubio",
-        "profilePath": "/nVOmvc30Nkhhl28jrUve5aUxqZP.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 95475,
-        "name": "Jason George",
-        "profilePath": "/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 121767,
-        "name": "Bethany Rooney",
-        "profilePath": "/q59fiboczOPgklDZL9Hhec7tX3b.jpg",
         "jobs": [
           "Director"
         ]
@@ -395263,41 +398088,49 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 1940580,
+        "name": "Nicole Cummins-Rubio",
+        "profilePath": "/nVOmvc30Nkhhl28jrUve5aUxqZP.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 95475,
+        "name": "Jason George",
+        "profilePath": "/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 166447,
+        "name": "Milan Cheylov",
+        "profilePath": "/bEw8P5gniVmpt1RgUHbZxfgzrKK.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 121767,
+        "name": "Bethany Rooney",
+        "profilePath": "/q59fiboczOPgklDZL9Hhec7tX3b.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1213560,
+        "name": "Allison Liddi-Brown",
+        "profilePath": "/273QG90wZlrLgDKtaCxNWj23x1G.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 1080857,
         "name": "DeMane Davis",
         "profilePath": "/nlp8kQ1jcN0Zbt2rv9SRdIqjl2q.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 154955,
-        "name": "Danielle Savre",
-        "profilePath": "/6N7FtcVfNqsx7PEj3JdNN4sOzX4.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 566964,
-        "name": "Pete Chatmon",
-        "profilePath": "/aUGfTu2Pf1Dvbo1CDWQLecCccIe.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1215703,
-        "name": "Karen Gaviola",
-        "profilePath": "/tkJ0nzWQIvz4sAno7SZBZ1U6OMF.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1283668,
-        "name": "Sydney Freeland",
-        "profilePath": "/mJQ8NheBTdQNFV1ZPOQioEMs0j6.jpg",
         "jobs": [
           "Director"
         ]
@@ -395311,41 +398144,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1218791,
-        "name": "Dennis Smith",
-        "profilePath": "/cxsDfWfVvHQK81u04124mDJVMkJ.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 68946,
-        "name": "James Hanlon",
-        "profilePath": "/LKWIxng8blmcgypa8UROtSbF7b.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1213615,
-        "name": "Ellen S. Pressman",
-        "profilePath": "/b7IFJ7XoPT6oQ5DT6s4NTZWztFA.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 1744211,
         "name": "Nzingha Stewart",
         "profilePath": "/th8WxtcLcSMqByxwGXzCMnUClpq.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 3701237,
-        "name": "Oliver Bokelberg",
-        "profilePath": "",
         "jobs": [
           "Director"
         ]
@@ -395359,33 +398160,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1583278,
-        "name": "Sheelin Choksey",
-        "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1214575,
-        "name": "Mary Lou Belli",
-        "profilePath": "/yv0I6ou5BFjr5FZWAy3yqJ4I8lx.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1212230,
-        "name": "Janice Cooke",
-        "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1191192,
-        "name": "Marisol Adler",
-        "profilePath": "",
+        "id": 1213615,
+        "name": "Ellen S. Pressman",
+        "profilePath": "/b7IFJ7XoPT6oQ5DT6s4NTZWztFA.jpg",
         "jobs": [
           "Director"
         ]
@@ -395399,9 +398176,17 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1371115,
-        "name": "Diana Valentine",
-        "profilePath": "/gVtTIVvk79TX5HH7mquqdTLatNQ.jpg",
+        "id": 154955,
+        "name": "Danielle Savre",
+        "profilePath": "/6N7FtcVfNqsx7PEj3JdNN4sOzX4.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 68946,
+        "name": "James Hanlon",
+        "profilePath": "/LKWIxng8blmcgypa8UROtSbF7b.jpg",
         "jobs": [
           "Director"
         ]
@@ -395423,6 +398208,62 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 1215703,
+        "name": "Karen Gaviola",
+        "profilePath": "/tkJ0nzWQIvz4sAno7SZBZ1U6OMF.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1191192,
+        "name": "Marisol Adler",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 566964,
+        "name": "Pete Chatmon",
+        "profilePath": "/aUGfTu2Pf1Dvbo1CDWQLecCccIe.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1583278,
+        "name": "Sheelin Choksey",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1214575,
+        "name": "Mary Lou Belli",
+        "profilePath": "/yv0I6ou5BFjr5FZWAy3yqJ4I8lx.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 3701237,
+        "name": "Oliver Bokelberg",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1283668,
+        "name": "Sydney Freeland",
+        "profilePath": "/mJQ8NheBTdQNFV1ZPOQioEMs0j6.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 47020,
         "name": "Eric Laneuville",
         "profilePath": "/hrVy4Ws5sL7rOI7TbTlKrUVosMF.jpg",
@@ -395431,11 +398272,27 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 25539,
-        "name": "Shonda Rhimes",
-        "profilePath": "/pIQbVxfjNwZ0DaAjo3q107nng1b.jpg",
+        "id": 1218791,
+        "name": "Dennis Smith",
+        "profilePath": "/cxsDfWfVvHQK81u04124mDJVMkJ.jpg",
         "jobs": [
-          "Executive Producer"
+          "Director"
+        ]
+      },
+      {
+        "id": 1212230,
+        "name": "Janice Cooke",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1371115,
+        "name": "Diana Valentine",
+        "profilePath": "/gVtTIVvk79TX5HH7mquqdTLatNQ.jpg",
+        "jobs": [
+          "Director"
         ]
       },
       {
@@ -395453,6 +398310,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "jobs": [
           "Executive Producer",
           "Writer"
+        ]
+      },
+      {
+        "id": 25539,
+        "name": "Shonda Rhimes",
+        "profilePath": "/pIQbVxfjNwZ0DaAjo3q107nng1b.jpg",
+        "jobs": [
+          "Executive Producer"
         ]
       },
       {
@@ -395512,8 +398377,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 3701236,
-        "name": "Staci Okunola",
+        "id": 1549883,
+        "name": "Tyrone Finch",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -395528,8 +398393,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1549883,
-        "name": "Tyrone Finch",
+        "id": 3701236,
+        "name": "Staci Okunola",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -395540,6 +398405,15 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "name": "Leah Gonzalez",
         "profilePath": "",
         "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 2545728,
+        "name": "Rob Giles",
+        "profilePath": "",
+        "jobs": [
+          "Story",
           "Writer"
         ]
       },
@@ -395560,15 +398434,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2545728,
-        "name": "Rob Giles",
-        "profilePath": "",
-        "jobs": [
-          "Story",
-          "Writer"
-        ]
-      },
-      {
         "id": 1524509,
         "name": "Emmylou Díaz",
         "profilePath": "",
@@ -395577,8 +398442,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1826006,
-        "name": "Brian Anthony",
+        "id": 3247553,
+        "name": "Daniel K. Hoh",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -395601,80 +398466,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 3247553,
-        "name": "Daniel K. Hoh",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1172871,
-        "name": "James Leffler",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1214632,
-        "name": "Daniel Arkin",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1254646,
-        "name": "Wendy Calhoun",
-        "profilePath": "/hkgX6Upu5R84u5MwiKseZwOrgQb.jpg",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1224260,
-        "name": "Sam Forman",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 33280,
-        "name": "Trey Callaway",
-        "profilePath": "/Al6d18nhGXny7TrCkmLOl5EkawF.jpg",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 3747852,
-        "name": "Mellow Brown",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 141916,
-        "name": "Beresford Bennett",
-        "profilePath": "/xahMiplzOY0sW5tijfIuXWAMiOF.jpg",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1224068,
-        "name": "Zoanne Clack",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1155519,
-        "name": "Benjamin Hayes",
+        "id": 1826006,
+        "name": "Brian Anthony",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -395689,24 +398482,32 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1236114,
-        "name": "Chris Downey",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 3483475,
-        "name": "Alexandra Fernandez",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
         "id": 1868591,
         "name": "Jill Weinberger",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 2577054,
+        "name": "Cinque Henderson",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1224260,
+        "name": "Sam Forman",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1224068,
+        "name": "Zoanne Clack",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -395721,8 +398522,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1172870,
-        "name": "Molly Green",
+        "id": 33280,
+        "name": "Trey Callaway",
+        "profilePath": "/Al6d18nhGXny7TrCkmLOl5EkawF.jpg",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 3483475,
+        "name": "Alexandra Fernandez",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -395737,16 +398546,72 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2577054,
-        "name": "Cinque Henderson",
+        "id": 1172871,
+        "name": "James Leffler",
         "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1236114,
+        "name": "Chris Downey",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1214632,
+        "name": "Daniel Arkin",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 3747852,
+        "name": "Mellow Brown",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1155519,
+        "name": "Benjamin Hayes",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1172870,
+        "name": "Molly Green",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 1254646,
+        "name": "Wendy Calhoun",
+        "profilePath": "/hkgX6Upu5R84u5MwiKseZwOrgQb.jpg",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 141916,
+        "name": "Beresford Bennett",
+        "profilePath": "/xahMiplzOY0sW5tijfIuXWAMiOF.jpg",
         "jobs": [
           "Writer"
         ]
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/76773",
-    "fetchedAt": "2026-10-06T05:54:16.155Z"
+    "fetchedAt": "2026-10-06T06:29:56.644Z"
   },
   "82835": {
     "tmdbId": 82835,
@@ -395787,6 +398652,13 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3mlJXXunjkBpYxVlk0brMny87bv.jpg",
     "backdropPath": "/kT4H8vDXevD2pHJcq8wUZwE6VXr.jpg",
+    "alternativeTitles": [
+      "Anne Plus"
+    ],
+    "translatedTitles": [
+      "安妮+",
+      "ANNE+"
+    ],
     "seasons": [
       {
         "id": 110298,
@@ -396362,7 +399234,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/82835",
-    "fetchedAt": "2026-10-06T05:53:48.629Z"
+    "fetchedAt": "2026-10-06T06:29:09.035Z"
   },
   "85530": {
     "tmdbId": 85530,
@@ -396391,6 +399263,12 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/sx7VzD6FLQFx3QuuVZsnrQmJDMp.jpg",
     "backdropPath": "/jQV17daGhXKdw20ZsBaAo2qaChS.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "无可救药",
+      "Sjukt oklar",
+      "Cực Kỳ Mơ Hồ"
+    ],
     "seasons": [
       {
         "id": 115557,
@@ -396633,7 +399511,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85530",
-    "fetchedAt": "2026-10-06T05:54:14.491Z"
+    "fetchedAt": "2026-10-06T06:29:53.486Z"
   },
   "85552": {
     "tmdbId": 85552,
@@ -396662,6 +399540,42 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
     "backdropPath": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+    "alternativeTitles": [
+      "Еуфория",
+      "亢奋",
+      "高校十八禁",
+      "ユーフォリア/EUPHORIA",
+      "ユーフォリア／EUPHORIA",
+      "유포리아",
+      "Eiforija",
+      "Euphoria US",
+      "Phê Pha"
+    ],
+    "translatedTitles": [
+      "亢奋",
+      "Euphoria",
+      "Ейфорія",
+      "Еуфория",
+      "Эйфория",
+      "אופוריה",
+      "Euforie",
+      "Eiforija",
+      "Euforia",
+      "유포리아",
+      "Eufória",
+      "Euforija",
+      "高校十八禁",
+      "ユーフォリア／EUPHORIA",
+      "نشوة",
+      "سرخوشی",
+      "ยูโฟเรีย",
+      "Lâng Lâng",
+      "ეიფორია",
+      "Evforija",
+      "毒癮女孩",
+      "Еуфорија",
+      "Eufooria"
+    ],
     "seasons": [
       {
         "id": 115613,
@@ -400833,7 +403747,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85552",
-    "fetchedAt": "2026-10-06T05:53:58.125Z"
+    "fetchedAt": "2026-10-06T06:29:23.435Z"
   },
   "86163": {
     "tmdbId": 86163,
@@ -400862,6 +403776,23 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/hLQl8LKLXdA4gF4ArR8TXzXGRYV.jpg",
     "backdropPath": "/iimwbuwIC37rgjhsq29A2Xediva.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "绅士杰克",
+      "Gentleman Jack",
+      "Domnul Jack",
+      "Джентълменът Джак",
+      "Джентльмен Джек",
+      "ג'נטלמן ג'ק",
+      "Džentlmenis Džeks",
+      "젠틀맨 잭",
+      "Gentleman Jack - Nessuna mi ha mai detto di no",
+      "紳士傑克",
+      "Džentelmenas Džekas",
+      "ジェントルマン・ジャック 紳士と呼ばれたレディ",
+      "เจนเทิลแมนแจ็ค",
+      "Џентлмен Џек"
+    ],
     "seasons": [
       {
         "id": 117576,
@@ -402151,7 +405082,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/86163",
-    "fetchedAt": "2026-10-06T05:53:59.355Z"
+    "fetchedAt": "2026-10-06T06:29:25.509Z"
   },
   "89901": {
     "tmdbId": 89901,
@@ -402181,6 +405112,26 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
     "backdropPath": "/jrFL1KBSDO5vTM7AB6sXnx6Flc0.jpg",
+    "alternativeTitles": [
+      "狄金森",
+      "דיקינסון",
+      "ディキンスン 若き女性詩人の憂鬱",
+      "Дикинсон",
+      "Дікінсон"
+    ],
+    "translatedTitles": [
+      "Dickinson",
+      "Дикинсон",
+      "Ντίκινσον",
+      "Дикинсън",
+      "狄金生",
+      "'디킨슨' - Dickinson",
+      "狄金森的詩生活",
+      "დიკინსონი",
+      "ディキンスン ～若き女性詩人の憂鬱～",
+      "डिकिन्सन",
+      "Dikinson"
+    ],
     "seasons": [
       {
         "id": 125153,
@@ -404170,7 +407121,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/89901",
-    "fetchedAt": "2026-10-06T05:53:56.387Z"
+    "fetchedAt": "2026-10-06T06:29:20.526Z"
   },
   "90766": {
     "tmdbId": 90766,
@@ -404201,6 +407152,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/gFtJaWcLAJJsSzfuWcLSeAS8aVl.jpg",
     "backdropPath": "/63LRRGIWQxvJiW4G1fRyS70ZE6Y.jpg",
+    "alternativeTitles": [
+      "赏金姐妹花",
+      "Adolescentes cazadoras de recompensas",
+      "Распутные охотницы за головами",
+      "Юні мисливиці за головами",
+      "Slutty Teenage Bounty Hunters"
+    ],
+    "translatedTitles": [
+      "赏金姐妹花",
+      "Teenage Bounty Hunters",
+      "Caçadoras de Recompensas",
+      "Jeunes filles sachant chasser",
+      "Молодые охотницы за головами",
+      "Tinédzser fejvadászok",
+      "틴에이지 바운티 헌터스",
+      "נותנות בראש",
+      "Holky na lovu (odměn)",
+      "Dos balas muy perdidas",
+      "賞金姐妹花",
+      "Nastoletnie łowczynie nagród",
+      "Adolescentes cazadoras de recompensas",
+      "めちゃくちゃ恋するハンターズ",
+      "Юні мисливиці за головами",
+      "Νέες και Ατίθασες Κυνηγοί Κεφαλών",
+      "Adolescente pe urmele ticăloşilor",
+      "Thợ Săn Tiền Thưởng Tuổi Học Đường",
+      "สาวซ่าล่าค่าหัว"
+    ],
     "seasons": [
       {
         "id": 126910,
@@ -405563,7 +408542,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/90766",
-    "fetchedAt": "2026-10-06T05:54:17.677Z"
+    "fetchedAt": "2026-10-06T06:29:59.440Z"
   },
   "91239": {
     "tmdbId": 91239,
@@ -405592,6 +408571,58 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
     "backdropPath": "/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+    "alternativeTitles": [
+      "布里杰顿家族",
+      "布里奇顿",
+      "Bridgertonovi",
+      "Los Bridgerton",
+      "La Chronique des Bridgerton",
+      "Μπρίτζερτον",
+      "A Bridgerton család",
+      "ברידג'רטון",
+      "ब्रिजरटन खानदान",
+      "బ్రిడ్జర్జన్",
+      "ブリジャートン家",
+      "브리저튼",
+      "பிரிட்ஜெர்டன்",
+      "Familien Bridgerton",
+      "Bridgertonowie",
+      "Бриджертоны",
+      "بریجرتن",
+      "Familjen Bridgerton",
+      "บริดเจอร์ตัน: วังวนรัก เกมไฮโซ",
+      "Бріджертони",
+      "Dòng Tộc Bridgerton",
+      "Gia Tộc Bridgerton",
+      "Nhà Bridgerton"
+    ],
+    "translatedTitles": [
+      "布里杰顿家族",
+      "Bridgerton",
+      "La Chronique des Bridgerton",
+      "Бриджертоны",
+      "Bridgertonovi",
+      "Los Bridgerton",
+      "브리저튼",
+      "A Bridgerton család",
+      "Μπρίτζερτον",
+      "Familjen Bridgerton",
+      "柏捷頓家族：名門韻事",
+      "ברידג'רטון",
+      "Bridgertonowie",
+      "Бріджертони",
+      "ブリジャートン家",
+      "Bridžertonų kronikos",
+      "بریجرتن",
+      "บริดเจอร์ตัน: วังวนรัก เกมไฮโซ",
+      "ბრიჯერტონი",
+      "بريدجرتون",
+      "ब्रिजरटन खानदान",
+      "Familien Bridgerton",
+      "Бриджъртън",
+      "Bridžertona",
+      "برجرٹن خاندان"
+    ],
     "seasons": [
       {
         "id": 127918,
@@ -409308,7 +412339,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91239",
-    "fetchedAt": "2026-10-06T05:53:52.442Z"
+    "fetchedAt": "2026-10-06T06:29:14.728Z"
   },
   "91740": {
     "tmdbId": 91740,
@@ -409337,6 +412368,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/mcj3pxw0Z2xx4vGdKi6apWuaWll.jpg",
     "backdropPath": "/dHZlmXSIwbMgm6HfFa9GFzHNsM7.jpg",
+    "alternativeTitles": [
+      "生活向上"
+    ],
+    "translatedTitles": [
+      "此路朝上",
+      "This Way Up",
+      "Вверх дном",
+      "디스 웨이 업",
+      "Pe drumul cel bun"
+    ],
     "seasons": [
       {
         "id": 128698,
@@ -409701,7 +412742,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91740",
-    "fetchedAt": "2026-10-06T05:54:18.002Z"
+    "fetchedAt": "2026-10-06T06:30:00.054Z"
   },
   "92685": {
     "tmdbId": 92685,
@@ -409734,6 +412775,59 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/cZLxKTslrf9gzRomVy8BhaYjg7n.jpg",
     "backdropPath": "/bGqKaVROpz7pWUNuBxgU8hbcXYn.jpg",
+    "alternativeTitles": [
+      "La Casa Búho",
+      "Het Huis van de Uil",
+      "A Casa da Coruja",
+      "The Owl House - A Casa da Coruja",
+      "Willkommen Im Haus Der Eulen",
+      "Casa Búho",
+      "Luz à Osville",
+      "בית הינשוף",
+      "アウルハウス",
+      "아울 하우스",
+      "The Owl House : La Casa Búho",
+      "Sowi Dom",
+      "奇幻猫头鹰小屋",
+      "Baykuş Evi",
+      "奇幻貓頭鷹小屋",
+      "Будинок сови",
+      "Disney The Owl House",
+      "Disney's The Owl House",
+      "Owl Pellets",
+      "Nhà Cú"
+    ],
+    "translatedTitles": [
+      "猫头鹰魔法社",
+      "The Owl House",
+      "Luz à Osville",
+      "Дом Совы",
+      "A Casa Coruja",
+      "奇幻貓頭鷹小屋",
+      "Совиний дім",
+      "בית הינשוף",
+      "Willkommen im Haus der Eulen",
+      "The Owl House - Aspirante strega",
+      "アウルハウス",
+      "아울 하우스",
+      "Casa Búho",
+      "Casa Bufnițelor",
+      "La Casa Búho",
+      "Uglehuset",
+      "Sowi dom",
+      "Baykuş Evi",
+      "Soví dům",
+      "Casa da Coruja",
+      "A bagolyház",
+      "Το Σπίτι της Κουκουβάγιας",
+      "Ugglehuset",
+      "Къщата на совите",
+      "خانه جغدی",
+      "منزل البوم",
+      "Pelėdos namelis",
+      "Pöllötalo",
+      "Soví dom"
+    ],
     "seasons": [
       {
         "id": 130506,
@@ -410867,7 +413961,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92685",
-    "fetchedAt": "2026-10-06T05:54:10.353Z"
+    "fetchedAt": "2026-10-06T06:29:45.647Z"
   },
   "92783": {
     "tmdbId": 92783,
@@ -410897,6 +413991,64 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/5xz2orV8f0usyrfGNshcoXHmiaV.jpg",
     "backdropPath": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+    "alternativeTitles": [
+      "She-Hulk : Avocate de Marvel Studios",
+      "女浩克",
+      "女浩克：政法律师",
+      "Marvel's She-Hulk - Die Anwältin",
+      "هي هالك : محامية في القانون",
+      "Marvel's She-Hulk: abogada Hulka",
+      "አማረኛ",
+      "Miss Hulk : Avocate",
+      "She-Hulk : Avocate",
+      "变形女侠：律政英雌",
+      "הענקית הירוקה",
+      "شی‌هالک: وکیل دادگستری",
+      "هالک‌ زن: وکیل دادگستری",
+      "هالک دخت",
+      "هالک-دخت: وکیل دادگستری",
+      "شی هالک",
+      "She ハルク：ザ・アトーニー",
+      "변호사 쉬 헐크",
+      "Женщина-Халк: Адвокат",
+      "ชี-ฮัลค์",
+      "ชี-ฮัลค์: ทนายสายลุย",
+      "律师女浩克",
+      "Жінка-Галк: Адвокатка",
+      "Жінка-Халк: Адвокатка",
+      "She-Hulk",
+      "Marvel Studios' She-Hulk: Attorney at Law"
+    ],
+    "translatedTitles": [
+      "She-Hulk: Attorney at Law",
+      "변호사 쉬헐크",
+      "She-Hulk : Avocate",
+      "Mulher-Hulk: Defensora de Heróis",
+      "Жінка-Галк: Адвокатка",
+      "She-Hulk: abogada Hulka",
+      "שי-האלק: עורכת דין בשירות החוק",
+      "She-Hulk: Defensora de héroes",
+      "シー・ハルク：ザ・アトーニー",
+      "She-Hulk: Neuvěřitelná právnička",
+      "She-Hulk: Neuveriteľná právnička",
+      "Amazon: Ügyvéd",
+      "She-Hulk - A Advogada",
+      "律師女浩克",
+      "Mecenas She-Hulk",
+      "She-Hulk: Die Anwältin",
+      "女浩克",
+      "ഷീ-ഹൾക്ക്",
+      "शी-हल्क",
+      "She-Hulk: Avocata apărării",
+      "Жената-Хълк: Адвокат",
+      "شي-هالك: محامية في القانون",
+      "變形女俠：律政英雌",
+      "Nữ Khổng Lồ Xanh",
+      "شی هالک‌ : وکیل دادگستری",
+      "Ji-Halkas: Teisininkė",
+      "ქალი-ჰალკი: ადვოკატი",
+      "Жена-Хулк: Адвокат"
+    ],
     "seasons": [
       {
         "id": 163259,
@@ -412277,7 +415429,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92783",
-    "fetchedAt": "2026-10-06T05:54:14.147Z"
+    "fetchedAt": "2026-10-06T06:29:52.865Z"
   },
   "94605": {
     "tmdbId": 94605,
@@ -412308,6 +415460,30 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
     "backdropPath": "/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
+    "alternativeTitles": [
+      "英雄联盟：双城之战",
+      "არკეინი",
+      "آرکین : لیگ افسانه ها",
+      "Аркейн: League of Legends",
+      "Лига Легенд",
+      "Arcane: League of Legends",
+      "Arcane Afterglow"
+    ],
+    "translatedTitles": [
+      "英雄联盟：双城之战",
+      "Arcane",
+      "아케인",
+      "Аркейн",
+      "ארקיין",
+      "奧術",
+      "آركين",
+      "アーケイン",
+      "Аркејн",
+      "อาร์เคน: ตำนานลีกออฟเลเจ็นดส์",
+      "Arkayn",
+      "آرکین:  لیگ افسانه ها",
+      "იდუმალი"
+    ],
     "seasons": [
       {
         "id": 134187,
@@ -413688,7 +416864,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/94605",
-    "fetchedAt": "2026-10-06T05:53:48.959Z"
+    "fetchedAt": "2026-10-06T06:29:09.560Z"
   },
   "99610": {
     "tmdbId": 99610,
@@ -413724,6 +416900,27 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/ri3dx91b3QeRGB35gnEiHGhXxdP.jpg",
     "backdropPath": "/21fr4skILqHaCz0VY50DQn0tYhO.jpg",
+    "alternativeTitles": [
+      "迷醉伦敦",
+      "心向快乐",
+      "Feel Good 小姐",
+      "我要开心",
+      "Mae and George",
+      "Feel Good"
+    ],
+    "translatedTitles": [
+      "心向快乐",
+      "Feel Good",
+      "Как же хорошо...",
+      "我要開心",
+      "필 굿",
+      "Na pohodu",
+      "מיי וג'ורג'",
+      "Jól érzem magam",
+      "Як добре",
+      "フィール・グッド",
+      "Épicurienne"
+    ],
     "seasons": [
       {
         "id": 143698,
@@ -414299,7 +417496,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/99610",
-    "fetchedAt": "2026-10-06T05:53:58.445Z"
+    "fetchedAt": "2026-10-06T06:29:23.960Z"
   },
   "100088": {
     "tmdbId": 100088,
@@ -414328,6 +417525,56 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
     "backdropPath": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+    "alternativeTitles": [
+      "Bizdən Geriyə Qalanlar",
+      "আমাদের শেষ",
+      "Последните от нас",
+      "Les derniers d'entre nous",
+      "Poslední z nás",
+      "De sidste som os",
+      "האחרונים מבנינו",
+      "האחרונים שמבינינו",
+      "האחרונים שביננו",
+      "آخرین بازمانده‌ی ما",
+      "آخرین ما",
+      "د لست آف آس",
+      "ザ・ラスト・オブ・アス",
+      "ラスト・オブ・アス",
+      "ラスアス",
+      "라스트 오브 어스",
+      "Paskutiniai iš mūsų",
+      "Одни из нас",
+      "Posledný z nás",
+      "ปัจฉิมอเมริกา",
+      "Bizden geriye kalanlar",
+      "Останні з нас",
+      "Những Người Còn Sót Lại"
+    ],
+    "translatedTitles": [
+      "最后生还者",
+      "The Last of Us",
+      "Bizning oxirgimiz",
+      "Одни из нас",
+      "더 라스트 오브 어스",
+      "الأخير منا",
+      "Останні з нас",
+      "Posljednji od Nas",
+      "The Last of Us: Последните оцелели",
+      "האחרונים מבינינו",
+      "ما تبقى منا",
+      "Intayada ugu Dambeysa",
+      "آخرین بازمانده از ما",
+      "THE LAST OF US",
+      "最後生還者",
+      "Những Người Còn Sót Lại",
+      "เดอะลาสต์ออฟอัส",
+      "Yang Terakhir Dari Kita",
+      "Paskutinieji iš mūsų",
+      "Pēdējais no mums",
+      "უკანასკნელი ჩვენგანი",
+      "Viimased meie hulgast",
+      "Апошнія з нас"
+    ],
     "seasons": [
       {
         "id": 144593,
@@ -414528,7 +417775,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1253360,
         "name": "Pedro Pascal",
-        "character": "Joel Miller (uncredited) / Joel Miller",
+        "character": "Joel Miller / Joel Miller (uncredited)",
         "order": 164,
         "profilePath": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
       },
@@ -415018,7 +418265,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1151408,
         "name": "Samuel Hoeksema",
-        "character": "Clicker / Museum Clicker",
+        "character": "Museum Clicker / Clicker",
         "order": 571,
         "profilePath": "/6TEscmA3aFBkdWX2DuozcUhHkBK.jpg"
       },
@@ -415319,7 +418566,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 5371137,
         "name": "Molly Scarpine",
-        "character": "Stalker Voice (voice) / Female Stalker Voice (voice)",
+        "character": "Female Stalker Voice (voice) / Stalker Voice (voice)",
         "order": 614,
         "profilePath": ""
       },
@@ -416044,7 +419291,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 5371137,
         "name": "Molly Scarpine",
-        "character": "Stalker Voice (voice) / Female Stalker Voice (voice)",
+        "character": "Female Stalker Voice (voice) / Stalker Voice (voice)",
         "order": 614,
         "profilePath": ""
       },
@@ -416101,6 +419348,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 1574550,
+        "name": "Ali Abbasi",
+        "profilePath": "/1mwdpvwjAG1NkvUwpdBMEMJnjK2.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 208453,
         "name": "Peter Hoar",
         "profilePath": "/qfLft2v4stmVdXYEdanJhasYC5J.jpg",
@@ -416112,38 +419367,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "id": 175311,
         "name": "Jeremy Webb",
         "profilePath": "/hJcVQ62yQTBP5lLbhsIFpeHK2hD.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1574550,
-        "name": "Ali Abbasi",
-        "profilePath": "/1mwdpvwjAG1NkvUwpdBMEMJnjK2.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 57199,
-        "name": "Mark Mylod",
-        "profilePath": "/6Nwg31BrgPkCjZ054Pso3ctg3Ov.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 916958,
-        "name": "Liza Johnson",
-        "profilePath": "/y7as9fauoSzDo3J8xN9h4RZ6h7M.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1122804,
-        "name": "Nina Lopez-Corrado",
-        "profilePath": "/pOleBiod4Un0aiRdJsgdfoGW7H0.jpg",
         "jobs": [
           "Director"
         ]
@@ -416173,8 +419396,56 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 916958,
+        "name": "Liza Johnson",
+        "profilePath": "/y7as9fauoSzDo3J8xN9h4RZ6h7M.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1122804,
+        "name": "Nina Lopez-Corrado",
+        "profilePath": "/pOleBiod4Un0aiRdJsgdfoGW7H0.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 57199,
+        "name": "Mark Mylod",
+        "profilePath": "/6Nwg31BrgPkCjZ054Pso3ctg3Ov.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 1551704,
         "name": "Cecil O'Connor",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 1058615,
+        "name": "Carter Swan",
+        "profilePath": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 1396493,
+        "name": "Rose Lam",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 2313937,
+        "name": "Jacqueline Lesko",
         "profilePath": "",
         "jobs": [
           "Executive Producer"
@@ -416189,30 +419460,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1970298,
-        "name": "Evan Wells",
-        "profilePath": "/3ntVgs1tyRfec7iROG89hCoqpm5.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 2313937,
-        "name": "Jacqueline Lesko",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 1396493,
-        "name": "Rose Lam",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
         "id": 1223797,
         "name": "Carolyn Strauss",
         "profilePath": "/o88ISZv7ILrPMHutX1XVr7trmkF.jpg",
@@ -416221,9 +419468,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1058615,
-        "name": "Carter Swan",
-        "profilePath": "/AvLwGyrFlPO0siw3MYH13mOpahI.jpg",
+        "id": 1970298,
+        "name": "Evan Wells",
+        "profilePath": "/3ntVgs1tyRfec7iROG89hCoqpm5.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -416238,7 +419485,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100088",
-    "fetchedAt": "2026-10-06T05:54:07.129Z"
+    "fetchedAt": "2026-10-06T06:29:39.600Z"
   },
   "100834": {
     "tmdbId": 100834,
@@ -416267,6 +419514,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/rSMgruoizGda8Rqe9DsgD2Ln8Uq.jpg",
     "backdropPath": "/yjpmy5JIjH1wzKgkVIyt44WSnuA.jpg",
+    "alternativeTitles": [
+      "Veneno"
+    ],
+    "translatedTitles": [
+      "毒药",
+      "Veneno",
+      "베네노",
+      "Венено",
+      "Inde"
+    ],
     "seasons": [
       {
         "id": 145791,
@@ -416923,7 +420180,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100834",
-    "fetchedAt": "2026-10-06T05:54:18.484Z"
+    "fetchedAt": "2026-10-06T06:30:00.970Z"
   },
   "106431": {
     "tmdbId": 106431,
@@ -416954,6 +420211,21 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/6eaySyOW29li0CgXHqy7pgb0IUT.jpg",
     "backdropPath": "/otyDmwl75oagrC01LpVeegUknuP.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "送报女孩",
+      "Paper Girls",
+      "페이퍼 걸스",
+      "Holky od novin",
+      "بنات من ورق",
+      "送報女孩",
+      "מחלקות העיתונים",
+      "Газетчицы",
+      "สี่สาวน้อยท่องเวลา",
+      "Újságos lányok",
+      "Fetele care aduc ziarul",
+      "Lehtitytöt"
+    ],
     "seasons": [
       {
         "id": 157236,
@@ -417787,7 +421059,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/106431",
-    "fetchedAt": "2026-10-06T05:54:10.586Z"
+    "fetchedAt": "2026-10-06T06:29:46.127Z"
   },
   "107005": {
     "tmdbId": 107005,
@@ -417817,6 +421089,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3sqXMRpidT15QylW6GlQFuGpGCc.jpg",
     "backdropPath": "/6oJtdTvMqpxS9sztOcmlAVdRZDI.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "红粉联盟",
+      "A League of Their Own",
+      "그들만의 리그",
+      "Их собственная лига",
+      "Une équipe hors du commun",
+      "Uma Equipe Muito Especial",
+      "Ellas dan el golpe",
+      "Ich własna liga",
+      "Ragazze vincenti - La serie",
+      "ליגה משלהן",
+      "Їхня власна ліга",
+      "Velké vítězství",
+      "Micsoda csapat",
+      "プリティ・リーグ",
+      "Un equipo muy especial",
+      "Omaa luokkaansa",
+      "紅粉聯盟",
+      "Kızlar Sahada",
+      "Liga feminină de baseball"
+    ],
     "seasons": [
       {
         "id": 158221,
@@ -418609,7 +421903,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/107005",
-    "fetchedAt": "2026-10-06T05:53:46.953Z"
+    "fetchedAt": "2026-10-06T06:29:06.710Z"
   },
   "109958": {
     "tmdbId": 109958,
@@ -418639,6 +421933,45 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/vIXQ8UymmQ7zJEPrKJP3s3fSbhR.jpg",
     "backdropPath": "/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg",
+    "alternativeTitles": [
+      "Bly Manor : La dernière demeure",
+      "عمارت تسخیر شده بلای",
+      "ザ・ホーンティング・オブ・ブライマナー",
+      "Призраки поместья Блай",
+      "บลายเมเนอร์ บ้านกระตุกวิญญาณ",
+      "鬼莊園",
+      "Привиди садиби Блай"
+    ],
+    "translatedTitles": [
+      "鬼庄园",
+      "The Haunting of Bly Manor",
+      "A Maldição da Mansão Bly",
+      "Záhadné sídlo Bly",
+      "ザ・ホーンティング・オブ・ブライマナー",
+      "La maldición de Bly Manor",
+      "Призраки усадьбы Блай",
+      "블라이 저택의 유령",
+      "Привиди маєтку Блай",
+      "The Haunting: Bly Malikânesi",
+      "Bly Manor : La dernière demeure",
+      "Spuk in Bly Manor",
+      "A Bly-udvarház szelleme",
+      "מי מתגורר באחוזת בליי",
+      "Nawiedzony dwór w Bly",
+      "鬼莊園",
+      "Οι Δαίμονες της Έπαυλης Μπλάι",
+      "Проклетство имања Блај",
+      "Conacul bântuit",
+      "บลายเมเนอร์ บ้านกระตุกวิญญาณ",
+      "Bly dvaro vaiduokliai",
+      "Chuyện ma ám ở trang viên Bly",
+      "Призраците в имението Блай",
+      "ბლაის მამულის მოჩვენებები",
+      "陰宅怪事",
+      "Prokletstvo imanja Bly",
+      "ब्लाय मेनर के प्रेत",
+      "A Maldição de Bly Manor"
+    ],
     "seasons": [
       {
         "id": 162959,
@@ -419486,7 +422819,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/109958",
-    "fetchedAt": "2026-10-06T05:54:04.223Z"
+    "fetchedAt": "2026-10-06T06:29:34.287Z"
   },
   "111616": {
     "tmdbId": 111616,
@@ -419516,6 +422849,32 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/hwSy1vVaRzV70ZvAEsl6FGOHNlH.jpg",
     "backdropPath": "/abFQcEO0UJVfUQPmhgjaKeLxRwy.jpg",
+    "alternativeTitles": [
+      "Première Proie",
+      "一猎钟情"
+    ],
+    "translatedTitles": [
+      "一猎钟情",
+      "First Kill",
+      "Первое убийство",
+      "퍼스트 킬",
+      "Primeira Morte",
+      "Az első áldozat",
+      "Перше вбивство",
+      "První krev",
+      "Pierwsze zabójstwo",
+      "La primera muerte",
+      "חיסול ראשון",
+      "รักแรกฆ่า",
+      "Première Proie",
+      "ファースト・キル",
+      "一獵鍾情",
+      "Prvi umor",
+      "Pirmoji žmogžudystė",
+      "Mạng Đầu",
+      "Să te ucid",
+      "القتل الأول"
+    ],
     "seasons": [
       {
         "id": 165919,
@@ -420257,7 +423616,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/111616",
-    "fetchedAt": "2026-10-06T05:53:58.908Z"
+    "fetchedAt": "2026-10-06T06:29:24.718Z"
   },
   "113367": {
     "tmdbId": 113367,
@@ -420287,6 +423646,29 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg",
     "backdropPath": "/7SSO2wXsuOOVnB6oeWbuIDynrE2.jpg",
+    "alternativeTitles": [
+      "Дикунки",
+      "The Wilds"
+    ],
+    "translatedTitles": [
+      "荒野",
+      "The Wilds",
+      "Salvajes",
+      "The Wilds: Vidas Selvagens",
+      "Дикарки",
+      "孤島",
+      "Yaban",
+      "더 와일즈",
+      "אבודות בטבע",
+      "Trosečnice",
+      "ザ・ワイルズ ～孤島に残された少女たち～",
+      "Negyvenama sala",
+      "A vadak",
+      "Dzicz",
+      "Изгубени",
+      "ผจญป่า ฝ่าหาดมรณะ",
+      "Дикі"
+    ],
     "seasons": [
       {
         "id": 169272,
@@ -421478,14 +424860,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 157879,
-        "name": "Alison Maclean",
-        "profilePath": "/jfSCedkHdpM9HxmZvohQqYklutX.jpg",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
         "id": 15337,
         "name": "John Polson",
         "profilePath": "/rsjpQFAvQSo05HflPSCODCCbYFl.jpg",
@@ -421495,9 +424869,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 558465,
-        "name": "Ben C. Lucas",
-        "profilePath": "",
+        "id": 157879,
+        "name": "Alison Maclean",
+        "profilePath": "/jfSCedkHdpM9HxmZvohQqYklutX.jpg",
         "jobs": [
           "Director"
         ]
@@ -421511,17 +424885,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1613214,
-        "name": "Tara Nicole Weyr",
+        "id": 558465,
+        "name": "Ben C. Lucas",
         "profilePath": "",
-        "jobs": [
-          "Director"
-        ]
-      },
-      {
-        "id": 1088579,
-        "name": "Haifaa al-Mansour",
-        "profilePath": "/67UWpEJi36AXxY3aQf4DBSvGv9e.jpg",
         "jobs": [
           "Director"
         ]
@@ -421532,15 +424898,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/bRJWL5X0R38kv92dFPAGTL3CGck.jpg",
         "jobs": [
           "Director"
-        ]
-      },
-      {
-        "id": 1302549,
-        "name": "Susanna Fogel",
-        "profilePath": "/sAbg3vh5GzQGXnlFpQlAyFAVmcs.jpg",
-        "jobs": [
-          "Director",
-          "Executive Producer"
         ]
       },
       {
@@ -421560,6 +424917,31 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 1668245,
+        "name": "Ben Young",
+        "profilePath": "/HGR4K0K2munDE65ySgmPjWV2hQ.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1088579,
+        "name": "Haifaa al-Mansour",
+        "profilePath": "/67UWpEJi36AXxY3aQf4DBSvGv9e.jpg",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
+        "id": 1302549,
+        "name": "Susanna Fogel",
+        "profilePath": "/sAbg3vh5GzQGXnlFpQlAyFAVmcs.jpg",
+        "jobs": [
+          "Director",
+          "Executive Producer"
+        ]
+      },
+      {
         "id": 41847,
         "name": "Ed Wild",
         "profilePath": "",
@@ -421568,9 +424950,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 1668245,
-        "name": "Ben Young",
-        "profilePath": "/HGR4K0K2munDE65ySgmPjWV2hQ.jpg",
+        "id": 1613214,
+        "name": "Tara Nicole Weyr",
+        "profilePath": "",
         "jobs": [
           "Director"
         ]
@@ -421584,20 +424966,20 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 35975,
+        "name": "Jamie Tarses",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
         "id": 62059,
         "name": "Amy Harris",
         "profilePath": "/y7geiXVVm2ut1GezcNaCcb90iQG.jpg",
         "jobs": [
           "Executive Producer",
           "Writer"
-        ]
-      },
-      {
-        "id": 35975,
-        "name": "Jamie Tarses",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
         ]
       },
       {
@@ -421625,16 +425007,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 509130,
-        "name": "Shalisha Francis",
-        "profilePath": "",
-        "jobs": [
-          "Writer"
-        ]
-      },
-      {
-        "id": 1731178,
-        "name": "Jai Tiggett",
+        "id": 2158031,
+        "name": "Tonya Kong",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -421649,8 +425023,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2158031,
-        "name": "Tonya Kong",
+        "id": 1731178,
+        "name": "Jai Tiggett",
+        "profilePath": "",
+        "jobs": [
+          "Writer"
+        ]
+      },
+      {
+        "id": 509130,
+        "name": "Shalisha Francis",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -421666,7 +425048,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113367",
-    "fetchedAt": "2026-10-06T05:54:21.501Z"
+    "fetchedAt": "2026-10-06T06:30:06.662Z"
   },
   "113962": {
     "tmdbId": 113962,
@@ -421696,6 +425078,41 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
     "backdropPath": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+    "alternativeTitles": [
+      "Operação: Lioness",
+      "母狮",
+      "特别行动：母狮",
+      "Special Ops: Lioness",
+      "Opérations Spéciales : Lioness",
+      "מבצעים מיוחדים: לביאה",
+      "شیرزن",
+      "Special Ops Lioness",
+      "諜戰行動：母獅"
+    ],
+    "translatedTitles": [
+      "母狮",
+      "Lioness",
+      "라이어니스: 특수 작전팀",
+      "Operazione speciale: Lioness",
+      "Operaciones Especiales: Lioness",
+      "Спецзагін \"Левиця\"",
+      "Special Ops: Lioness",
+      "Спецназ: Львица",
+      "ليونيس",
+      "Specialusis būrys: Liūtė",
+      "Đặc Nhiệm: Sư Tử Cái",
+      "Operativo: Lioness",
+      "特種部隊：母獅",
+      "הלביאות: מבצעים מיוחדים",
+      "諜戰行動：母獅",
+      "Лъвица",
+      "Operațiuni speciale: Leoaica",
+      "شیرزن",
+      "ძუ ლომი",
+      "Лавица",
+      "特殊作戦部隊：ライオネス",
+      "Opérations Spéciales : Lioness"
+    ],
     "seasons": [
       {
         "id": 170740,
@@ -422035,7 +425452,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 60076,
         "name": "Thad Luckinbill",
-        "character": "Kyle / Kyle McManus",
+        "character": "Kyle McManus / Kyle",
         "order": 12,
         "profilePath": "/7zBnpYTwwxKT6OHcycqacGQwQT8.jpg"
       },
@@ -422539,7 +425956,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 98215,
         "name": "Matt Gerald",
-        "character": "Cody / Cody J",
+        "character": "Cody J / Cody",
         "order": 569,
         "profilePath": "/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg"
       },
@@ -423267,7 +426684,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 1711699,
         "name": "Jose Vasquez",
-        "character": "Punk #4 / Punk #3",
+        "character": "Punk #3 / Punk #4",
         "order": 673,
         "profilePath": "/6KCW3MCV5LMwK7p1zMwXBLbT4gz.jpg"
       },
@@ -423351,7 +426768,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       {
         "id": 3492602,
         "name": "Konstantin Podprugin",
-        "character": "Man / Man #1",
+        "character": "Man #1 / Man",
         "order": 688,
         "profilePath": "/m0IdxqTyKuSEfHn0dN35QOxuLHB.jpg"
       },
@@ -424482,24 +427899,15 @@ window.WLW_TMDB_DETAILS_BY_ID = {
           "Creator",
           "Director",
           "Executive Producer",
-          "Story",
+          "Teleplay",
           "Writer",
-          "Teleplay"
+          "Story"
         ]
       },
       {
         "id": 3176244,
         "name": "Michael Friedman",
         "profilePath": "/h6qBemrwTBKJcuc5gL2ZDs8qLb1.jpg",
-        "jobs": [
-          "Director",
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 56435,
-        "name": "Stephen Kay",
-        "profilePath": "/9HsKUi7Ab5jtIQ59OOGyvBtfJRI.jpg",
         "jobs": [
           "Director",
           "Executive Producer"
@@ -424515,17 +427923,18 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 40256,
-        "name": "D.J. Caruso",
-        "profilePath": "/f1SZVhhjvzVot596JYVJdf60dWY.jpg",
+        "id": 56435,
+        "name": "Stephen Kay",
+        "profilePath": "/9HsKUi7Ab5jtIQ59OOGyvBtfJRI.jpg",
         "jobs": [
-          "Director"
+          "Director",
+          "Executive Producer"
         ]
       },
       {
-        "id": 233263,
-        "name": "Anthony Byrne",
-        "profilePath": "",
+        "id": 40256,
+        "name": "D.J. Caruso",
+        "profilePath": "/f1SZVhhjvzVot596JYVJdf60dWY.jpg",
         "jobs": [
           "Director"
         ]
@@ -424539,6 +427948,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 233263,
+        "name": "Anthony Byrne",
+        "profilePath": "",
+        "jobs": [
+          "Director"
+        ]
+      },
+      {
         "id": 57135,
         "name": "Robert McLachlan",
         "profilePath": "/yTWFJiQCp9ilMcULCGLnObD6ICc.jpg",
@@ -424547,41 +427964,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 8691,
-        "name": "Zoe Saldaña",
-        "profilePath": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 4232,
-        "name": "Bob Yari",
-        "profilePath": "/8PecTVSJk5uJmndCGTLwgsLPEhP.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
         "id": 82943,
         "name": "Jill Wagner",
         "profilePath": "/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 4177284,
-        "name": "David Lemanowicz",
-        "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 41892,
-        "name": "Geyer Kosinski",
-        "profilePath": "",
         "jobs": [
           "Executive Producer"
         ]
@@ -424595,14 +427980,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 228247,
-        "name": "Ron Burkle",
-        "profilePath": "/hf69HPpxXieEPqSblJGqX5Hq31V.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
         "id": 2227,
         "name": "Nicole Kidman",
         "profilePath": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
@@ -424611,9 +427988,49 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
+        "id": 4232,
+        "name": "Bob Yari",
+        "profilePath": "/8PecTVSJk5uJmndCGTLwgsLPEhP.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 8691,
+        "name": "Zoe Saldaña",
+        "profilePath": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 41892,
+        "name": "Geyer Kosinski",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 4177284,
+        "name": "David Lemanowicz",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
         "id": 21390,
         "name": "David C. Glasser",
         "profilePath": "/t26MlYwJl4TBLFkHz9pjixA8yo7.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 228247,
+        "name": "Ron Burkle",
+        "profilePath": "/hf69HPpxXieEPqSblJGqX5Hq31V.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -424636,7 +428053,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113962",
-    "fetchedAt": "2026-10-06T05:54:15.335Z"
+    "fetchedAt": "2026-10-06T06:29:55.082Z"
   },
   "117488": {
     "tmdbId": 117488,
@@ -424672,6 +428089,31 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
     "backdropPath": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+    "alternativeTitles": [
+      "黄蜂",
+      "צהובות",
+      "옐로우재킷",
+      "Lapsenes"
+    ],
+    "translatedTitles": [
+      "黄蜂",
+      "Yellowjackets",
+      "Шершни",
+      "옐로우재킷",
+      "הצהובות",
+      "黃蜂",
+      "Túlélőjátszma",
+      "Áo Khoác Vàng",
+      "Шершні",
+      "イエロージャケッツ",
+      "Vapsvos",
+      "Kollased vapsikud",
+      "Rumeni jopiči",
+      "แจ็กเก็ตสีเหลือง",
+      "Осите",
+      "Стршљенови",
+      "جلیقه زردها"
+    ],
     "seasons": [
       {
         "id": 178264,
@@ -427822,7 +431264,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/117488",
-    "fetchedAt": "2026-10-06T05:54:23.098Z"
+    "fetchedAt": "2026-10-06T06:30:09.672Z"
   },
   "119051": {
     "tmdbId": 119051,
@@ -427853,6 +431295,48 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
     "backdropPath": "/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+    "alternativeTitles": [
+      "Вэнсдэй",
+      "星期三",
+      "ოთხშაბათი",
+      "Γουένσντεϊ Άνταμς",
+      "וונסדי",
+      "چهارشنبه",
+      "Merlina",
+      "Уэнсдэй",
+      "Венздей",
+      "Sreda",
+      "เวนส์เดย์",
+      "Wednesday Addams",
+      "Uenzdey"
+    ],
+    "translatedTitles": [
+      "Wednesday",
+      "Mercredi",
+      "Wandinha",
+      "Miércoles",
+      "웬즈데이",
+      "Венздей",
+      "Mercoledì",
+      "Уэнздей",
+      "星期三",
+      "ウェンズデー",
+      "ונסדיי",
+      "Merlina",
+      "Среда",
+      "وينزداي آدامز",
+      "Sreda",
+      "ونزدی",
+      "Trečiadienė",
+      "Уенсдей",
+      "Mércores",
+      "Merkredo",
+      "უენსდეი",
+      "वेडनेसडे ऐडम्स",
+      "Dimecres",
+      "Venzdey",
+      "وینزڈے ایڈمز"
+    ],
     "seasons": [
       {
         "id": 182137,
@@ -429725,7 +433209,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/119051",
-    "fetchedAt": "2026-10-06T05:54:20.134Z"
+    "fetchedAt": "2026-10-06T06:30:04.201Z"
   },
   "124101": {
     "tmdbId": 124101,
@@ -429767,6 +433251,30 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
     "backdropPath": "/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+    "alternativeTitles": [
+      "老哏新侃",
+      "天后与草莓",
+      "Полезные советы"
+    ],
+    "translatedTitles": [
+      "绝望写手",
+      "Hacks",
+      "Хитрости",
+      "天后與草莓",
+      "Medíocres",
+      "האקס",
+      "나의 직장상사는 코미디언",
+      "Хитрощі",
+      "Хитринки",
+      "Hacks – A pénz beszél",
+      "Stále v kurzu",
+      "Stále v kurze",
+      "แฮ็คส์",
+      "Huyền Thoại Làng Hài",
+      "職業槍手",
+      "Gudrybės",
+      "هکس"
+    ],
     "seasons": [
       {
         "id": 192055,
@@ -436237,7 +439745,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/124101",
-    "fetchedAt": "2026-10-06T05:54:03.135Z"
+    "fetchedAt": "2026-10-06T06:29:32.263Z"
   },
   "126167": {
     "tmdbId": 126167,
@@ -436267,6 +439775,33 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/5zAheY0Upi2MwU3edGtEgb7Ldh3.jpg",
     "backdropPath": "/bfL7ZRhYJn5rYq9DYZL4Wf5qboL.jpg",
+    "alternativeTitles": [
+      "守夜号",
+      "Vigil Tod auf hoher See",
+      "Vigil: Tod auf hoher See",
+      "Vigil: Conspiración nuclear",
+      "Vigil - kuolema syvyyksissä",
+      "Vigil - vaaniva kuolema",
+      "ויג'יל",
+      "Sazvērestība armijas bāzē"
+    ],
+    "translatedTitles": [
+      "不眠",
+      "Vigil",
+      "Дежурство",
+      "Sazvērestība zemūdenē",
+      "守夜號",
+      "ערנות",
+      "Vigil: Conspiración nuclear",
+      "Чергування",
+      "비질",
+      "Mirtis gelmėse",
+      "Vigil - Døden i dybet",
+      "Vigil - Indagine a bordo",
+      "原潜ヴィジル 水面下の陰謀",
+      "Vigil: conspiración nuclear",
+      "მოვალეობა"
+    ],
     "seasons": [
       {
         "id": 196468,
@@ -437169,7 +440704,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126167",
-    "fetchedAt": "2026-10-06T05:54:19.100Z"
+    "fetchedAt": "2026-10-06T06:30:02.152Z"
   },
   "126627": {
     "tmdbId": 126627,
@@ -437198,6 +440733,11 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/tOB0jo7cQzp4wIKbEHo7VAGRwIn.jpg",
     "backdropPath": "/42CoOgEIXyjhxkf2GG0yApu4JDI.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "汉娜和她的五个前女友",
+      "Loving Her"
+    ],
     "seasons": [
       {
         "id": 197377,
@@ -437530,7 +441070,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126627",
-    "fetchedAt": "2026-10-06T05:54:09.066Z"
+    "fetchedAt": "2026-10-06T06:29:43.233Z"
   },
   "128098": {
     "tmdbId": 128098,
@@ -437560,6 +441100,38 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
     "backdropPath": "/1tADVruLbywl7P3TOVQmNza3aAO.jpg",
+    "alternativeTitles": [
+      "Вампир Лестат",
+      "Anne Rice's Interview with the Vampire",
+      "Interview with the Vampire: Uncut",
+      "Interview with the Vampire: Part II",
+      "Anne Rice's Interview with the Vampire: Part II",
+      "Interview with the Vampire: Cast Diaries"
+    ],
+    "translatedTitles": [
+      "夜访吸血鬼",
+      "Interview with the Vampire",
+      "Интервью с вампиром",
+      "Wywiad z wampirem",
+      "Entrevista com o Vampiro",
+      "Entrevista con el vampiro",
+      "Інтерв’ю з вампіром",
+      "夜訪吸血鬼",
+      "Interjú a vámpírral",
+      "뱀파이어와의 인터뷰",
+      "ინტერვიუ ვამპირთან",
+      "Entretien avec un vampire",
+      "Интервју са вампиром",
+      "ראיון עם הערפד",
+      "Interviu su vampyru",
+      "Intervista col vampiro",
+      "Phỏng Vấn Ma Cà Rồng",
+      "インタビュー・ウィズ・ヴァンパイア",
+      "บันทึกรัตติกาลต้องสาป",
+      "Intervija ar vampīru",
+      "مصاحبه با خون‌آشام",
+      "Veren vangit"
+    ],
     "seasons": [
       {
         "id": 200240,
@@ -439553,7 +443125,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/128098",
-    "fetchedAt": "2026-10-06T05:54:04.883Z"
+    "fetchedAt": "2026-10-06T06:29:35.497Z"
   },
   "132956": {
     "tmdbId": 132956,
@@ -439583,6 +443155,12 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/l0OYnDL8cZo3NyF8z7E7X7Ry2tY.jpg",
     "backdropPath": "/7fQrCsu2GhAzA8wYioQhmHK57SC.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "蓝色里斯本",
+      "Lisboa Azul",
+      "Blue Lisbon"
+    ],
     "seasons": [
       {
         "id": 209657,
@@ -439774,7 +443352,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "crew": [],
     "tmdbUrl": "https://www.themoviedb.org/tv/132956",
-    "fetchedAt": "2026-10-06T05:53:51.832Z"
+    "fetchedAt": "2026-10-06T06:29:13.860Z"
   },
   "136748": {
     "tmdbId": 136748,
@@ -439804,6 +443382,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/5U5EscRz89quJnLdNgLEbhQtO18.jpg",
     "backdropPath": "/82qjAjDmvyyL5Aase0MpDvBUpNC.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "豹纹",
+      "Leopard Skin",
+      "פנתרות",
+      "豹紋",
+      "Леопардовая шкура"
+    ],
     "seasons": [
       {
         "id": 216313,
@@ -440024,7 +443610,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/136748",
-    "fetchedAt": "2026-10-06T05:54:07.890Z"
+    "fetchedAt": "2026-10-06T06:29:41.000Z"
   },
   "138501": {
     "tmdbId": 138501,
@@ -440054,6 +443640,54 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
     "backdropPath": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+    "alternativeTitles": [
+      "Agatha À Chaque Fois par Marvel Television",
+      "女巫阿加莎",
+      "Agatha All Along",
+      "אגתה: לאורך כל הדרך",
+      "אגתה: יומני הדארקהולד",
+      "تمام مدت آگاتا",
+      "Agatha En Todas Partes de Marvel Studios",
+      "Agatha En Todas Partes de Marvel Television",
+      "Аґата увесь час",
+      "Це все Аґата",
+      "Marvel Studios' Agatha",
+      "Agatha: House of Harkness",
+      "Agatha: Coven of Chaos",
+      "Agatha: Darkhold Diaries",
+      "Marvel Studios' Agatha: House of Harkness",
+      "Marvel Studios' Agatha: Coven of Chaos",
+      "Marvel Studios' Agatha: Darkhold Diaries",
+      "Agatha",
+      "Marvel Television's Agatha All Along"
+    ],
+    "translatedTitles": [
+      "Agatha All Along",
+      "Agatha Desde Sempre",
+      "전부 애거사 짓이야",
+      "Это всё Агата",
+      "Agatha, ¿quién si no?",
+      "Agatha en todas partes",
+      "აგათა: ყველა ერთად",
+      "אגתה לאורך כל הדרך",
+      "阿嘉莎無所不在",
+      "Агата през цялото време",
+      "To zawsze Agatha",
+      "Agatha za vším schovaná",
+      "Agatha à chaque fois",
+      "アガサ・オール・アロング",
+      "女巫阿嘉莎",
+      "Mindvégig Agatha",
+      "Foi Sempre a Agatha",
+      "Agatha de la bun început",
+      "Za všetkým hľadaj Agátu",
+      "أغاثا منذ البداية",
+      "อากาธา ออล อะลอง",
+      "آگاتا تمام مدت",
+      "Phù Thủy Agatha",
+      "女巫阿加莎",
+      "Agata visą laiką"
+    ],
     "seasons": [
       {
         "id": 219360,
@@ -440763,7 +444397,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/138501",
-    "fetchedAt": "2026-10-06T05:53:48.302Z"
+    "fetchedAt": "2026-10-06T06:29:08.532Z"
   },
   "153855": {
     "tmdbId": 153855,
@@ -440793,6 +444427,15 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/cM3n3qPbEDU3dozYWpTZWZvfbuT.jpg",
     "backdropPath": "/v6x1r9SnrHiO0VfljrlGMlNF0yw.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "睡莺",
+      "Ligga",
+      "LIGGE - kunsten å komme over eksen",
+      "Sleep Around",
+      "Bettgeflüster",
+      "Kuinka päästä yli eksästä"
+    ],
     "seasons": [
       {
         "id": 236628,
@@ -441164,7 +444807,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153855",
-    "fetchedAt": "2026-10-06T05:54:08.140Z"
+    "fetchedAt": "2026-10-06T06:29:41.484Z"
   },
   "153886": {
     "tmdbId": 153886,
@@ -441193,6 +444836,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/z20vFVMNUuT7v1M2Lr4U4omjJZW.jpg",
     "backdropPath": "/fnKHs3CMO3CmUl2H2ZSVMPzAuw7.jpg",
+    "alternativeTitles": [
+      "Eldorado KaDeWe - Jetzt ist unsere Zeit"
+    ],
+    "translatedTitles": [
+      "金迷卡迪威",
+      "Eldorado KaDeWe",
+      "KaDeWe"
+    ],
     "seasons": [
       {
         "id": 236721,
@@ -441478,7 +445129,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153886",
-    "fetchedAt": "2026-10-06T05:53:57.355Z"
+    "fetchedAt": "2026-10-06T06:29:22.155Z"
   },
   "155645": {
     "tmdbId": 155645,
@@ -441520,6 +445171,19 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3Pe8NiIqGyavJdu0ujQr9PW2NBU.jpg",
     "backdropPath": "/gqDk3WvuJCuCu0XuIWWaw97iMe2.jpg",
+    "alternativeTitles": [
+      "Senorita 89"
+    ],
+    "translatedTitles": [
+      "美人危姬",
+      "Señorita 89",
+      "Мисс 89",
+      "세뇨리따 89",
+      "Seňorita",
+      "Miss '89",
+      "Postati Miss Mehike",
+      "هشتاد و نهمین ملکه زیبایی مکزیک"
+    ],
     "seasons": [
       {
         "id": 240046,
@@ -441774,7 +445438,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155645",
-    "fetchedAt": "2026-10-06T05:54:13.342Z"
+    "fetchedAt": "2026-10-06T06:29:51.259Z"
   },
   "155700": {
     "tmdbId": 155700,
@@ -441803,6 +445467,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/dCyQWQL14QOuVVzPvxDL71kZJpp.jpg",
     "backdropPath": "/pi1TiumN7oFMuYrwHEqMBRBUiDE.jpg",
+    "alternativeTitles": [
+      "All About Us"
+    ],
+    "translatedTitles": [
+      "我们",
+      "Wir",
+      "All About Us"
+    ],
     "seasons": [
       {
         "id": 240160,
@@ -442730,7 +446402,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155700",
-    "fetchedAt": "2026-10-06T05:54:22.032Z"
+    "fetchedAt": "2026-10-06T06:30:07.704Z"
   },
   "156822": {
     "tmdbId": 156822,
@@ -442759,6 +446431,18 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/kiBuVgOdEYAx2kApt5FJ4SXiczz.jpg",
     "backdropPath": "/8qdU0KjhB3fSpXI33RKc7NREJtV.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "与鲨同游",
+      "Swimming with Sharks",
+      "스위밍 위드 샤크",
+      "Среди акул",
+      "לשחות עם כרישים",
+      "Cómo sobrevivir a un tiburón",
+      "Серед акул",
+      "驚爆好萊塢內幕",
+      "Peldot ar haizivīm"
+    ],
     "seasons": [
       {
         "id": 242383,
@@ -442984,7 +446668,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/156822",
-    "fetchedAt": "2026-10-06T05:54:17.443Z"
+    "fetchedAt": "2026-10-06T06:29:58.995Z"
   },
   "207368": {
     "tmdbId": 207368,
@@ -443013,6 +446697,15 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/lKEZdbcmeIDGfl0uvxu0yWl0sdX.jpg",
     "backdropPath": "/4mEzCZlvoL9SUXt4hfYGNJGfFti.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "不良行为",
+      "Bad Behaviour",
+      "배드 비해이비어",
+      "Mau Comportamento",
+      "התנהגות רעה",
+      "不良行為"
+    ],
     "seasons": [
       {
         "id": 303275,
@@ -443425,7 +447118,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/207368",
-    "fetchedAt": "2026-10-06T05:53:50.556Z"
+    "fetchedAt": "2026-10-06T06:29:11.975Z"
   },
   "209027": {
     "tmdbId": 209027,
@@ -443454,6 +447147,12 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/7cSmbV0FJpvtOzlavyON3g9B1gQ.jpg",
     "backdropPath": "/jEiLRTEA1qCSFigG27sY5mPotZ9.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "酷与惧：酷儿恐怖片的历史",
+      "Queer for Fear: The History of Queer Horror",
+      "酷與懼：酷兒恐怖片的歷史"
+    ],
     "seasons": [
       {
         "id": 306248,
@@ -443771,7 +447470,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/209027",
-    "fetchedAt": "2026-10-06T05:54:12.176Z"
+    "fetchedAt": "2026-10-06T06:29:49.134Z"
   },
   "212765": {
     "tmdbId": 212765,
@@ -443800,6 +447499,21 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/uHi0EOih6zhlgWJ34pnsf9Ii7P3.jpg",
     "backdropPath": "/gjmlEarJ2fCpISnfNzSLoF6C4w3.jpg",
+    "alternativeTitles": [
+      "她爱做饭，她爱吃饭",
+      "想做菜的女人和想吃的女人",
+      "喜歡做飯的女子與喜歡吃飯的女子",
+      "Tsukuritai Onna to Tabetai Onna",
+      "She Loves to Cook and She Loves to Eat"
+    ],
+    "translatedTitles": [
+      "想做饭的女人和想吃饭的女人",
+      "作りたい女と食べたい女",
+      "She Loves to Cook, and She Loves to Eat",
+      "만들고 싶은 여자와 먹고 싶은 여자",
+      "喜歡做飯的女子與喜歡吃飯的女子",
+      "SHE LOVES TO COOK AND SHE LOVES TO EAT"
+    ],
     "seasons": [
       {
         "id": 313256,
@@ -444224,7 +447938,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/212765",
-    "fetchedAt": "2026-10-06T05:54:13.914Z"
+    "fetchedAt": "2026-10-06T06:29:52.355Z"
   },
   "213338": {
     "tmdbId": 213338,
@@ -444253,6 +447967,35 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/vbbZRlzz41JQjBOT9OEKHgonhZ3.jpg",
     "backdropPath": "/xwFeuZJxr1R7pV9uTbCTL8tPJyc.jpg",
+    "alternativeTitles": [
+      "Авантюристките",
+      "海盗佳丽",
+      "上流海盗",
+      "浮华年代",
+      "上流恋爱家",
+      "הבאקנירס",
+      "הבוקנירים"
+    ],
+    "translatedTitles": [
+      "The Buccaneers",
+      "'리치 아메리칸 걸스' - The Buccaneers",
+      "The Buccaneers: Aristócratas por amor",
+      "Bukanýrky",
+      "Łowczynie",
+      "Οι Αμερικανίδες",
+      "Мисливиці",
+      "Буканьерки",
+      "バカニアーズ",
+      "上流戀愛家",
+      "浮華年代",
+      "Americké aristokratky",
+      "Las bucaneras",
+      "Les boucanières",
+      "Jovens Rebeldes",
+      "Os Bucaneiros",
+      "द बकनीयर्स",
+      "Kén Chồng Quý Tộc - The Buccaneers"
+    ],
     "seasons": [
       {
         "id": 314379,
@@ -445045,7 +448788,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/213338",
-    "fetchedAt": "2026-10-06T05:53:52.768Z"
+    "fetchedAt": "2026-10-06T06:29:15.226Z"
   },
   "214065": {
     "tmdbId": 214065,
@@ -445075,6 +448818,29 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/3DcYx9xZvHgyjKSWZJOYf09IEIH.jpg",
     "backdropPath": "/74Xsd38gdaAeRks4lipKyMQaOev.jpg",
+    "alternativeTitles": [
+      "Das Geständnis der Frannie Langton"
+    ],
+    "translatedTitles": [
+      "弗兰妮·兰顿的自白",
+      "The Confessions of Frannie Langton",
+      "Das Geständnis der Frannie Langton",
+      "Las confesiones de Frannie Langton",
+      "Les confessions de Frannie Langton",
+      "Frannie Langton vallomásai",
+      "Wyznania Frannie Langton",
+      "Vyznání Frannie Langtonové",
+      "Confesiunile lui Frannie Langton",
+      "וידויה של משרתת",
+      "Vyznanie Frannie Langtonovej",
+      "‎Izpovedi Frannie Langton",
+      "Изповедта на Франи Лангтън",
+      "Исповедь Фрэнни Лэнгтон",
+      "Ispovijesti Frannie Langton",
+      "Исповедите на Френи Ленгтон",
+      "Ispovesti Freni Langton",
+      "Lời Thú Tội Của Frannie Langton"
+    ],
     "seasons": [
       {
         "id": 315654,
@@ -445241,7 +449007,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/214065",
-    "fetchedAt": "2026-10-06T05:53:54.282Z"
+    "fetchedAt": "2026-10-06T06:29:17.461Z"
   },
   "218656": {
     "tmdbId": 218656,
@@ -445270,6 +449036,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/nzta29OwfQHMQHF8VQWieo5Nixb.jpg",
     "backdropPath": "/jUcyuXgYUb7FOxZtRWEegv8vQ9f.jpg",
+    "alternativeTitles": [
+      "Черна писта"
+    ],
+    "translatedTitles": [
+      "雪道疑云",
+      "Piste noire",
+      "Чёрная трасса",
+      "Черна писта",
+      "雪道疑雲"
+    ],
     "seasons": [
       {
         "id": 325121,
@@ -445824,7 +449600,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/218656",
-    "fetchedAt": "2026-10-06T05:54:11.457Z"
+    "fetchedAt": "2026-10-06T06:29:47.712Z"
   },
   "225171": {
     "tmdbId": 225171,
@@ -445854,6 +449630,38 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
     "backdropPath": "/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+    "alternativeTitles": [
+      "同乐者",
+      "萬中選一",
+      "פלוריבוס",
+      "Единая",
+      "Плюрибус",
+      "Из многих",
+      "بلوريبوس",
+      "السعادة",
+      "眾生為一",
+      "Saticoy",
+      "Wycaro",
+      "Wycaro 339",
+      "Plur1bus",
+      "Kẻ Lạc Loài"
+    ],
+    "translatedTitles": [
+      "Pluribus",
+      "Одна из многих",
+      "眾生為一",
+      "萬中選一",
+      "प्लूरिबस",
+      "プルリブス",
+      "'플루리부스: 행복의 시대' - Pluribus",
+      "Jedyna",
+      "Kẻ Lạc Loài - Pluribus",
+      "Єдина",
+      "Плурибус",
+      "پلوریبوس",
+      "მრავალი",
+      "پلیوریبس"
+    ],
     "seasons": [
       {
         "id": 338336,
@@ -447691,7 +451499,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225171",
-    "fetchedAt": "2026-10-06T05:54:11.692Z"
+    "fetchedAt": "2026-10-06T06:29:48.200Z"
   },
   "225780": {
     "tmdbId": 225780,
@@ -447721,6 +451529,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/7rI7T4AfSzOx0Rqw73AusyIpeXf.jpg",
     "backdropPath": "/cPp04nzDp2EREeGzzSYBJxx9jzi.jpg",
+    "alternativeTitles": [
+      "戴洛克小镇",
+      "小镇警花",
+      "戴洛奇小镇",
+      "デッドロック ～女刑事の事件簿～",
+      "Тупик",
+      "Дедлох",
+      "小鎮警花"
+    ],
+    "translatedTitles": [
+      "戴洛奇小镇",
+      "Deadloch",
+      "ديدلوك",
+      "דדלוך",
+      "데드로크",
+      "戴洛奇小鎮",
+      "Deadloch - Uno strano genere di delitti",
+      "เดดล็อค ดับปริศนา",
+      "Дедлок",
+      "Дэдлок",
+      "デッドロック 〜女刑事の事件簿〜"
+    ],
     "seasons": [
       {
         "id": 339499,
@@ -448309,7 +452139,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225780",
-    "fetchedAt": "2026-10-06T05:53:55.969Z"
+    "fetchedAt": "2026-10-06T06:29:19.855Z"
   },
   "228528": {
     "tmdbId": 228528,
@@ -448338,6 +452168,33 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/tWtcyehBCO9fksIj30pdtVldntw.jpg",
     "backdropPath": "/82pXGnJAboAmOgJPxuWdo4qru32.jpg",
+    "alternativeTitles": [
+      "Juegos Sexuales",
+      "Eiskalte Engel"
+    ],
+    "translatedTitles": [
+      "危险性游戏",
+      "Cruel Intentions",
+      "사랑보다 아름다운 유혹",
+      "Juegos Sexuales",
+      "Sexe Intentions",
+      "Segundas Intenções",
+      "วัยร้าย วัยรัก",
+      "Kegyetlen játékok",
+      "Жестокие игры",
+      "Seks Oyunları",
+      "Eiskalte Engel",
+      "Crueles intenciones",
+      "危險性遊戲",
+      "Tentația seducției",
+      "نوايا خبيثة",
+      "სასტიკი ზრახვები",
+      "משחקי פיתוי",
+      "Okrutne intencje",
+      "Жорстокі ігри",
+      "Erotiniai žaidimai",
+      "Intencions perverses"
+    ],
     "seasons": [
       {
         "id": 344921,
@@ -448609,7 +452466,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/228528",
-    "fetchedAt": "2026-10-06T05:53:54.827Z"
+    "fetchedAt": "2026-10-06T06:29:18.321Z"
   },
   "233324": {
     "tmdbId": 233324,
@@ -448639,6 +452496,21 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg",
     "backdropPath": "/e6B2PN4iAtqXwSbguBEFY9lRwNO.jpg",
+    "alternativeTitles": [
+      "O pontão"
+    ],
+    "translatedTitles": [
+      "往事决堤",
+      "The Jetty",
+      "Пристань",
+      "罪惡棧橋",
+      "Pomost",
+      "Syvissä vesissä",
+      "Detektiv Ember Manning",
+      "Ember Manning: Fallet vid bryggan",
+      "O pontão",
+      "V globoki vodi"
+    ],
     "seasons": [
       {
         "id": 354036,
@@ -449225,7 +453097,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/233324",
-    "fetchedAt": "2026-10-06T05:54:05.551Z"
+    "fetchedAt": "2026-10-06T06:29:36.728Z"
   },
   "242436": {
     "tmdbId": 242436,
@@ -449254,6 +453126,19 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/r85DN0RFD2fJPgXIha4PwAEl3kG.jpg",
     "backdropPath": "/tkhl1mIahN8Z9YtmWIu8S5HD3C9.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "欢愉的艺术",
+      "L'arte della gioia",
+      "The Art of Joy",
+      "L'Art de la joie",
+      "Umjetnost radosti",
+      "El arte de la felicidad",
+      "歡愉的藝術",
+      "아트 오브 조이",
+      "Nghệ Thuật Của Niềm Vui",
+      "Prieka māksla"
+    ],
     "seasons": [
       {
         "id": 371910,
@@ -449649,7 +453534,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/242436",
-    "fetchedAt": "2026-10-06T05:53:49.188Z"
+    "fetchedAt": "2026-10-06T06:29:09.941Z"
   },
   "244447": {
     "tmdbId": 244447,
@@ -449679,6 +453564,38 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
     "backdropPath": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+    "alternativeTitles": [
+      "猎艳娇妻",
+      "猎艳的娇妻",
+      "猎艳的娇妻们",
+      "狩猎的妻子们",
+      "捕猎者",
+      "猎妻",
+      "狩猎之妻",
+      "狩猎娇妻",
+      "Жены на охоте",
+      "Жены-охотницы"
+    ],
+    "translatedTitles": [
+      "狩猎之妻",
+      "The Hunting Wives",
+      "Soțiile la vânătoare",
+      "Casadas e Caçadoras",
+      "נשות הציד",
+      "Дружини на полюванні",
+      "Жёны на охоте",
+      "狩獵的妻子們",
+      "狩獵妻子",
+      "Những Quý Bà Thợ Săn",
+      "사냥하는 아내들",
+      "Lovkinje",
+      "ภรรยานักล่า",
+      "Medžiotojų žmonos",
+      "Nido di vipere",
+      "Las Esposas Cazadoras",
+      "Las esposas cazadoras",
+      "ハンティング・ワイブス"
+    ],
     "seasons": [
       {
         "id": 375706,
@@ -450537,7 +454454,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/244447",
-    "fetchedAt": "2026-10-06T05:54:04.555Z"
+    "fetchedAt": "2026-10-06T06:29:34.891Z"
   },
   "245640": {
     "tmdbId": 245640,
@@ -450567,6 +454484,19 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/qqM46MePDr9BTU3qoNBFTBIZcqb.jpg",
     "backdropPath": "/6cCAVDZzHzse6S5pQRGD9MjUenu.jpg",
+    "alternativeTitles": [
+      "Hal and Harper"
+    ],
+    "translatedTitles": [
+      "哈尔与哈珀",
+      "Hal & Harper",
+      "할 & 하퍼",
+      "哈爾與哈珀",
+      "Гел і Гарпер",
+      "Хэл и Харпер",
+      "Hal și Harper",
+      "هال و هارپر"
+    ],
     "seasons": [
       {
         "id": 377769,
@@ -451264,7 +455194,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/245640",
-    "fetchedAt": "2026-10-06T05:54:03.371Z"
+    "fetchedAt": "2026-10-06T06:29:32.743Z"
   },
   "248698": {
     "tmdbId": 248698,
@@ -451294,6 +455224,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/9vCFSNwql5Be5W1LrS7hGVZYnbm.jpg",
     "backdropPath": "/qNvL8eup1eTFeKXEG402mjxNAzU.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "乌鸦女孩",
+      "The Crow Girl",
+      "Ворона",
+      "Vraní dívka",
+      "دختر کلاغ",
+      "Kragepigen",
+      "Krähenmädchen",
+      "Kråkflickan",
+      "크로우 걸",
+      "Varistyttö",
+      "ילדה עורב",
+      "烏鴉女孩",
+      "Vranje dekle"
+    ],
     "seasons": [
       {
         "id": 383139,
@@ -452083,7 +456029,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/248698",
-    "fetchedAt": "2026-10-06T05:53:54.603Z"
+    "fetchedAt": "2026-10-06T06:29:17.940Z"
   },
   "250504": {
     "tmdbId": 250504,
@@ -452113,6 +456059,38 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
     "backdropPath": "/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+    "alternativeTitles": [
+      "La bête en moi"
+    ],
+    "translatedTitles": [
+      "兽藏我心",
+      "The Beast in Me",
+      "Bestia din mine",
+      "O Monstro em Mim",
+      "내 안의 괴물",
+      "Звір у мені",
+      "La bête en moi",
+      "อสูรร้ายในใจเรา",
+      "Чудовище внутри меня",
+      "وحش يسكن روحي",
+      "獸藏我心",
+      "Zvijer u meni",
+      "To monstrum ve mně",
+      "Το Τέρας Μέσα Μου",
+      "द बीस्ट इन मी",
+      "החיה שבתוכי",
+      "A bennem lakozó fenevad",
+      "BEAST －私のなかの獣－",
+      "Bestia we mnie",
+      "La bestia en mí",
+      "Con thú trong tôi",
+      "Звярът в мен",
+      "La bèstia en mi",
+      "Zver v meni",
+      "მხეცი ჩემში",
+      "هیولای درون من",
+      "Žvėris manyje"
+    ],
     "seasons": [
       {
         "id": 385988,
@@ -453162,7 +457140,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/250504",
-    "fetchedAt": "2026-10-06T05:53:50.784Z"
+    "fetchedAt": "2026-10-06T06:29:12.360Z"
   },
   "252382": {
     "tmdbId": 252382,
@@ -453191,6 +457169,11 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/xn6cisrn8hed2LkJpUk4YmHQb5G.jpg",
     "backdropPath": "/q23AlAShlgoOGkSUhqBP3ymRi1o.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "零零零",
+      "Triple Oh!"
+    ],
     "seasons": [
       {
         "id": 389511,
@@ -453601,7 +457584,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/252382",
-    "fetchedAt": "2026-10-06T05:54:18.244Z"
+    "fetchedAt": "2026-10-06T06:30:00.525Z"
   },
   "254420": {
     "tmdbId": 254420,
@@ -453632,6 +457615,42 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/dpH7Lyrs7z7MlTGgfeibryGnWAv.jpg",
     "backdropPath": "/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+    "alternativeTitles": [
+      "De l'univers d' Una rossa molt legal: ELLE",
+      "Do Universo de Legalmente Loira: ELLE",
+      "Ze světa PRAVÉ blondýnky:  ELLE",
+      "Aus der Welt von Natürlich blond: ELLE",
+      "Fra Blondinens Hævn-universet: ELLE",
+      "מהעולם של \"לא רק בלונדינית\": אל",
+      "Dal mondo de La Rivincita delle Bionde: Elle",
+      "Do Mundo de Legalmente Loira: ELLE",
+      "من عالم “شقراء هاڤن إيل",
+      "From The World of  Legally Blonde: ELLE"
+    ],
+    "translatedTitles": [
+      "艾丽",
+      "Elle",
+      "엘",
+      "Эль",
+      "Elle: Legalmente Loira",
+      "إيل",
+      "Ελ",
+      "אל",
+      "एल",
+      "எல்",
+      "ఎల్",
+      "แอล บันทึกวัยทีน",
+      "エル",
+      "《艾丽》",
+      "艾兒",
+      "ಎಲ್",
+      "എൽ",
+      "Ель",
+      "Ellie",
+      "Ze świata Legalnej Blondynki: Elle",
+      "Elle: Legalmente rubia",
+      "Elė"
+    ],
     "seasons": [
       {
         "id": 393740,
@@ -454473,7 +458492,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/254420",
-    "fetchedAt": "2026-10-06T05:53:57.687Z"
+    "fetchedAt": "2026-10-06T06:29:22.639Z"
   },
   "262375": {
     "tmdbId": 262375,
@@ -454503,6 +458522,26 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
     "backdropPath": "/eqZjZGHa1mZYBPHUHOX2LSzzCsS.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "长话短说",
+      "Long Story Short",
+      "롱 스토리 숏",
+      "القصة باختصار",
+      "長話短說",
+      "長くて短くて、短くて長い",
+      "Pe scurt",
+      "ยาวไม่มัน สั้นหน่อยดีกว่า",
+      "Pour faire une histoire courte",
+      "Ukratko",
+      "Život ve zkratce",
+      "Röviden a lényeg",
+      "אז בקיצור",
+      "Якщо коротко",
+      "Chuyện dài tóm ngắn",
+      "Карацей Кажучы",
+      "Короче говоря"
+    ],
     "seasons": [
       {
         "id": 407640,
@@ -455172,7 +459211,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/262375",
-    "fetchedAt": "2026-10-06T05:54:08.712Z"
+    "fetchedAt": "2026-10-06T06:29:42.617Z"
   },
   "283297": {
     "tmdbId": 283297,
@@ -455202,6 +459241,29 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
     "backdropPath": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "斯特林角",
+      "Sterling Point",
+      "Стерлинг Поинт",
+      "스털링 포인트",
+      "Стерлінґ Пойнт",
+      "סטרלינג פוינט",
+      "Стърлинг Пойнт",
+      "Sterling Point - L'isola dei segreti",
+      "نقطة سترلينغ",
+      "星嶼秘境",
+      "स्टर्लिंग पॉइंट",
+      "Στέρλινγκ Πόιντ",
+      "ಸ್ಟರ್ಲಿಂಗ್ ಪಾಯಿಂಟ್",
+      "スターリング・ポイント あの夏、あの島で",
+      "ஸ்டர்லிங் பாயிண்ட்",
+      "സ്റ്റെർലിങ് പോയിൻ്റ്",
+      "స్టెర్లింగ్ పాయింట్",
+      "สเตอร์ลิ่ง พอยต์ : มรดกกลางใจ",
+      "استرلینگ پوینت",
+      "سٹرلنگ پوائنٹ"
+    ],
     "seasons": [
       {
         "id": 440261,
@@ -455600,7 +459662,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/283297",
-    "fetchedAt": "2026-10-06T05:54:16.481Z"
+    "fetchedAt": "2026-10-06T06:29:57.261Z"
   },
   "294722": {
     "tmdbId": 294722,
@@ -455629,6 +459691,29 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/5lZ0NLV93fIx8yIWT38h8rt5u2I.jpg",
     "backdropPath": "/6dBzbLqznXgpe5z9ZIqqD0mxwac.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "哈士奇王朝：康涅狄格大学女篮",
+      "The Dynasty: UConn Huskies",
+      "Dynasty: Die Insidergeschichte der UConn Huskies",
+      "Dynastie: UConn Huskies",
+      "學界女籃傳奇：UConn Huskies",
+      "哈士奇王朝：康乃狄克大學女籃",
+      "La dynastie : UConn Huskies",
+      "द डाइनेस्टी : यूनिवर्सिटी ऑफ़ कनेटिकट हस्कीज़",
+      "ダイナスティ：ユーコン・ハスキーズ",
+      "Huskies: Dynastia z Connecticut",
+      "A Dinastia: UConn Huskies",
+      "'여자 농구 전설의 팀 허스키스' - The Dynasty: UConn Huskies",
+      "A Dinastia - UConn Huskies",
+      "Династия: «Коннектикут Хаскис»",
+      "Dynastia: UConn Huskies",
+      "La dinastía: UConn Huskies",
+      "UConn Huskies: La dinastía",
+      "Династія: Коннектикут Хаскіс",
+      "Hanedan: UConn Huskies",
+      "Triều Đại Của UConn Huskies - The Dynasty: UConn Huskies"
+    ],
     "seasons": [
       {
         "id": 462660,
@@ -455880,7 +459965,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/294722",
-    "fetchedAt": "2026-10-06T05:53:57.128Z"
+    "fetchedAt": "2026-10-06T06:29:21.767Z"
   },
   "296527": {
     "tmdbId": 296527,
@@ -455910,6 +459995,15 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/zEH1eWPO43ed5LIREGU5QS5H54n.jpg",
     "backdropPath": "/yYpR4RcGgUlCqVQa7Nuj22Dfc0P.jpg",
+    "alternativeTitles": [
+      "10 אחוז ברלין"
+    ],
+    "translatedTitles": [
+      "找我经纪人：柏林",
+      "Call My Agent Berlin",
+      "עשרה אחוז, ברלין",
+      "Позвоните моему агенту: Берлин"
+    ],
     "seasons": [
       {
         "id": 466412,
@@ -456163,7 +460257,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/296527",
-    "fetchedAt": "2026-10-06T05:53:54.053Z"
+    "fetchedAt": "2026-10-06T06:29:17.075Z"
   },
   "299939": {
     "tmdbId": 299939,
@@ -456193,6 +460287,47 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
     "backdropPath": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+    "alternativeTitles": [
+      "Monstre - L'Histoire de Lizzie Borden",
+      "Monstre, L'Histoire de Lizzie Borden",
+      "മോൺസ്റ്റർ: ദി ലിസി ബോർഡൻ സ്റ്റോറി",
+      "Canavar: Lizzie Borden'ın Hikayesi",
+      "怪物：麗茲波頓的故事"
+    ],
+    "translatedTitles": [
+      "怪物：莉齐·博登的故事",
+      "Monster: The Lizzie Borden Story",
+      "Monstre : L'Histoire de Lizzie Borden",
+      "괴물: 리지 보든 이야기",
+      "מפלצת: הסיפור של ליזי בורדן",
+      "Monster: La storia di Lizzie Borden",
+      "Potwór: Historia Lizzie Borden",
+      "Monstro: A História de Lizzie Borden",
+      "Чудовисько: Історія Ліззі Борден",
+      "Monstrum: Priča o Lizzie Borden",
+      "Monster: Die Geschichte von Lizzie Borden",
+      "Monstruo: La historia de Lizzie Borden",
+      "Monstrum: Příběh Lizzie Borden",
+      "Monstre. La història de Lizzie Borden",
+      "Canavar: Lizzie Borden'ın Hikâyesi",
+      "Монстр: История Лиззи Борден",
+      "الوحش: قصة ليزي بوردن",
+      "怪物：麗茲波頓的故事",
+      "Monster: Historien om Lizzie Borden",
+      "Monstre : L'histoire de Lizzie Borden",
+      "Hirviö: Lizzie Bordenin tarina",
+      "Szörnyeteg: A Lizzie Borden-sztori",
+      "मॉन्स्टर: लिज़ी बोर्डन की खौफ़नाक कहानी",
+      "モンスター: リジー・ボーデンの物語",
+      "Monstru: Povestea lui Lizzie Borden",
+      "Quái vật: Câu chuyện về Lizzie Borden",
+      "ปีศาจ: เรื่องราวของลิซซี่ บอร์เดน",
+      "Monster: Berättelsen om Lizzie Borden",
+      "Чудовище: Историята на Лизи Бордън",
+      "مونسٹر: لیزی بورڈن کی ہلاکت خیز کہانی",
+      "Τέρας: Η Ιστορία της Λίζι Μπόρντεν",
+      "هیولا: داستان لیزی بوردن"
+    ],
     "seasons": [
       {
         "id": 473542,
@@ -457322,25 +461457,9 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 21712,
-        "name": "Carl Franklin",
-        "profilePath": "/8xX5z2BXZZHynzaMruOB8VkQ077.jpg",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 4605446,
-        "name": "Nissa Diederich",
+        "id": 2094561,
+        "name": "Louise Shore",
         "profilePath": "",
-        "jobs": [
-          "Executive Producer"
-        ]
-      },
-      {
-        "id": 52779,
-        "name": "Ryan Murphy",
-        "profilePath": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
         "jobs": [
           "Executive Producer"
         ]
@@ -457354,8 +461473,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2094561,
-        "name": "Louise Shore",
+        "id": 4605446,
+        "name": "Nissa Diederich",
+        "profilePath": "",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 2624774,
+        "name": "Tanase Popa",
         "profilePath": "",
         "jobs": [
           "Executive Producer"
@@ -457370,16 +461497,24 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 2624774,
-        "name": "Tanase Popa",
-        "profilePath": "",
+        "id": 52779,
+        "name": "Ryan Murphy",
+        "profilePath": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
+        "jobs": [
+          "Executive Producer"
+        ]
+      },
+      {
+        "id": 21712,
+        "name": "Carl Franklin",
+        "profilePath": "/8xX5z2BXZZHynzaMruOB8VkQ077.jpg",
         "jobs": [
           "Executive Producer"
         ]
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/299939",
-    "fetchedAt": "2026-10-06T05:54:09.290Z"
+    "fetchedAt": "2026-10-06T06:29:43.712Z"
   },
   "323866": {
     "tmdbId": 323866,
@@ -457411,6 +461546,13 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "posterPath": "/kBCBgvC40J84s1RycCtqa7h3Oky.jpg",
     "backdropPath": "/gtZDq3YCCImTNQr9Umyzv0pXQUZ.jpg",
+    "alternativeTitles": [],
+    "translatedTitles": [
+      "前任拍档",
+      "Bust Up",
+      "Разборки",
+      "Back Up – Auf Streife mit der Ex"
+    ],
     "seasons": [
       {
         "id": 518942,
@@ -457536,6 +461678,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/323866",
-    "fetchedAt": "2026-10-06T05:53:53.822Z"
+    "fetchedAt": "2026-10-06T06:29:16.693Z"
   }
 };
