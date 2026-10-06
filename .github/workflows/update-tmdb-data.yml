@@ -1,0 +1,39 @@
+name: Update TMDB detail data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-tmdb-details:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch TV series, seasons, networks, cast and crew
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node fetch-tmdb-details.mjs
+
+      - name: Commit generated TMDB data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add tmdb-details.generated.js tmdb-cast-review.json
+
+          if git diff --cached --quiet; then
+            echo "No TMDB data changes to commit."
+          else
+            git commit -m "Update TMDB data"
+            git push
+          fi
