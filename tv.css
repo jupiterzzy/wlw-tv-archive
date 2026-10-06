@@ -1,0 +1,116 @@
+.detail-body { min-height:100vh; background:#050507; }
+.detail-header {
+  position:sticky; top:0; z-index:50; display:flex; justify-content:space-between; align-items:center;
+  min-height:3.8rem; padding:.75rem max(1rem,env(safe-area-inset-left));
+  border-bottom:1px solid rgba(255,255,255,.08); background:rgba(5,5,7,.88); backdrop-filter:blur(16px);
+}
+.detail-header a { text-decoration:none; }
+.detail-back { font-size:1.55rem; }
+.detail-brand { font-size:.75rem; font-weight:800; letter-spacing:.14em; }
+.detail-main { width:min(100%,68rem); margin:0 auto; padding:clamp(1.5rem,4vw,3.5rem) clamp(1rem,5vw,4rem) 6rem; }
+.detail-loading,.detail-error { padding:5rem 1rem; text-align:center; color:var(--muted); }
+.detail-article { width:100%; }
+.detail-hero { display:flex; flex-direction:column; align-items:center; }
+.detail-poster { display:block; width:min(100%,31rem); height:auto; aspect-ratio:2/3; object-fit:cover; background:var(--card); }
+.detail-heading { width:100%; text-align:center; }
+.detail-heading h1 { margin:1.7rem 0 .35rem; font-size:clamp(2rem,5vw,3.6rem); line-height:1.08; }
+.detail-years { margin:0; color:#b5acb7; font-size:clamp(1rem,2vw,1.25rem); letter-spacing:.04em; }
+.poster-divider { width:min(66.666%,34rem); height:1px; margin:2rem auto; background:rgba(255,255,255,.18); }
+.summary-information { width:min(100%,50rem); margin:0 auto; }
+.detail-meta { display:flex; justify-content:center; align-items:baseline; flex-wrap:wrap; gap:.3rem .9rem; margin:0 0 2rem; text-align:center; }
+.detail-network { color:var(--ink); font-weight:760; }
+.detail-genres { color:#b5acb7; }
+.synopsis { font-size:clamp(1rem,2.1vw,1.18rem); line-height:1.82; }
+.synopsis p { margin:0 0 1.2rem; }
+.synopsis-zh { color:#aaa1ac; }
+
+.resource-information { width:min(100%,50rem); margin:2.8rem auto 0; padding-top:2rem; border-top:1px solid var(--line); }
+.resource-information h2 { margin:0 0 1rem; font:500 clamp(1.7rem,3vw,2.35rem)/1 Georgia,serif; }
+.resource-item { display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:1rem; border:1px solid var(--line); border-radius:.7rem; background:var(--card); }
+.resource-info { display:flex; flex-direction:column; gap:.2rem; }
+.resource-provider { font-weight:760; }
+.resource-code { color:var(--muted); font-size:.85rem; }
+.resource-link { flex:0 0 auto; padding:.65rem .85rem; border:1px solid rgba(255,255,255,.2); border-radius:.45rem; text-decoration:none; }
+
+.detail-tabs-section { margin-top:4rem; }
+.detail-tabs { display:flex; gap:.65rem; overflow-x:auto; padding:.25rem 0 .75rem; scrollbar-width:none; }
+.detail-tabs::-webkit-scrollbar { display:none; }
+.detail-tab { flex:0 0 auto; min-width:7.4rem; padding:.75rem 1.2rem; border:1px solid rgba(255,255,255,.08); border-radius:999px; color:#b8b0ba; background:#17171e; cursor:pointer; }
+.detail-tab.active { color:white; border-color:var(--accent); background:var(--accent-dark); }
+.detail-tab:focus-visible { outline:2px solid white; outline-offset:2px; }
+.tab-panel { padding:1.6rem 0 0; }
+.tab-empty { grid-column:1/-1; padding:2.5rem 1rem; color:var(--muted); text-align:center; border:1px solid var(--line); border-radius:.7rem; }
+
+.season-list { display:grid; gap:1rem; }
+.season-card { display:grid; grid-template-columns:6rem minmax(0,1fr); gap:1rem; align-items:center; padding:1rem; border:1px solid var(--line); border-radius:.8rem; background:#0d0d11; }
+.season-poster { width:6rem; aspect-ratio:2/3; object-fit:cover; border-radius:.35rem; background:var(--card); }
+.season-copy { min-width:0; }
+.season-toggle { position:relative; max-width:100%; padding:0 1.7rem 0 0; border:0; color:var(--ink); background:transparent; text-align:left; font-size:clamp(1.2rem,3vw,1.75rem); font-weight:760; cursor:pointer; }
+.season-toggle::after { content:""; position:absolute; right:.2rem; top:.45em; width:.55rem; height:.55rem; border-right:2px solid; border-bottom:2px solid; transform:rotate(45deg); transition:transform .2s ease; }
+.season-toggle[aria-expanded="true"]::after { transform:rotate(225deg); top:.7em; }
+.season-toggle:disabled { cursor:default; }
+.season-toggle:disabled::after { display:none; }
+.season-copy p { margin:.55rem 0 0; color:var(--muted); }
+.episode-list { grid-column:1/-1; border-top:1px solid var(--line); }
+.episode-row { display:grid; grid-template-columns:2rem minmax(0,1fr) auto; gap:.75rem; padding:.85rem 0; border-bottom:1px solid rgba(255,255,255,.06); }
+.episode-row span,.episode-row small { color:var(--muted); }
+
+.series-details { display:grid; grid-template-columns:minmax(7rem,11rem) minmax(0,1fr); margin:0; border-top:1px solid var(--line); }
+.series-details dt,.series-details dd { margin:0; padding:1rem 0; border-bottom:1px solid var(--line); }
+.series-details dt { color:var(--muted); }
+.series-details dd { font-weight:650; }
+.people-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem .75rem; }
+.person-card { min-width:0; color:inherit; text-decoration:none; }
+.person-photo { display:block; width:100%; aspect-ratio:4/5; object-fit:cover; object-position:center top; border-radius:.5rem; background:#17171e; }
+.person-photo-placeholder { background:linear-gradient(145deg,#26212a,#111015); }
+.person-card strong,.person-card span { display:block; }
+.person-card strong { margin-top:.65rem; line-height:1.25; }
+.person-card span { margin-top:.2rem; overflow:hidden; color:var(--muted); font-size:.78rem; text-overflow:ellipsis; white-space:nowrap; }
+
+@media (min-width:700px) {
+  .people-grid { grid-template-columns:repeat(4,minmax(0,1fr)); gap:1.4rem; }
+  .season-card { grid-template-columns:7rem minmax(0,1fr); padding:1.25rem; }
+  .season-poster { width:7rem; }
+  .detail-tabs { justify-content:center; }
+}
+
+@media (min-width:760px) {
+  .detail-main { width:min(100%,96rem); padding-inline:clamp(2rem,4vw,4rem); }
+  .detail-article {
+    display:grid;
+    grid-template-columns:minmax(15rem,26rem) minmax(0,1fr);
+    column-gap:clamp(2.5rem,5vw,5rem);
+    align-items:start;
+  }
+  .detail-hero { grid-column:1; grid-row:1 / span 3; align-items:stretch; }
+  .detail-poster { width:100%; max-width:none; }
+  .detail-heading { grid-column:2; text-align:left; }
+  .detail-heading h1 { margin:.2rem 0 .45rem; font-size:clamp(2rem,3.5vw,3.3rem); }
+  .poster-divider { display:none; }
+  .summary-information { grid-column:2; width:100%; margin:1.2rem 0 0; }
+  .detail-meta { justify-content:flex-start; margin-bottom:2rem; text-align:left; }
+  .resource-information { grid-column:2; width:100%; margin:2.5rem 0 0; }
+  .detail-tabs-section { grid-column:1 / -1; margin-top:5rem; padding-top:3rem; border-top:1px solid var(--line); }
+}
+
+@media (min-width:1050px) {
+  .people-grid { grid-template-columns:repeat(5,minmax(0,1fr)); }
+  .season-list { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .season-card { grid-template-columns:6rem minmax(0,1fr); }
+  .season-poster { width:6rem; }
+  .season-card:has(.episode-list:not([hidden])) { grid-column:1/-1; }
+}
+
+@media (max-width:430px) {
+  .detail-main { padding-inline:0; }
+  .detail-heading,.summary-information,.resource-information,.detail-tabs-section { width:auto; margin-left:1rem; margin-right:1rem; }
+  .detail-poster { width:100%; max-width:none; border-radius:0; }
+  .detail-heading h1 { font-size:2rem; }
+  .detail-tabs { margin-inline:-1rem; padding-inline:1rem; }
+  .detail-tab { min-width:6.8rem; }
+  .season-card { grid-template-columns:5.2rem minmax(0,1fr); padding:.8rem; }
+  .season-poster { width:5.2rem; }
+  .season-copy p { font-size:.86rem; }
+  .episode-row { grid-template-columns:1.5rem minmax(0,1fr); }
+  .episode-row small { grid-column:2; }
+}
