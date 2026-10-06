@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="不属于 WLW 分类、但仍在观看的其他电视剧。">
+    <title>Others · WLW TV Archive</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/tv-icon.svg">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./listing.css">
+  </head>
+  <body class="listing-page">
+    <header class="listing-header">
+      <a href="./index.html">WLW TV ARCHIVE</a>
+      <nav>
+        <a href="./alphabet.html">Alphabet</a>
+        <a href="./index.html">首页</a>
+      </nav>
+    </header>
+
+    <main class="listing-main">
+      <div class="listing-title-row year-title-row">
+        <h1>Others</h1>
+      </div>
+      <div class="listing-grid" id="listing-grid"></div>
+      <nav class="listing-pagination" id="listing-pagination" aria-label="页面"></nav>
+    </main>
+
+    <template id="listing-card-template">
+      <article class="movie-card">
+        <a class="poster-link" href="#">
+          <span class="poster-placeholder" aria-hidden="true">IMAGE</span>
+        </a>
+        <div class="movie-copy">
+          <h3><a href="#"></a></h3>
+          <p class="movie-meta"></p>
+        </div>
+      </article>
+    </template>
+
+    <script src="./others-data.js"></script>
+    <script src="./movie-metadata.js"></script>
+    <script src="./tmdb-details.generated.js"></script>
+    <script src="./movie-data-utils.js"></script>
+    <script src="./others.js"></script>
+    <script src="./history-nav.js"></script>
+  </body>
+</html>

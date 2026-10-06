@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Author’s Picks · WLW TV Archive">
+  <title>Author’s Picks · WLW TV Archive</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/tv-icon.svg">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./listing.css">
+</head>
+<body class="listing-page">
+  <header class="listing-header">
+    <a href="./index.html">WLW TV ARCHIVE</a>
+    <nav><a href="./index.html">返回首页</a></nav>
+  </header>
+
+  <main class="listing-main">
+    <div class="listing-title-row">
+      <h1>author’s picks</h1>
+    </div>
+
+    <section class="listing-grid desktop-six-by-six" id="listing-grid" aria-label="Author’s Picks"></section>
+  </main>
+
+  <template id="listing-card-template">
+    <article class="movie-card">
+      <a class="poster-link" href="#">
+        <img class="poster" src="" alt="">
+        <span class="poster-placeholder" aria-hidden="true">IMAGE</span>
+      </a>
+      <div class="movie-copy">
+        <h3><a href="#"></a></h3>
+        <p class="movie-meta"></p>
+      </div>
+    </article>
+  </template>
+
+  <script src="./catalog-data.js"></script>
+  <script src="./movie-metadata.js"></script>
+  <script src="./tmdb-details.generated.js"></script>
+  <script src="./movie-data-utils.js"></script>
+  <script src="./authors-picks.js"></script>
+  <script src="./history-nav.js"></script>
+</body>
+</html>

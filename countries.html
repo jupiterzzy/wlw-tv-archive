@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="按国家浏览 WLW 电视剧。" />
+    <title>Countries · WLW TV Archive</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/tv-icon.svg">
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./countries.css" />
+  </head>
+  <body class="countries-page">
+    <header class="country-header">
+      <a class="archive-mark" href="./index.html">WLW TV ARCHIVE</a>
+      <a class="back-link" href="./index.html">返回首页</a>
+    </header>
+    <main class="country-main">
+      <div class="country-heading">
+        <p class="country-kicker">BROWSE BY</p>
+        <h1>Countries</h1>
+      </div>
+      <section class="place-section" aria-labelledby="countries-title">
+        <h2 id="countries-title">国家</h2>
+        <div class="country-field" id="country-field"></div>
+      </section>
+    </main>
+    <template id="country-template">
+      <a class="country-orb" href="#"><span class="country-code"></span></a>
+    </template>
+    <script src="./catalog-data.js"></script>
+    <script src="./countries.js"></script>
+    <script src="./history-nav.js"></script>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="按 Letterboxd 体裁浏览 WLW 电视剧。" />
+    <title>体裁 · WLW TV Archive</title>
+    <link rel="icon" type="image/svg+xml" href="./assets/tv-icon.svg">
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./countries.css" />
+  </head>
+  <body class="countries-page">
+    <header class="country-header">
+      <a class="archive-mark" href="./index.html">WLW TV ARCHIVE</a>
+      <a class="back-link" href="./index.html">返回首页</a>
+    </header>
+    <main class="country-main">
+      <div class="country-heading">
+        <p class="country-kicker">BROWSE BY</p>
+        <h1>体裁</h1>
+      </div>
+      <div class="region-field genre-field" id="genre-field"></div>
+    </main>
+    <template id="genre-template"><a class="region-crystal" href="#"><span class="country-code"></span></a></template>
+    <script src="./genre-data.js"></script>
+    <script src="./genres.js"></script>
+    <script src="./history-nav.js"></script>
+  </body>
+</html>
