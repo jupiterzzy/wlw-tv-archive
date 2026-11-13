@@ -6,12 +6,20 @@ window.WLW_CATALOG = {
     "type": "country",
     "movies": [
       {
+        "title": "13 Reasons Why",
+        "year": 2017
+      },
+      {
         "title": "A League of Their Own",
         "year": 2022
       },
       {
         "title": "Adventure Time",
         "year": 2010
+      },
+      {
+        "title": "Adventure Time: Distant Lands",
+        "year": 2020
       },
       {
         "title": "Agatha All Along",
@@ -66,6 +74,10 @@ window.WLW_CATALOG = {
         "year": 2019
       },
       {
+        "title": "The Fall of the House of Usher",
+        "year": 2023
+      },
+      {
         "title": "First Kill",
         "year": 2022
       },
@@ -84,6 +96,10 @@ window.WLW_CATALOG = {
       {
         "title": "Hal & Harper",
         "year": 2025
+      },
+      {
+        "title": "Harlem",
+        "year": 2021
       },
       {
         "title": "Harley Quinn",
@@ -198,6 +214,10 @@ window.WLW_CATALOG = {
         "year": 2020
       },
       {
+        "title": "The Testaments",
+        "year": 2026
+      },
+      {
         "title": "Warehouse 13",
         "year": 2009
       },
@@ -297,6 +317,10 @@ window.WLW_CATALOG = {
     "type": "country",
     "movies": [
       {
+        "title": "Black Doves",
+        "year": 2024
+      },
+      {
         "title": "Black Mirror",
         "year": 2011
       },
@@ -384,6 +408,10 @@ window.WLW_CATALOG = {
       {
         "title": "Piste noire",
         "year": 2023
+      },
+      {
+        "title": "The Tunnel",
+        "year": 2013
       }
     ]
   },
@@ -399,6 +427,10 @@ window.WLW_CATALOG = {
       {
         "title": "Orphan Black",
         "year": 2013
+      },
+      {
+        "title": "Warrior Nun",
+        "year": 2020
       },
       {
         "title": "Wynonna Earp",
