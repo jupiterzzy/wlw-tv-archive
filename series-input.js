@@ -110,7 +110,7 @@ window.WLW_SERIES_INPUT = [
   {"title":"WIR","year":2021,"others":false},
   {"title":"Wynonna Earp","year":2016,"others":false},
   {"title":"Yellowjackets","year":2021,"others":false},
-  {"title":"Yes, Prime Minister","year":1986,"others":true}
+  {"title":"Yes, Prime Minister","year":1986,"others":true},
   {"title":"13 Reasons Why","year":2017,"others":false},
 {"title":"Black Doves","year":2024,"others":false},
 {"title":"Adventure Time: Distant Lands","year":2020,"others":false},
@@ -118,5 +118,5 @@ window.WLW_SERIES_INPUT = [
 {"title":"The Fall of the House of Usher","year":2023,"others":false},
 {"title":"Harlem","year":2021,"others":false},
 {"title":"The Testaments","year":2026,"others":false},
-{"title":"Warrior Nun","year":2020,"others":false},
+{"title":"Warrior Nun","year":2020,"others":false}
 ];
