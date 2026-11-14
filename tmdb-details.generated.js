@@ -844,7 +844,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/107005",
-    "fetchedAt": "2026-11-14T08:49:42.689Z"
+    "fetchedAt": "2026-11-14T08:54:33.949Z"
   },
   "Adventure Time": {
     "tmdbId": 15260,
@@ -5195,7 +5195,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15260",
-    "fetchedAt": "2026-11-14T08:49:44.391Z"
+    "fetchedAt": "2026-11-14T08:54:36.240Z"
   },
   "Agatha All Along": {
     "tmdbId": 138501,
@@ -5983,7 +5983,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/138501",
-    "fetchedAt": "2026-11-14T08:49:44.993Z"
+    "fetchedAt": "2026-11-14T08:54:37.099Z"
   },
   "ANNE+": {
     "tmdbId": 82835,
@@ -6606,7 +6606,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/82835",
-    "fetchedAt": "2026-11-14T08:49:45.882Z"
+    "fetchedAt": "2026-11-14T08:54:38.274Z"
   },
   "Arcane": {
     "tmdbId": 94605,
@@ -8041,7 +8041,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/94605",
-    "fetchedAt": "2026-11-14T08:49:46.308Z"
+    "fetchedAt": "2026-11-14T08:54:38.848Z"
   },
   "The Art of Joy": {
     "tmdbId": 242436,
@@ -8484,7 +8484,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/242436",
-    "fetchedAt": "2026-11-14T08:49:46.620Z"
+    "fetchedAt": "2026-11-14T08:54:39.272Z"
   },
   "Atypical": {
     "tmdbId": 71578,
@@ -10903,7 +10903,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/71578",
-    "fetchedAt": "2026-11-14T08:49:47.285Z"
+    "fetchedAt": "2026-11-14T08:54:40.224Z"
   },
   "Babylon Berlin": {
     "tmdbId": 66980,
@@ -14723,7 +14723,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66980",
-    "fetchedAt": "2026-11-14T08:49:48.071Z"
+    "fetchedAt": "2026-11-14T08:54:41.294Z"
   },
   "Bad Behaviour": {
     "tmdbId": 207368,
@@ -15173,7 +15173,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/207368",
-    "fetchedAt": "2026-11-14T08:49:48.398Z"
+    "fetchedAt": "2026-11-14T08:54:41.710Z"
   },
   "The Beast in Me": {
     "tmdbId": 250504,
@@ -16284,7 +16284,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/250504",
-    "fetchedAt": "2026-11-14T08:49:48.701Z"
+    "fetchedAt": "2026-11-14T08:54:42.129Z"
   },
   "Black Mirror": {
     "tmdbId": 42009,
@@ -23046,7 +23046,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/42009",
-    "fetchedAt": "2026-11-14T08:49:51.119Z"
+    "fetchedAt": "2026-11-14T08:54:45.374Z"
   },
   "Blue Lisbon": {
     "tmdbId": 132956,
@@ -23273,7 +23273,7 @@ window.WLW_TMDB_DETAILS = {
     ],
     "crew": [],
     "tmdbUrl": "https://www.themoviedb.org/tv/132956",
-    "fetchedAt": "2026-11-14T08:49:51.421Z"
+    "fetchedAt": "2026-11-14T08:54:45.808Z"
   },
   "Bridgerton": {
     "tmdbId": 91239,
@@ -27049,7 +27049,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91239",
-    "fetchedAt": "2026-11-14T08:49:53.015Z"
+    "fetchedAt": "2026-11-14T08:54:47.972Z"
   },
   "The Buccaneers": {
     "tmdbId": 213338,
@@ -27899,7 +27899,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/213338",
-    "fetchedAt": "2026-11-14T08:49:53.433Z"
+    "fetchedAt": "2026-11-14T08:54:48.562Z"
   },
   "Buffy the Vampire Slayer": {
     "tmdbId": 95,
@@ -37657,7 +37657,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95",
-    "fetchedAt": "2026-11-14T08:49:54.484Z"
+    "fetchedAt": "2026-11-14T08:54:50.082Z"
   },
   "Bust Up": {
     "tmdbId": 323866,
@@ -37894,7 +37894,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/323866",
-    "fetchedAt": "2026-11-14T08:49:54.786Z"
+    "fetchedAt": "2026-11-14T08:54:50.508Z"
   },
   "Call My Agent Berlin": {
     "tmdbId": 296527,
@@ -38186,7 +38186,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/296527",
-    "fetchedAt": "2026-11-14T08:49:55.081Z"
+    "fetchedAt": "2026-11-14T08:54:50.921Z"
   },
   "The Confessions of Frannie Langton": {
     "tmdbId": 214065,
@@ -38405,7 +38405,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/214065",
-    "fetchedAt": "2026-11-14T08:49:55.939Z"
+    "fetchedAt": "2026-11-14T08:54:52.088Z"
   },
   "The Crow Girl": {
     "tmdbId": 248698,
@@ -39233,7 +39233,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/248698",
-    "fetchedAt": "2026-11-14T08:49:56.373Z"
+    "fetchedAt": "2026-11-14T08:54:52.685Z"
   },
   "Cruel Intentions": {
     "tmdbId": 228528,
@@ -39560,7 +39560,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/228528",
-    "fetchedAt": "2026-11-14T08:49:56.670Z"
+    "fetchedAt": "2026-11-14T08:54:53.135Z"
   },
   "DC’s Legends of Tomorrow": {
     "tmdbId": 62643,
@@ -49548,7 +49548,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62643",
-    "fetchedAt": "2026-11-14T08:49:58.283Z"
+    "fetchedAt": "2026-11-14T08:54:55.281Z"
   },
   "Deadloch": {
     "tmdbId": 225780,
@@ -50188,7 +50188,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225780",
-    "fetchedAt": "2026-11-14T08:49:58.699Z"
+    "fetchedAt": "2026-11-14T08:54:55.864Z"
   },
   "Dickinson": {
     "tmdbId": 89901,
@@ -52213,7 +52213,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/89901",
-    "fetchedAt": "2026-11-14T08:49:59.246Z"
+    "fetchedAt": "2026-11-14T08:54:56.605Z"
   },
   "Dix pour cent": {
     "tmdbId": 64165,
@@ -54118,7 +54118,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/64165",
-    "fetchedAt": "2026-11-14T08:50:00.571Z"
+    "fetchedAt": "2026-11-14T08:54:58.450Z"
   },
   "The Dynasty: UConn Huskies": {
     "tmdbId": 294722,
@@ -54423,7 +54423,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/294722",
-    "fetchedAt": "2026-11-14T08:50:00.870Z"
+    "fetchedAt": "2026-11-14T08:54:58.876Z"
   },
   "Eldorado KaDeWe": {
     "tmdbId": 153886,
@@ -54720,8 +54720,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 66937,
-        "name": "John Quester",
+        "id": 3354363,
+        "name": "Sabine Steyer-Violet",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -54736,8 +54736,8 @@ window.WLW_TMDB_DETAILS = {
         ]
       },
       {
-        "id": 3354363,
-        "name": "Sabine Steyer-Violet",
+        "id": 66937,
+        "name": "John Quester",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -54745,7 +54745,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153886",
-    "fetchedAt": "2026-11-14T08:50:01.173Z"
+    "fetchedAt": "2026-11-14T08:54:59.309Z"
   },
   "Elle": {
     "tmdbId": 254420,
@@ -55646,7 +55646,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/254420",
-    "fetchedAt": "2026-11-14T08:50:01.593Z"
+    "fetchedAt": "2026-11-14T08:54:59.911Z"
   },
   "Euphoria": {
     "tmdbId": 85552,
@@ -59832,7 +59832,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85552",
-    "fetchedAt": "2026-11-14T08:50:02.468Z"
+    "fetchedAt": "2026-11-14T08:55:01.064Z"
   },
   "Feel Good": {
     "tmdbId": 99610,
@@ -60472,7 +60472,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/99610",
-    "fetchedAt": "2026-11-14T08:50:03.220Z"
+    "fetchedAt": "2026-11-14T08:55:02.068Z"
   },
   "Fingersmith": {
     "tmdbId": 13812,
@@ -60720,7 +60720,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/13812",
-    "fetchedAt": "2026-11-14T08:50:03.519Z"
+    "fetchedAt": "2026-11-14T08:55:02.492Z"
   },
   "First Kill": {
     "tmdbId": 111616,
@@ -61517,7 +61517,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/111616",
-    "fetchedAt": "2026-11-14T08:50:03.854Z"
+    "fetchedAt": "2026-11-14T08:55:02.911Z"
   },
   "Gentleman Jack": {
     "tmdbId": 86163,
@@ -62846,7 +62846,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/86163",
-    "fetchedAt": "2026-11-14T08:50:04.973Z"
+    "fetchedAt": "2026-11-14T08:55:04.409Z"
   },
   "The Good Fight": {
     "tmdbId": 69158,
@@ -71284,7 +71284,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/69158",
-    "fetchedAt": "2026-11-14T08:50:05.888Z"
+    "fetchedAt": "2026-11-14T08:55:05.677Z"
   },
   "Grey’s Anatomy": {
     "tmdbId": 1416,
@@ -112113,7 +112113,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1416",
-    "fetchedAt": "2026-11-14T08:50:08.951Z"
+    "fetchedAt": "2026-11-14T08:55:09.810Z"
   },
   "Hacks": {
     "tmdbId": 124101,
@@ -118635,7 +118635,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/124101",
-    "fetchedAt": "2026-11-14T08:50:09.787Z"
+    "fetchedAt": "2026-11-14T08:55:10.882Z"
   },
   "Hal & Harper": {
     "tmdbId": 245640,
@@ -119375,7 +119375,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/245640",
-    "fetchedAt": "2026-11-14T08:50:10.089Z"
+    "fetchedAt": "2026-11-14T08:55:11.302Z"
   },
   "Harley Quinn": {
     "tmdbId": 74440,
@@ -121450,7 +121450,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/74440",
-    "fetchedAt": "2026-11-14T08:50:11.437Z"
+    "fetchedAt": "2026-11-14T08:55:13.109Z"
   },
   "The Haunting of Bly Manor": {
     "tmdbId": 109958,
@@ -122366,7 +122366,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/109958",
-    "fetchedAt": "2026-11-14T08:50:11.759Z"
+    "fetchedAt": "2026-11-14T08:55:13.536Z"
   },
   "The Hunting Wives": {
     "tmdbId": 244447,
@@ -123290,7 +123290,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/244447",
-    "fetchedAt": "2026-11-14T08:50:12.180Z"
+    "fetchedAt": "2026-11-14T08:55:14.148Z"
   },
   "Interview with the Vampire": {
     "tmdbId": 128098,
@@ -125338,7 +125338,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/128098",
-    "fetchedAt": "2026-11-14T08:50:12.596Z"
+    "fetchedAt": "2026-11-14T08:55:14.716Z"
   },
   "Jessica Jones": {
     "tmdbId": 38472,
@@ -130592,7 +130592,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/38472",
-    "fetchedAt": "2026-11-14T08:50:13.141Z"
+    "fetchedAt": "2026-11-14T08:55:15.466Z"
   },
   "The Jetty": {
     "tmdbId": 233324,
@@ -131223,7 +131223,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/233324",
-    "fetchedAt": "2026-11-14T08:50:13.451Z"
+    "fetchedAt": "2026-11-14T08:55:15.906Z"
   },
   "Killing Eve": {
     "tmdbId": 72750,
@@ -134616,7 +134616,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/72750",
-    "fetchedAt": "2026-11-14T08:50:14.138Z"
+    "fetchedAt": "2026-11-14T08:55:16.802Z"
   },
   "The L Word": {
     "tmdbId": 3475,
@@ -137458,7 +137458,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/3475",
-    "fetchedAt": "2026-11-14T08:50:15.044Z"
+    "fetchedAt": "2026-11-14T08:55:18.049Z"
   },
   "The Last of Us": {
     "tmdbId": 100088,
@@ -139440,7 +139440,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100088",
-    "fetchedAt": "2026-11-14T08:50:15.480Z"
+    "fetchedAt": "2026-11-14T08:55:18.640Z"
   },
   "The Legend of Korra": {
     "tmdbId": 33880,
@@ -141168,7 +141168,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/33880",
-    "fetchedAt": "2026-11-14T08:50:16.154Z"
+    "fetchedAt": "2026-11-14T08:55:19.558Z"
   },
   "Leopard Skin": {
     "tmdbId": 136748,
@@ -141426,7 +141426,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/136748",
-    "fetchedAt": "2026-11-14T08:50:16.464Z"
+    "fetchedAt": "2026-11-14T08:55:19.974Z"
   },
   "LIGGA": {
     "tmdbId": 153855,
@@ -141836,7 +141836,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153855",
-    "fetchedAt": "2026-11-14T08:50:16.778Z"
+    "fetchedAt": "2026-11-14T08:55:20.399Z"
   },
   "Lip Service": {
     "tmdbId": 31420,
@@ -142284,7 +142284,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/31420",
-    "fetchedAt": "2026-11-14T08:50:17.210Z"
+    "fetchedAt": "2026-11-14T08:55:20.982Z"
   },
   "Long Story Short": {
     "tmdbId": 262375,
@@ -143003,7 +143003,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/262375",
-    "fetchedAt": "2026-11-14T08:50:17.528Z"
+    "fetchedAt": "2026-11-14T08:55:21.412Z"
   },
   "Loving Her": {
     "tmdbId": 126627,
@@ -143369,7 +143369,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126627",
-    "fetchedAt": "2026-11-14T08:50:17.976Z"
+    "fetchedAt": "2026-11-14T08:55:21.972Z"
   },
   "Monster: The Lizzie Borden Story": {
     "tmdbId": 299939,
@@ -144616,7 +144616,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/299939",
-    "fetchedAt": "2026-11-14T08:50:20.173Z"
+    "fetchedAt": "2026-11-14T08:55:24.993Z"
   },
   "Orphan Black": {
     "tmdbId": 56296,
@@ -148445,7 +148445,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/56296",
-    "fetchedAt": "2026-11-14T08:50:20.985Z"
+    "fetchedAt": "2026-11-14T08:55:26.075Z"
   },
   "The Owl House": {
     "tmdbId": 92685,
@@ -149664,7 +149664,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92685",
-    "fetchedAt": "2026-11-14T08:50:21.557Z"
+    "fetchedAt": "2026-11-14T08:55:26.806Z"
   },
   "Paper Girls": {
     "tmdbId": 106431,
@@ -150543,7 +150543,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/106431",
-    "fetchedAt": "2026-11-14T08:50:21.869Z"
+    "fetchedAt": "2026-11-14T08:55:27.226Z"
   },
   "Person of Interest": {
     "tmdbId": 1411,
@@ -162756,7 +162756,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1411",
-    "fetchedAt": "2026-11-14T08:50:23.149Z"
+    "fetchedAt": "2026-11-14T08:55:28.945Z"
   },
   "Piste noire": {
     "tmdbId": 218656,
@@ -163349,7 +163349,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/218656",
-    "fetchedAt": "2026-11-14T08:50:23.465Z"
+    "fetchedAt": "2026-11-14T08:55:29.370Z"
   },
   "Pluribus": {
     "tmdbId": 225171,
@@ -165248,7 +165248,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225171",
-    "fetchedAt": "2026-11-14T08:50:23.772Z"
+    "fetchedAt": "2026-11-14T08:55:29.785Z"
   },
   "Portrait of a Marriage": {
     "tmdbId": 46493,
@@ -165547,7 +165547,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/46493",
-    "fetchedAt": "2026-11-14T08:50:24.077Z"
+    "fetchedAt": "2026-11-14T08:55:30.214Z"
   },
   "Queer for Fear: The History of Queer Horror": {
     "tmdbId": 209027,
@@ -165892,7 +165892,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/209027",
-    "fetchedAt": "2026-11-14T08:50:24.402Z"
+    "fetchedAt": "2026-11-14T08:55:30.630Z"
   },
   "Rizzoli & Isles": {
     "tmdbId": 32895,
@@ -177717,7 +177717,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/32895",
-    "fetchedAt": "2026-11-14T08:50:26.726Z"
+    "fetchedAt": "2026-11-14T08:55:33.696Z"
   },
   "Señorita 89": {
     "tmdbId": 155645,
@@ -178026,7 +178026,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155645",
-    "fetchedAt": "2026-11-14T08:50:27.151Z"
+    "fetchedAt": "2026-11-14T08:55:34.272Z"
   },
   "Sharp Objects": {
     "tmdbId": 70453,
@@ -179370,7 +179370,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/70453",
-    "fetchedAt": "2026-11-14T08:50:28.099Z"
+    "fetchedAt": "2026-11-14T08:55:35.448Z"
   },
   "She Loves to Cook, and She Loves to Eat": {
     "tmdbId": 212765,
@@ -179838,7 +179838,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/212765",
-    "fetchedAt": "2026-11-14T08:50:28.526Z"
+    "fetchedAt": "2026-11-14T08:55:36.032Z"
   },
   "She-Hulk: Attorney at Law": {
     "tmdbId": 92783,
@@ -181305,7 +181305,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92783",
-    "fetchedAt": "2026-11-14T08:50:28.840Z"
+    "fetchedAt": "2026-11-14T08:55:36.459Z"
   },
   "Sjukt oklar": {
     "tmdbId": 85530,
@@ -181582,7 +181582,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85530",
-    "fetchedAt": "2026-11-14T08:50:29.998Z"
+    "fetchedAt": "2026-11-14T08:55:38.022Z"
   },
   "South of Nowhere": {
     "tmdbId": 2081,
@@ -182722,7 +182722,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/2081",
-    "fetchedAt": "2026-11-14T08:50:31.480Z"
+    "fetchedAt": "2026-11-14T08:55:40.016Z"
   },
   "Special Ops: Lioness": {
     "tmdbId": 113962,
@@ -185713,7 +185713,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113962",
-    "fetchedAt": "2026-11-14T08:50:32.031Z"
+    "fetchedAt": "2026-11-14T08:55:40.750Z"
   },
   "Station 19": {
     "tmdbId": 76773,
@@ -195142,7 +195142,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/76773",
-    "fetchedAt": "2026-11-14T08:50:33.106Z"
+    "fetchedAt": "2026-11-14T08:55:42.142Z"
   },
   "Sterling Point": {
     "tmdbId": 283297,
@@ -195615,7 +195615,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/283297",
-    "fetchedAt": "2026-11-14T08:50:33.538Z"
+    "fetchedAt": "2026-11-14T08:55:42.707Z"
   },
   "Supergirl": {
     "tmdbId": 62688,
@@ -205819,7 +205819,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62688",
-    "fetchedAt": "2026-11-14T08:50:36.373Z"
+    "fetchedAt": "2026-11-14T08:55:46.504Z"
   },
   "Swimming with Sharks": {
     "tmdbId": 156822,
@@ -206085,7 +206085,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/156822",
-    "fetchedAt": "2026-11-14T08:50:36.682Z"
+    "fetchedAt": "2026-11-14T08:55:46.933Z"
   },
   "Teenage Bounty Hunters": {
     "tmdbId": 90766,
@@ -207499,7 +207499,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/90766",
-    "fetchedAt": "2026-11-14T08:50:37.690Z"
+    "fetchedAt": "2026-11-14T08:55:48.314Z"
   },
   "This Way Up": {
     "tmdbId": 91740,
@@ -207916,7 +207916,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91740",
-    "fetchedAt": "2026-11-14T08:50:38.550Z"
+    "fetchedAt": "2026-11-14T08:55:49.463Z"
   },
   "Triple Oh!": {
     "tmdbId": 252382,
@@ -208360,7 +208360,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/252382",
-    "fetchedAt": "2026-11-14T08:50:38.858Z"
+    "fetchedAt": "2026-11-14T08:55:49.881Z"
   },
   "Veneno": {
     "tmdbId": 100834,
@@ -209055,7 +209055,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100834",
-    "fetchedAt": "2026-11-14T08:50:41.345Z"
+    "fetchedAt": "2026-11-14T08:55:53.148Z"
   },
   "Vigil": {
     "tmdbId": 126167,
@@ -210046,7 +210046,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126167",
-    "fetchedAt": "2026-11-14T08:50:42.118Z"
+    "fetchedAt": "2026-11-14T08:55:54.206Z"
   },
   "Warehouse 13": {
     "tmdbId": 15819,
@@ -217179,7 +217179,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15819",
-    "fetchedAt": "2026-11-14T08:50:42.937Z"
+    "fetchedAt": "2026-11-14T08:55:55.334Z"
   },
   "Wednesday": {
     "tmdbId": 119051,
@@ -219145,7 +219145,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/119051",
-    "fetchedAt": "2026-11-14T08:50:43.951Z"
+    "fetchedAt": "2026-11-14T08:55:56.658Z"
   },
   "Wentworth": {
     "tmdbId": 44856,
@@ -221784,7 +221784,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/44856",
-    "fetchedAt": "2026-11-14T08:50:45.229Z"
+    "fetchedAt": "2026-11-14T08:55:58.377Z"
   },
   "The Wilds": {
     "tmdbId": 113367,
@@ -223216,7 +223216,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113367",
-    "fetchedAt": "2026-11-14T08:50:46.207Z"
+    "fetchedAt": "2026-11-14T08:55:59.679Z"
   },
   "WIR": {
     "tmdbId": 155700,
@@ -224173,7 +224173,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155700",
-    "fetchedAt": "2026-11-14T08:50:46.902Z"
+    "fetchedAt": "2026-11-14T08:56:00.578Z"
   },
   "Wynonna Earp": {
     "tmdbId": 65988,
@@ -227574,7 +227574,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/65988",
-    "fetchedAt": "2026-11-14T08:50:47.600Z"
+    "fetchedAt": "2026-11-14T08:56:01.471Z"
   },
   "Yellowjackets": {
     "tmdbId": 117488,
@@ -230867,7 +230867,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/117488",
-    "fetchedAt": "2026-11-14T08:50:48.283Z"
+    "fetchedAt": "2026-11-14T08:56:02.360Z"
   },
   "2 Broke Girls": {
     "tmdbId": 39340,
@@ -240322,7 +240322,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/39340",
-    "fetchedAt": "2026-11-14T08:49:42.389Z"
+    "fetchedAt": "2026-11-14T08:54:33.527Z"
   },
   "Adolescence": {
     "tmdbId": 249042,
@@ -240913,7 +240913,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/249042",
-    "fetchedAt": "2026-11-14T08:49:42.994Z"
+    "fetchedAt": "2026-11-14T08:54:34.379Z"
   },
   "Andor": {
     "tmdbId": 83867,
@@ -244276,7 +244276,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/83867",
-    "fetchedAt": "2026-11-14T08:49:45.455Z"
+    "fetchedAt": "2026-11-14T08:54:37.686Z"
   },
   "Better Call Saul": {
     "tmdbId": 60059,
@@ -252774,7 +252774,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/60059",
-    "fetchedAt": "2026-11-14T08:49:49.619Z"
+    "fetchedAt": "2026-11-14T08:54:43.355Z"
   },
   "Breaking Bad": {
     "tmdbId": 1396,
@@ -257258,7 +257258,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1396",
-    "fetchedAt": "2026-11-14T08:49:52.205Z"
+    "fetchedAt": "2026-11-14T08:54:46.912Z"
   },
   "The Capture": {
     "tmdbId": 93166,
@@ -258959,7 +258959,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/93166",
-    "fetchedAt": "2026-11-14T08:49:55.642Z"
+    "fetchedAt": "2026-11-14T08:54:51.677Z"
   },
   "Dark": {
     "tmdbId": 70523,
@@ -260645,7 +260645,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/70523",
-    "fetchedAt": "2026-11-14T08:49:57.210Z"
+    "fetchedAt": "2026-11-14T08:54:53.877Z"
   },
   "The Diplomat": {
     "tmdbId": 203857,
@@ -263046,7 +263046,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/203857",
-    "fetchedAt": "2026-11-14T08:49:59.907Z"
+    "fetchedAt": "2026-11-14T08:54:57.541Z"
   },
   "The English": {
     "tmdbId": 99346,
@@ -263623,7 +263623,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/99346",
-    "fetchedAt": "2026-11-14T08:50:01.915Z"
+    "fetchedAt": "2026-11-14T08:55:00.330Z"
   },
   "Fisk": {
     "tmdbId": 121040,
@@ -264257,7 +264257,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/121040",
-    "fetchedAt": "2026-11-14T08:50:04.395Z"
+    "fetchedAt": "2026-11-14T08:55:03.643Z"
   },
   "Maximum Pleasure Guaranteed": {
     "tmdbId": 285404,
@@ -265505,7 +265505,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/285404",
-    "fetchedAt": "2026-11-14T08:50:18.286Z"
+    "fetchedAt": "2026-11-14T08:55:22.408Z"
   },
   "Modern Family": {
     "tmdbId": 1421,
@@ -282394,7 +282394,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1421",
-    "fetchedAt": "2026-11-14T08:50:19.865Z"
+    "fetchedAt": "2026-11-14T08:55:24.510Z"
   },
   "PEN15": {
     "tmdbId": 85702,
@@ -283181,7 +283181,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85702",
-    "fetchedAt": "2026-11-14T08:50:22.324Z"
+    "fetchedAt": "2026-11-14T08:55:27.792Z"
   },
   "Rick and Morty": {
     "tmdbId": 60625,
@@ -286765,7 +286765,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/60625",
-    "fetchedAt": "2026-11-14T08:50:25.686Z"
+    "fetchedAt": "2026-11-14T08:55:32.335Z"
   },
   "Severance": {
     "tmdbId": 95396,
@@ -288203,7 +288203,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95396",
-    "fetchedAt": "2026-11-14T08:50:27.775Z"
+    "fetchedAt": "2026-11-14T08:55:35.029Z"
   },
   "Silo": {
     "tmdbId": 125988,
@@ -291001,7 +291001,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/125988",
-    "fetchedAt": "2026-11-14T08:50:29.540Z"
+    "fetchedAt": "2026-11-14T08:55:37.447Z"
   },
   "Slow Horses": {
     "tmdbId": 95480,
@@ -294131,7 +294131,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95480",
-    "fetchedAt": "2026-11-14T08:50:30.917Z"
+    "fetchedAt": "2026-11-14T08:55:39.254Z"
   },
   "Stranger Things": {
     "tmdbId": 66732,
@@ -299845,7 +299845,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66732",
-    "fetchedAt": "2026-11-14T08:50:34.326Z"
+    "fetchedAt": "2026-11-14T08:55:43.755Z"
   },
   "The Studio": {
     "tmdbId": 247767,
@@ -301180,7 +301180,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/247767",
-    "fetchedAt": "2026-11-14T08:50:34.766Z"
+    "fetchedAt": "2026-11-14T08:55:44.319Z"
   },
   "Succession": {
     "tmdbId": 76331,
@@ -306516,7 +306516,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/76331",
-    "fetchedAt": "2026-11-14T08:50:35.439Z"
+    "fetchedAt": "2026-11-14T08:55:45.218Z"
   },
   "Ted Lasso": {
     "tmdbId": 97546,
@@ -310846,7 +310846,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/97546",
-    "fetchedAt": "2026-11-14T08:50:37.383Z"
+    "fetchedAt": "2026-11-14T08:55:47.849Z"
   },
   "Twin Peaks": {
     "tmdbId": 1920,
@@ -315014,7 +315014,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1920",
-    "fetchedAt": "2026-11-14T08:50:39.976Z"
+    "fetchedAt": "2026-11-14T08:55:51.356Z"
   },
   "Veep": {
     "tmdbId": 2947,
@@ -322162,7 +322162,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/2947",
-    "fetchedAt": "2026-11-14T08:50:41.041Z"
+    "fetchedAt": "2026-11-14T08:55:52.741Z"
   },
   "The White Lotus": {
     "tmdbId": 111803,
@@ -323945,7 +323945,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/111803",
-    "fetchedAt": "2026-11-14T08:50:45.776Z"
+    "fetchedAt": "2026-11-14T08:55:59.105Z"
   },
   "Yes, Prime Minister": {
     "tmdbId": 12597,
@@ -324450,7 +324450,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/12597",
-    "fetchedAt": "2026-11-14T08:50:48.706Z"
+    "fetchedAt": "2026-11-14T08:56:02.942Z"
   },
   "13 Reasons Why": {
     "tmdbId": 66788,
@@ -326757,7 +326757,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66788",
-    "fetchedAt": "2026-11-14T08:49:41.459Z"
+    "fetchedAt": "2026-11-14T08:54:32.302Z"
   },
   "Adventure Time: Distant Lands": {
     "tmdbId": 94810,
@@ -327568,7 +327568,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/94810",
-    "fetchedAt": "2026-11-14T08:49:44.694Z"
+    "fetchedAt": "2026-11-14T08:54:36.655Z"
   },
   "Black Doves": {
     "tmdbId": 225385,
@@ -328917,7 +328917,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225385",
-    "fetchedAt": "2026-11-14T08:49:50.040Z"
+    "fetchedAt": "2026-11-14T08:54:43.938Z"
   },
   "The Fall of the House of Usher": {
     "tmdbId": 157065,
@@ -330086,7 +330086,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/157065",
-    "fetchedAt": "2026-11-14T08:50:02.770Z"
+    "fetchedAt": "2026-11-14T08:55:01.482Z"
   },
   "Harlem": {
     "tmdbId": 138089,
@@ -332827,7 +332827,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/138089",
-    "fetchedAt": "2026-11-14T08:50:10.652Z"
+    "fetchedAt": "2026-11-14T08:55:12.060Z"
   },
   "The Testaments": {
     "tmdbId": 287527,
@@ -334089,7 +334089,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/287527",
-    "fetchedAt": "2026-11-14T08:50:38.113Z"
+    "fetchedAt": "2026-11-14T08:55:48.884Z"
   },
   "The Tunnel": {
     "tmdbId": 56336,
@@ -334893,7 +334893,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/56336",
-    "fetchedAt": "2026-11-14T08:50:39.413Z"
+    "fetchedAt": "2026-11-14T08:55:50.619Z"
   },
   "Warrior Nun": {
     "tmdbId": 87689,
@@ -336222,7 +336222,7 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/87689",
-    "fetchedAt": "2026-11-14T08:50:43.379Z"
+    "fetchedAt": "2026-11-14T08:55:55.917Z"
   }
 };
 window.WLW_TMDB_DETAILS_BY_ID = {
@@ -345982,7 +345982,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95",
-    "fetchedAt": "2026-11-14T08:49:54.484Z"
+    "fetchedAt": "2026-11-14T08:54:50.082Z"
   },
   "1396": {
     "tmdbId": 1396,
@@ -350466,7 +350466,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1396",
-    "fetchedAt": "2026-11-14T08:49:52.205Z"
+    "fetchedAt": "2026-11-14T08:54:46.912Z"
   },
   "1411": {
     "tmdbId": 1411,
@@ -362679,7 +362679,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1411",
-    "fetchedAt": "2026-11-14T08:50:23.149Z"
+    "fetchedAt": "2026-11-14T08:55:28.945Z"
   },
   "1416": {
     "tmdbId": 1416,
@@ -403508,7 +403508,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1416",
-    "fetchedAt": "2026-11-14T08:50:08.951Z"
+    "fetchedAt": "2026-11-14T08:55:09.810Z"
   },
   "1421": {
     "tmdbId": 1421,
@@ -420397,7 +420397,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1421",
-    "fetchedAt": "2026-11-14T08:50:19.865Z"
+    "fetchedAt": "2026-11-14T08:55:24.510Z"
   },
   "1920": {
     "tmdbId": 1920,
@@ -424565,7 +424565,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/1920",
-    "fetchedAt": "2026-11-14T08:50:39.976Z"
+    "fetchedAt": "2026-11-14T08:55:51.356Z"
   },
   "2081": {
     "tmdbId": 2081,
@@ -425705,7 +425705,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/2081",
-    "fetchedAt": "2026-11-14T08:50:31.480Z"
+    "fetchedAt": "2026-11-14T08:55:40.016Z"
   },
   "2947": {
     "tmdbId": 2947,
@@ -432853,7 +432853,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/2947",
-    "fetchedAt": "2026-11-14T08:50:41.041Z"
+    "fetchedAt": "2026-11-14T08:55:52.741Z"
   },
   "3475": {
     "tmdbId": 3475,
@@ -435695,7 +435695,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/3475",
-    "fetchedAt": "2026-11-14T08:50:15.044Z"
+    "fetchedAt": "2026-11-14T08:55:18.049Z"
   },
   "12597": {
     "tmdbId": 12597,
@@ -436200,7 +436200,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/12597",
-    "fetchedAt": "2026-11-14T08:50:48.706Z"
+    "fetchedAt": "2026-11-14T08:56:02.942Z"
   },
   "13812": {
     "tmdbId": 13812,
@@ -436448,7 +436448,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/13812",
-    "fetchedAt": "2026-11-14T08:50:03.519Z"
+    "fetchedAt": "2026-11-14T08:55:02.492Z"
   },
   "15260": {
     "tmdbId": 15260,
@@ -440799,7 +440799,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15260",
-    "fetchedAt": "2026-11-14T08:49:44.391Z"
+    "fetchedAt": "2026-11-14T08:54:36.240Z"
   },
   "15819": {
     "tmdbId": 15819,
@@ -447932,7 +447932,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/15819",
-    "fetchedAt": "2026-11-14T08:50:42.937Z"
+    "fetchedAt": "2026-11-14T08:55:55.334Z"
   },
   "31420": {
     "tmdbId": 31420,
@@ -448380,7 +448380,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/31420",
-    "fetchedAt": "2026-11-14T08:50:17.210Z"
+    "fetchedAt": "2026-11-14T08:55:20.982Z"
   },
   "32895": {
     "tmdbId": 32895,
@@ -460205,7 +460205,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/32895",
-    "fetchedAt": "2026-11-14T08:50:26.726Z"
+    "fetchedAt": "2026-11-14T08:55:33.696Z"
   },
   "33880": {
     "tmdbId": 33880,
@@ -461933,7 +461933,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/33880",
-    "fetchedAt": "2026-11-14T08:50:16.154Z"
+    "fetchedAt": "2026-11-14T08:55:19.558Z"
   },
   "38472": {
     "tmdbId": 38472,
@@ -467187,7 +467187,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/38472",
-    "fetchedAt": "2026-11-14T08:50:13.141Z"
+    "fetchedAt": "2026-11-14T08:55:15.466Z"
   },
   "39340": {
     "tmdbId": 39340,
@@ -476642,7 +476642,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/39340",
-    "fetchedAt": "2026-11-14T08:49:42.389Z"
+    "fetchedAt": "2026-11-14T08:54:33.527Z"
   },
   "42009": {
     "tmdbId": 42009,
@@ -483404,7 +483404,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/42009",
-    "fetchedAt": "2026-11-14T08:49:51.119Z"
+    "fetchedAt": "2026-11-14T08:54:45.374Z"
   },
   "44856": {
     "tmdbId": 44856,
@@ -486043,7 +486043,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/44856",
-    "fetchedAt": "2026-11-14T08:50:45.229Z"
+    "fetchedAt": "2026-11-14T08:55:58.377Z"
   },
   "46493": {
     "tmdbId": 46493,
@@ -486342,7 +486342,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/46493",
-    "fetchedAt": "2026-11-14T08:50:24.077Z"
+    "fetchedAt": "2026-11-14T08:55:30.214Z"
   },
   "56296": {
     "tmdbId": 56296,
@@ -490171,7 +490171,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/56296",
-    "fetchedAt": "2026-11-14T08:50:20.985Z"
+    "fetchedAt": "2026-11-14T08:55:26.075Z"
   },
   "56336": {
     "tmdbId": 56336,
@@ -490975,7 +490975,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/56336",
-    "fetchedAt": "2026-11-14T08:50:39.413Z"
+    "fetchedAt": "2026-11-14T08:55:50.619Z"
   },
   "60059": {
     "tmdbId": 60059,
@@ -499473,7 +499473,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/60059",
-    "fetchedAt": "2026-11-14T08:49:49.619Z"
+    "fetchedAt": "2026-11-14T08:54:43.355Z"
   },
   "60625": {
     "tmdbId": 60625,
@@ -503057,7 +503057,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/60625",
-    "fetchedAt": "2026-11-14T08:50:25.686Z"
+    "fetchedAt": "2026-11-14T08:55:32.335Z"
   },
   "62643": {
     "tmdbId": 62643,
@@ -513045,7 +513045,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62643",
-    "fetchedAt": "2026-11-14T08:49:58.283Z"
+    "fetchedAt": "2026-11-14T08:54:55.281Z"
   },
   "62688": {
     "tmdbId": 62688,
@@ -523249,7 +523249,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/62688",
-    "fetchedAt": "2026-11-14T08:50:36.373Z"
+    "fetchedAt": "2026-11-14T08:55:46.504Z"
   },
   "64165": {
     "tmdbId": 64165,
@@ -525154,7 +525154,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/64165",
-    "fetchedAt": "2026-11-14T08:50:00.571Z"
+    "fetchedAt": "2026-11-14T08:54:58.450Z"
   },
   "65988": {
     "tmdbId": 65988,
@@ -528555,7 +528555,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/65988",
-    "fetchedAt": "2026-11-14T08:50:47.600Z"
+    "fetchedAt": "2026-11-14T08:56:01.471Z"
   },
   "66732": {
     "tmdbId": 66732,
@@ -534269,7 +534269,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66732",
-    "fetchedAt": "2026-11-14T08:50:34.326Z"
+    "fetchedAt": "2026-11-14T08:55:43.755Z"
   },
   "66788": {
     "tmdbId": 66788,
@@ -536576,7 +536576,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66788",
-    "fetchedAt": "2026-11-14T08:49:41.459Z"
+    "fetchedAt": "2026-11-14T08:54:32.302Z"
   },
   "66980": {
     "tmdbId": 66980,
@@ -540396,7 +540396,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/66980",
-    "fetchedAt": "2026-11-14T08:49:48.071Z"
+    "fetchedAt": "2026-11-14T08:54:41.294Z"
   },
   "69158": {
     "tmdbId": 69158,
@@ -548834,7 +548834,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/69158",
-    "fetchedAt": "2026-11-14T08:50:05.888Z"
+    "fetchedAt": "2026-11-14T08:55:05.677Z"
   },
   "70453": {
     "tmdbId": 70453,
@@ -550178,7 +550178,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/70453",
-    "fetchedAt": "2026-11-14T08:50:28.099Z"
+    "fetchedAt": "2026-11-14T08:55:35.448Z"
   },
   "70523": {
     "tmdbId": 70523,
@@ -551864,7 +551864,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/70523",
-    "fetchedAt": "2026-11-14T08:49:57.210Z"
+    "fetchedAt": "2026-11-14T08:54:53.877Z"
   },
   "71578": {
     "tmdbId": 71578,
@@ -554283,7 +554283,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/71578",
-    "fetchedAt": "2026-11-14T08:49:47.285Z"
+    "fetchedAt": "2026-11-14T08:54:40.224Z"
   },
   "72750": {
     "tmdbId": 72750,
@@ -557676,7 +557676,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/72750",
-    "fetchedAt": "2026-11-14T08:50:14.138Z"
+    "fetchedAt": "2026-11-14T08:55:16.802Z"
   },
   "74440": {
     "tmdbId": 74440,
@@ -559751,7 +559751,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/74440",
-    "fetchedAt": "2026-11-14T08:50:11.437Z"
+    "fetchedAt": "2026-11-14T08:55:13.109Z"
   },
   "76331": {
     "tmdbId": 76331,
@@ -565087,7 +565087,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/76331",
-    "fetchedAt": "2026-11-14T08:50:35.439Z"
+    "fetchedAt": "2026-11-14T08:55:45.218Z"
   },
   "76773": {
     "tmdbId": 76773,
@@ -574516,7 +574516,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/76773",
-    "fetchedAt": "2026-11-14T08:50:33.106Z"
+    "fetchedAt": "2026-11-14T08:55:42.142Z"
   },
   "82835": {
     "tmdbId": 82835,
@@ -575139,7 +575139,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/82835",
-    "fetchedAt": "2026-11-14T08:49:45.882Z"
+    "fetchedAt": "2026-11-14T08:54:38.274Z"
   },
   "83867": {
     "tmdbId": 83867,
@@ -578502,7 +578502,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/83867",
-    "fetchedAt": "2026-11-14T08:49:45.455Z"
+    "fetchedAt": "2026-11-14T08:54:37.686Z"
   },
   "85530": {
     "tmdbId": 85530,
@@ -578779,7 +578779,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85530",
-    "fetchedAt": "2026-11-14T08:50:29.998Z"
+    "fetchedAt": "2026-11-14T08:55:38.022Z"
   },
   "85552": {
     "tmdbId": 85552,
@@ -582965,7 +582965,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85552",
-    "fetchedAt": "2026-11-14T08:50:02.468Z"
+    "fetchedAt": "2026-11-14T08:55:01.064Z"
   },
   "85702": {
     "tmdbId": 85702,
@@ -583752,7 +583752,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/85702",
-    "fetchedAt": "2026-11-14T08:50:22.324Z"
+    "fetchedAt": "2026-11-14T08:55:27.792Z"
   },
   "86163": {
     "tmdbId": 86163,
@@ -585081,7 +585081,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/86163",
-    "fetchedAt": "2026-11-14T08:50:04.973Z"
+    "fetchedAt": "2026-11-14T08:55:04.409Z"
   },
   "87689": {
     "tmdbId": 87689,
@@ -586410,7 +586410,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/87689",
-    "fetchedAt": "2026-11-14T08:50:43.379Z"
+    "fetchedAt": "2026-11-14T08:55:55.917Z"
   },
   "89901": {
     "tmdbId": 89901,
@@ -588435,7 +588435,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/89901",
-    "fetchedAt": "2026-11-14T08:49:59.246Z"
+    "fetchedAt": "2026-11-14T08:54:56.605Z"
   },
   "90766": {
     "tmdbId": 90766,
@@ -589849,7 +589849,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/90766",
-    "fetchedAt": "2026-11-14T08:50:37.690Z"
+    "fetchedAt": "2026-11-14T08:55:48.314Z"
   },
   "91239": {
     "tmdbId": 91239,
@@ -593625,7 +593625,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91239",
-    "fetchedAt": "2026-11-14T08:49:53.015Z"
+    "fetchedAt": "2026-11-14T08:54:47.972Z"
   },
   "91740": {
     "tmdbId": 91740,
@@ -594042,7 +594042,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/91740",
-    "fetchedAt": "2026-11-14T08:50:38.550Z"
+    "fetchedAt": "2026-11-14T08:55:49.463Z"
   },
   "92685": {
     "tmdbId": 92685,
@@ -595261,7 +595261,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92685",
-    "fetchedAt": "2026-11-14T08:50:21.557Z"
+    "fetchedAt": "2026-11-14T08:55:26.806Z"
   },
   "92783": {
     "tmdbId": 92783,
@@ -596728,7 +596728,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/92783",
-    "fetchedAt": "2026-11-14T08:50:28.840Z"
+    "fetchedAt": "2026-11-14T08:55:36.459Z"
   },
   "93166": {
     "tmdbId": 93166,
@@ -598429,7 +598429,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/93166",
-    "fetchedAt": "2026-11-14T08:49:55.642Z"
+    "fetchedAt": "2026-11-14T08:54:51.677Z"
   },
   "94605": {
     "tmdbId": 94605,
@@ -599864,7 +599864,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/94605",
-    "fetchedAt": "2026-11-14T08:49:46.308Z"
+    "fetchedAt": "2026-11-14T08:54:38.848Z"
   },
   "94810": {
     "tmdbId": 94810,
@@ -600675,7 +600675,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/94810",
-    "fetchedAt": "2026-11-14T08:49:44.694Z"
+    "fetchedAt": "2026-11-14T08:54:36.655Z"
   },
   "95396": {
     "tmdbId": 95396,
@@ -602113,7 +602113,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95396",
-    "fetchedAt": "2026-11-14T08:50:27.775Z"
+    "fetchedAt": "2026-11-14T08:55:35.029Z"
   },
   "95480": {
     "tmdbId": 95480,
@@ -605243,7 +605243,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/95480",
-    "fetchedAt": "2026-11-14T08:50:30.917Z"
+    "fetchedAt": "2026-11-14T08:55:39.254Z"
   },
   "97546": {
     "tmdbId": 97546,
@@ -609573,7 +609573,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/97546",
-    "fetchedAt": "2026-11-14T08:50:37.383Z"
+    "fetchedAt": "2026-11-14T08:55:47.849Z"
   },
   "99346": {
     "tmdbId": 99346,
@@ -610150,7 +610150,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/99346",
-    "fetchedAt": "2026-11-14T08:50:01.915Z"
+    "fetchedAt": "2026-11-14T08:55:00.330Z"
   },
   "99610": {
     "tmdbId": 99610,
@@ -610790,7 +610790,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/99610",
-    "fetchedAt": "2026-11-14T08:50:03.220Z"
+    "fetchedAt": "2026-11-14T08:55:02.068Z"
   },
   "100088": {
     "tmdbId": 100088,
@@ -612772,7 +612772,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100088",
-    "fetchedAt": "2026-11-14T08:50:15.480Z"
+    "fetchedAt": "2026-11-14T08:55:18.640Z"
   },
   "100834": {
     "tmdbId": 100834,
@@ -613467,7 +613467,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/100834",
-    "fetchedAt": "2026-11-14T08:50:41.345Z"
+    "fetchedAt": "2026-11-14T08:55:53.148Z"
   },
   "106431": {
     "tmdbId": 106431,
@@ -614346,7 +614346,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/106431",
-    "fetchedAt": "2026-11-14T08:50:21.869Z"
+    "fetchedAt": "2026-11-14T08:55:27.226Z"
   },
   "107005": {
     "tmdbId": 107005,
@@ -615192,7 +615192,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/107005",
-    "fetchedAt": "2026-11-14T08:49:42.689Z"
+    "fetchedAt": "2026-11-14T08:54:33.949Z"
   },
   "109958": {
     "tmdbId": 109958,
@@ -616108,7 +616108,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/109958",
-    "fetchedAt": "2026-11-14T08:50:11.759Z"
+    "fetchedAt": "2026-11-14T08:55:13.536Z"
   },
   "111616": {
     "tmdbId": 111616,
@@ -616905,7 +616905,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/111616",
-    "fetchedAt": "2026-11-14T08:50:03.854Z"
+    "fetchedAt": "2026-11-14T08:55:02.911Z"
   },
   "111803": {
     "tmdbId": 111803,
@@ -618688,7 +618688,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/111803",
-    "fetchedAt": "2026-11-14T08:50:45.776Z"
+    "fetchedAt": "2026-11-14T08:55:59.105Z"
   },
   "113367": {
     "tmdbId": 113367,
@@ -620120,7 +620120,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113367",
-    "fetchedAt": "2026-11-14T08:50:46.207Z"
+    "fetchedAt": "2026-11-14T08:55:59.679Z"
   },
   "113962": {
     "tmdbId": 113962,
@@ -623111,7 +623111,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/113962",
-    "fetchedAt": "2026-11-14T08:50:32.031Z"
+    "fetchedAt": "2026-11-14T08:55:40.750Z"
   },
   "117488": {
     "tmdbId": 117488,
@@ -626404,7 +626404,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/117488",
-    "fetchedAt": "2026-11-14T08:50:48.283Z"
+    "fetchedAt": "2026-11-14T08:56:02.360Z"
   },
   "119051": {
     "tmdbId": 119051,
@@ -628370,7 +628370,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/119051",
-    "fetchedAt": "2026-11-14T08:50:43.951Z"
+    "fetchedAt": "2026-11-14T08:55:56.658Z"
   },
   "121040": {
     "tmdbId": 121040,
@@ -629004,7 +629004,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/121040",
-    "fetchedAt": "2026-11-14T08:50:04.395Z"
+    "fetchedAt": "2026-11-14T08:55:03.643Z"
   },
   "124101": {
     "tmdbId": 124101,
@@ -635526,7 +635526,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/124101",
-    "fetchedAt": "2026-11-14T08:50:09.787Z"
+    "fetchedAt": "2026-11-14T08:55:10.882Z"
   },
   "125988": {
     "tmdbId": 125988,
@@ -638324,7 +638324,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/125988",
-    "fetchedAt": "2026-11-14T08:50:29.540Z"
+    "fetchedAt": "2026-11-14T08:55:37.447Z"
   },
   "126167": {
     "tmdbId": 126167,
@@ -639315,7 +639315,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126167",
-    "fetchedAt": "2026-11-14T08:50:42.118Z"
+    "fetchedAt": "2026-11-14T08:55:54.206Z"
   },
   "126627": {
     "tmdbId": 126627,
@@ -639681,7 +639681,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/126627",
-    "fetchedAt": "2026-11-14T08:50:17.976Z"
+    "fetchedAt": "2026-11-14T08:55:21.972Z"
   },
   "128098": {
     "tmdbId": 128098,
@@ -641729,7 +641729,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/128098",
-    "fetchedAt": "2026-11-14T08:50:12.596Z"
+    "fetchedAt": "2026-11-14T08:55:14.716Z"
   },
   "132956": {
     "tmdbId": 132956,
@@ -641956,7 +641956,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "crew": [],
     "tmdbUrl": "https://www.themoviedb.org/tv/132956",
-    "fetchedAt": "2026-11-14T08:49:51.421Z"
+    "fetchedAt": "2026-11-14T08:54:45.808Z"
   },
   "136748": {
     "tmdbId": 136748,
@@ -642214,7 +642214,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/136748",
-    "fetchedAt": "2026-11-14T08:50:16.464Z"
+    "fetchedAt": "2026-11-14T08:55:19.974Z"
   },
   "138089": {
     "tmdbId": 138089,
@@ -644955,7 +644955,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/138089",
-    "fetchedAt": "2026-11-14T08:50:10.652Z"
+    "fetchedAt": "2026-11-14T08:55:12.060Z"
   },
   "138501": {
     "tmdbId": 138501,
@@ -645743,7 +645743,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/138501",
-    "fetchedAt": "2026-11-14T08:49:44.993Z"
+    "fetchedAt": "2026-11-14T08:54:37.099Z"
   },
   "153855": {
     "tmdbId": 153855,
@@ -646153,7 +646153,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153855",
-    "fetchedAt": "2026-11-14T08:50:16.778Z"
+    "fetchedAt": "2026-11-14T08:55:20.399Z"
   },
   "153886": {
     "tmdbId": 153886,
@@ -646450,8 +646450,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 66937,
-        "name": "John Quester",
+        "id": 3354363,
+        "name": "Sabine Steyer-Violet",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -646466,8 +646466,8 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         ]
       },
       {
-        "id": 3354363,
-        "name": "Sabine Steyer-Violet",
+        "id": 66937,
+        "name": "John Quester",
         "profilePath": "",
         "jobs": [
           "Writer"
@@ -646475,7 +646475,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/153886",
-    "fetchedAt": "2026-11-14T08:50:01.173Z"
+    "fetchedAt": "2026-11-14T08:54:59.309Z"
   },
   "155645": {
     "tmdbId": 155645,
@@ -646784,7 +646784,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155645",
-    "fetchedAt": "2026-11-14T08:50:27.151Z"
+    "fetchedAt": "2026-11-14T08:55:34.272Z"
   },
   "155700": {
     "tmdbId": 155700,
@@ -647741,7 +647741,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/155700",
-    "fetchedAt": "2026-11-14T08:50:46.902Z"
+    "fetchedAt": "2026-11-14T08:56:00.578Z"
   },
   "156822": {
     "tmdbId": 156822,
@@ -648007,7 +648007,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/156822",
-    "fetchedAt": "2026-11-14T08:50:36.682Z"
+    "fetchedAt": "2026-11-14T08:55:46.933Z"
   },
   "157065": {
     "tmdbId": 157065,
@@ -649176,7 +649176,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/157065",
-    "fetchedAt": "2026-11-14T08:50:02.770Z"
+    "fetchedAt": "2026-11-14T08:55:01.482Z"
   },
   "203857": {
     "tmdbId": 203857,
@@ -651577,7 +651577,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/203857",
-    "fetchedAt": "2026-11-14T08:49:59.907Z"
+    "fetchedAt": "2026-11-14T08:54:57.541Z"
   },
   "207368": {
     "tmdbId": 207368,
@@ -652027,7 +652027,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/207368",
-    "fetchedAt": "2026-11-14T08:49:48.398Z"
+    "fetchedAt": "2026-11-14T08:54:41.710Z"
   },
   "209027": {
     "tmdbId": 209027,
@@ -652372,7 +652372,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/209027",
-    "fetchedAt": "2026-11-14T08:50:24.402Z"
+    "fetchedAt": "2026-11-14T08:55:30.630Z"
   },
   "212765": {
     "tmdbId": 212765,
@@ -652840,7 +652840,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/212765",
-    "fetchedAt": "2026-11-14T08:50:28.526Z"
+    "fetchedAt": "2026-11-14T08:55:36.032Z"
   },
   "213338": {
     "tmdbId": 213338,
@@ -653690,7 +653690,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/213338",
-    "fetchedAt": "2026-11-14T08:49:53.433Z"
+    "fetchedAt": "2026-11-14T08:54:48.562Z"
   },
   "214065": {
     "tmdbId": 214065,
@@ -653909,7 +653909,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/214065",
-    "fetchedAt": "2026-11-14T08:49:55.939Z"
+    "fetchedAt": "2026-11-14T08:54:52.088Z"
   },
   "218656": {
     "tmdbId": 218656,
@@ -654502,7 +654502,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/218656",
-    "fetchedAt": "2026-11-14T08:50:23.465Z"
+    "fetchedAt": "2026-11-14T08:55:29.370Z"
   },
   "225171": {
     "tmdbId": 225171,
@@ -656401,7 +656401,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225171",
-    "fetchedAt": "2026-11-14T08:50:23.772Z"
+    "fetchedAt": "2026-11-14T08:55:29.785Z"
   },
   "225385": {
     "tmdbId": 225385,
@@ -657750,7 +657750,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225385",
-    "fetchedAt": "2026-11-14T08:49:50.040Z"
+    "fetchedAt": "2026-11-14T08:54:43.938Z"
   },
   "225780": {
     "tmdbId": 225780,
@@ -658390,7 +658390,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/225780",
-    "fetchedAt": "2026-11-14T08:49:58.699Z"
+    "fetchedAt": "2026-11-14T08:54:55.864Z"
   },
   "228528": {
     "tmdbId": 228528,
@@ -658717,7 +658717,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/228528",
-    "fetchedAt": "2026-11-14T08:49:56.670Z"
+    "fetchedAt": "2026-11-14T08:54:53.135Z"
   },
   "233324": {
     "tmdbId": 233324,
@@ -659348,7 +659348,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/233324",
-    "fetchedAt": "2026-11-14T08:50:13.451Z"
+    "fetchedAt": "2026-11-14T08:55:15.906Z"
   },
   "242436": {
     "tmdbId": 242436,
@@ -659791,7 +659791,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/242436",
-    "fetchedAt": "2026-11-14T08:49:46.620Z"
+    "fetchedAt": "2026-11-14T08:54:39.272Z"
   },
   "244447": {
     "tmdbId": 244447,
@@ -660715,7 +660715,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/244447",
-    "fetchedAt": "2026-11-14T08:50:12.180Z"
+    "fetchedAt": "2026-11-14T08:55:14.148Z"
   },
   "245640": {
     "tmdbId": 245640,
@@ -661455,7 +661455,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/245640",
-    "fetchedAt": "2026-11-14T08:50:10.089Z"
+    "fetchedAt": "2026-11-14T08:55:11.302Z"
   },
   "247767": {
     "tmdbId": 247767,
@@ -662790,7 +662790,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/247767",
-    "fetchedAt": "2026-11-14T08:50:34.766Z"
+    "fetchedAt": "2026-11-14T08:55:44.319Z"
   },
   "248698": {
     "tmdbId": 248698,
@@ -663618,7 +663618,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/248698",
-    "fetchedAt": "2026-11-14T08:49:56.373Z"
+    "fetchedAt": "2026-11-14T08:54:52.685Z"
   },
   "249042": {
     "tmdbId": 249042,
@@ -664209,7 +664209,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/249042",
-    "fetchedAt": "2026-11-14T08:49:42.994Z"
+    "fetchedAt": "2026-11-14T08:54:34.379Z"
   },
   "250504": {
     "tmdbId": 250504,
@@ -665320,7 +665320,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/250504",
-    "fetchedAt": "2026-11-14T08:49:48.701Z"
+    "fetchedAt": "2026-11-14T08:54:42.129Z"
   },
   "252382": {
     "tmdbId": 252382,
@@ -665764,7 +665764,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/252382",
-    "fetchedAt": "2026-11-14T08:50:38.858Z"
+    "fetchedAt": "2026-11-14T08:55:49.881Z"
   },
   "254420": {
     "tmdbId": 254420,
@@ -666665,7 +666665,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/254420",
-    "fetchedAt": "2026-11-14T08:50:01.593Z"
+    "fetchedAt": "2026-11-14T08:54:59.911Z"
   },
   "262375": {
     "tmdbId": 262375,
@@ -667384,7 +667384,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/262375",
-    "fetchedAt": "2026-11-14T08:50:17.528Z"
+    "fetchedAt": "2026-11-14T08:55:21.412Z"
   },
   "283297": {
     "tmdbId": 283297,
@@ -667857,7 +667857,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/283297",
-    "fetchedAt": "2026-11-14T08:50:33.538Z"
+    "fetchedAt": "2026-11-14T08:55:42.707Z"
   },
   "285404": {
     "tmdbId": 285404,
@@ -669105,7 +669105,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/285404",
-    "fetchedAt": "2026-11-14T08:50:18.286Z"
+    "fetchedAt": "2026-11-14T08:55:22.408Z"
   },
   "287527": {
     "tmdbId": 287527,
@@ -670367,7 +670367,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/287527",
-    "fetchedAt": "2026-11-14T08:50:38.113Z"
+    "fetchedAt": "2026-11-14T08:55:48.884Z"
   },
   "294722": {
     "tmdbId": 294722,
@@ -670672,7 +670672,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/294722",
-    "fetchedAt": "2026-11-14T08:50:00.870Z"
+    "fetchedAt": "2026-11-14T08:54:58.876Z"
   },
   "296527": {
     "tmdbId": 296527,
@@ -670964,7 +670964,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/296527",
-    "fetchedAt": "2026-11-14T08:49:55.081Z"
+    "fetchedAt": "2026-11-14T08:54:50.921Z"
   },
   "299939": {
     "tmdbId": 299939,
@@ -672211,7 +672211,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/299939",
-    "fetchedAt": "2026-11-14T08:50:20.173Z"
+    "fetchedAt": "2026-11-14T08:55:24.993Z"
   },
   "323866": {
     "tmdbId": 323866,
@@ -672448,6 +672448,6 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/tv/323866",
-    "fetchedAt": "2026-11-14T08:49:54.786Z"
+    "fetchedAt": "2026-11-14T08:54:50.508Z"
   }
 };
