@@ -42,10 +42,6 @@ window.WLW_CATALOG = {
         "year": 2025
       },
       {
-        "title": "The Body",
-        "year": 2026
-      },
-      {
         "title": "Bridgerton",
         "year": 2020
       },
